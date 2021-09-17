@@ -187,4 +187,10 @@
     <value lang="mk" status="translated">Просечно</value>
     <value lang="de" status="translated">Durchschnittlich</value>
   </text>
+  <text key="add_city_button">
+    <context></context>
+      <value lang="en" status="translated">Add city</value>
+      <value lang="mk" status="translated">Додади град</value>
+      <value lang="de" status="translated">Stadt hinzufügen</value>
+  </text>
 </trema>
