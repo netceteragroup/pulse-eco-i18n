@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trema masterLang="de" noNamespaceSchemaLocation="http://software.group.nca/trema/schema/trema-1.0.xsd">
   <!--region Application-->
-  <text key="mon">
+  <text key="monday-short">
     <context></context>
     <value lang="en" status="translated">Mon</value>
     <value lang="mk" status="translated">Пон</value>
     <value lang="de" status="translated">Mo</value>
   </text>
-  <text key="tue">
+  <text key="tueseday-short">
     <context></context>
     <value lang="en" status="translated">Tue</value>
     <value lang="mk" status="translated">Вто</value>
     <value lang="de" status="translated">Di</value>
   </text>
-  <text key="wed">
+  <text key="wednesday-short">
     <context></context>
     <value lang="en" status="translated">Wed</value>
     <value lang="mk" status="translated">Сре</value>
     <value lang="de" status="translated">Mi</value>
   </text>
-  <text key="thu">
+  <text key="thursday-short">
     <context></context>
     <value lang="en" status="translated">Thu</value>
     <value lang="mk" status="translated">Чет</value>
     <value lang="de" status="translated">Do</value>
   </text>
-  <text key="fri">
+  <text key="friday-short">
     <context></context>
     <value lang="en" status="translated">Fri</value>
     <value lang="mk" status="translated">Пет</value>
     <value lang="de" status="translated">Fr</value>
   </text>
-  <text key="sat">
+  <text key="saturday-short">
     <context></context>
     <value lang="en" status="translated">Sat</value>
     <value lang="mk" status="translated">Саб</value>
     <value lang="de" status="translated">Sa</value>
   </text>
-  <text key="sun">
+  <text key="sunday-short">
     <context></context>
     <value lang="en" status="translated">Sun</value>
     <value lang="mk" status="translated">Нед</value>
@@ -45,15 +45,15 @@
   </text>
   <text key="crowdsourced_sensor_data">
     <context></context>
-    <value lang="en" status="translated">Crowdsourced sensor data</value>
-    <value lang="mk" status="translated">Податоци од заедницата</value>
-    <value lang="de" status="translated">Crowdsourced-Sensordaten</value>
+    <value lang="en" status="initial">Crowdsourced sensor data</value>
+    <value lang="mk" status="initial">Податоци од заедницата</value>
+    <value lang="de" status="initial">Crowdsourced-Sensordaten</value>
   </text>
   <text key="no_readings">
     <context></context>
-    <value lang="en" status="translated">No readings</value>
-    <value lang="mk" status="translated">Нема читања</value>
-    <value lang="de" status="translated">Keine Lesungen</value>
+    <value lang="en" status="initial">No readings</value>
+    <value lang="mk" status="initial">Нема читања</value>
+    <value lang="de" status="initial">Keine Lesungen</value>
   </text>
   <text key="past_week">
     <context></context>
@@ -63,63 +63,63 @@
   </text>
   <text key="unknown">
     <context></context>
-    <value lang="en" status="translated">Unknown</value>
-    <value lang="mk" status="translated">Непознато</value>
-    <value lang="de" status="translated">Unbekannt</value>
+    <value lang="en" status="initial">Unknown</value>
+    <value lang="mk" status="initial">Непознато</value>
+    <value lang="de" status="initial">Unbekannt</value>
   </text>
   <text key="disclaimer_short_message">
     <context></context>
-    <value lang="en" status="translated">Disclaimer: The data shown comes directly from the used sensors. We do not guarantee of their correctness.</value>
-    <value lang="mk" status="translated">Прикажаните податоци потекнуваат директно од самите сензори. Не гарантираме за нивната точност.</value>
-    <value lang="de" status="translated">Die angezeigten Daten stammen direkt von den verwendeten Sensoren. Wir übernehmen keine Garantie für deren Richtigkeit.</value>
+    <value lang="en" status="initial">Disclaimer: The data shown comes directly from the used sensors. We do not guarantee of their correctness.</value>
+    <value lang="mk" status="initial">Прикажаните податоци потекнуваат директно од самите сензори. Не гарантираме за нивната точност.</value>
+    <value lang="de" status="initial">Die angezeigten Daten stammen direkt von den verwendeten Sensoren. Wir übernehmen keine Garantie für deren Richtigkeit.</value>
   </text>
   <text key="privacy_policy">
     <context></context>
     <value lang="en" status="translated">Privacy Policy</value>
     <value lang="mk" status="translated">Политика за приватност</value>
-    <value lang="de" status="translated">Datenschutz-Bestimmungen</value>
+    <value lang="de" status="translated">Datenschutzrichtlinie</value>
   </text>
   <text key="details">
     <context></context>
-    <value lang="en" status="translated">Details</value>
-    <value lang="mk" status="translated">Детали</value>
-    <value lang="de" status="translated">Einzelheiten</value>
+    <value lang="en" status="initial">Details</value>
+    <value lang="mk" status="initial">Детали</value>
+    <value lang="de" status="initial">Einzelheiten</value>
   </text>
   <text key="results">
     <context></context>
-    <value lang="en" status="translated">Results</value>
-    <value lang="mk" status="translated">Резултати</value>
-    <value lang="de" status="translated">Ergebnisse</value>
+    <value lang="en" status="initial">Results</value>
+    <value lang="mk" status="initial">Резултати</value>
+    <value lang="de" status="initial">Ergebnisse</value>
   </text>
   <text key="suggested">
     <context></context>
-    <value lang="en" status="translated">Suggested</value>
-    <value lang="mk" status="translated">Предложени</value>
-    <value lang="de" status="translated">Empfohlen</value>
+    <value lang="en" status="initial">Suggested</value>
+    <value lang="mk" status="initial">Предложени</value>
+    <value lang="de" status="initial">Empfohlen</value>
   </text>
   <text key="search_city_or_choose_suggested">
     <context></context>
-    <value lang="en" status="translated">Search city, or choose suggested</value>
-    <value lang="mk" status="translated">Пребарувајте град или изберете од предложените</value>
-    <value lang="de" status="translated">Suche nach Stadt oder wähle vorgeschlagen</value>
+    <value lang="en" status="initial">Search city, or choose suggested</value>
+    <value lang="mk" status="initial">Пребарувајте град или изберете од предложените</value>
+    <value lang="de" status="initial">Suche nach Stadt oder wähle vorgeschlagen</value>
   </text>
   <text key="search_city_or_country">
     <context></context>
-    <value lang="en" status="translated">Search City or Country</value>
-    <value lang="mk" status="translated">Пребарување по град или земја</value>
-    <value lang="de" status="translated">Suche Stadt oder Land</value>
+    <value lang="en" status="initial">Search City or Country</value>
+    <value lang="mk" status="initial">Пребарување по град или земја</value>
+    <value lang="de" status="initial">Suche Stadt oder Land</value>
   </text>
   <text key="no_data_available">
     <context></context>
-    <value lang="en" status="translated">No data available. Try again later.</value>
-    <value lang="mk" status="translated">Нема достапни податоци. Обидете се повторно подоцна.</value>
-    <value lang="de" status="translated">Keine Daten verfügbar. Versuchen Sie es später erneut.</value>
+    <value lang="en" status="initial">No data available. Try again later.</value>
+    <value lang="mk" status="initial">Нема достапни податоци. Обидете се повторно подоцна.</value>
+    <value lang="de" status="initial">Keine Daten verfügbar. Versuchen Sie es später erneut.</value>
   </text>
   <text key="disclaimer_message">
     <context></context>
-    <value lang="en" status="translated">The data collected are not manipulated in any way. We do not guarantee of their correctness. The MOEPP sensor data are stored as receiver from their service, while the pulse.eco devices depend on the correctness of the used sensors: Nova PM SDS011/SDS021, DHT22 and Grove Sounds sensor. Please refer to their data sheets for details.</value>
-    <value lang="mk" status="translated">Собраните податоци не се манипулирани на никаков начин. Не гарантираме за нивната коректност. Податоците за MOEPP сензорот се зачувуваат онака како што се примени од нивниот серис, додека pulse.eco уредите зависат од исправноста на користените сензори: сензорот Nova PM SDS011 / SDS021, DHT22 и Grove Sounds. За повеќе детали, погледнете ги нивните документации.</value>
-    <value lang="de" status="translated">Die gesammelten Daten werden in keiner Weise manipuliert. Wir übernehmen keine Garantie für die Richtigkeit. Die MOEPP-Sensordaten werden als Empfänger von ihrem Dienst gespeichert, während die puls.eco-Geräte von der Richtigkeit der verwendeten Sensoren abhängen: Nova PM SDS011 / SDS021, DHT22 und Grove Sounds-Sensor. Einzelheiten entnehmen Sie bitte den Datenblättern.</value>
+    <value lang="en" status="initial">The data collected are not manipulated in any way. We do not guarantee of their correctness. The MOEPP sensor data are stored as receiver from their service, while the pulse.eco devices depend on the correctness of the used sensors: Nova PM SDS011/SDS021, DHT22 and Grove Sounds sensor. Please refer to their data sheets for details.</value>
+    <value lang="mk" status="initial">Собраните податоци не се манипулирани на никаков начин. Не гарантираме за нивната коректност. Податоците за MOEPP сензорот се зачувуваат онака како што се примени од нивниот серис, додека pulse.eco уредите зависат од исправноста на користените сензори: сензорот Nova PM SDS011 / SDS021, DHT22 и Grove Sounds. За повеќе детали, погледнете ги нивните документации.</value>
+    <value lang="de" status="initial">Die gesammelten Daten werden in keiner Weise manipuliert. Wir übernehmen keine Garantie für die Richtigkeit. Die MOEPP-Sensordaten werden als Empfänger von ihrem Dienst gespeichert, während die puls.eco-Geräte von der Richtigkeit der verwendeten Sensoren abhängen: Nova PM SDS011 / SDS021, DHT22 und Grove Sounds-Sensor. Einzelheiten entnehmen Sie bitte den Datenblättern.</value>
   </text>
   <text key="disclaimer">
     <context></context>
@@ -129,68 +129,68 @@
   </text>
   <text key="ok">
     <context></context>
-    <value lang="en" status="translated">OK</value>
-    <value lang="mk" status="translated">Во ред</value>
-    <value lang="de" status="translated">ОК</value>
+    <value lang="en" status="initial">OK</value>
+    <value lang="mk" status="initial">Во ред</value>
+    <value lang="de" status="initial">ОК</value>
   </text>
-  <text key="change_language_message">
+  <text key="change_language_message_ios">
     <context></context>
-    <value lang="en" status="translated">Applying this setting will change the language of the app to %@ and will refresh the app.</value>
-    <value lang="mk" status="translated">Примената на оваа поставка ќе го промени јазикот во %@ и ќе ја освежи апликацијата.</value>
-    <value lang="de" status="translated">Durch Anwenden dieser Einstellung wird die Sprache der App in %@ geändert und die App neu gestartet.</value>
+    <value lang="en" status="initial">Applying this setting will change the language of the app to %@ and will refresh the app.</value>
+    <value lang="mk" status="initial">Примената на оваа поставка ќе го промени јазикот во %@ и ќе ја освежи апликацијата.</value>
+    <value lang="de" status="initial">Durch Anwenden dieser Einstellung wird die Sprache der App in %@ geändert und die App neu gestartet.</value>
   </text>
   <text key="change_app_language">
     <context></context>
-    <value lang="en" status="translated">Change App Language</value>
-    <value lang="mk" status="translated">Промена на јазик</value>
-    <value lang="de" status="translated">App-Sprache ändern</value>
+    <value lang="en" status="initial">Change App Language</value>
+    <value lang="mk" status="initial">Промена на јазик</value>
+    <value lang="de" status="initial">App-Sprache ändern</value>
   </text>
   <text key="proceed">
     <context></context>
-    <value lang="en" status="translated">Proceed</value>
-    <value lang="mk" status="translated">Продолжи</value>
-    <value lang="de" status="translated">Vorgehen</value>
+    <value lang="en" status="initial">Proceed</value>
+    <value lang="mk" status="initial">Продолжи</value>
+    <value lang="de" status="initial">Vorgehen</value>
   </text>
   <text key="german">
     <context></context>
-    <value lang="en" status="translated">Deutsche</value>
-    <value lang="mk" status="translated">Deutsche</value>
-    <value lang="de" status="translated">Deutsche</value>
+    <value lang="en" status="initial">Deutsche</value>
+    <value lang="mk" status="initial">Deutsche</value>
+    <value lang="de" status="initial">Deutsche</value>
   </text>
   <text key="macedonian">
     <context></context>
-    <value lang="en" status="translated">Македонски</value>
-    <value lang="mk" status="translated">Македонски</value>
-    <value lang="de" status="translated">Македонски</value>
+    <value lang="en" status="initial">Македонски</value>
+    <value lang="mk" status="initial">Македонски</value>
+    <value lang="de" status="initial">Македонски</value>
   </text>
   <text key="english">
     <context></context>
-    <value lang="en" status="translated">English</value>
-    <value lang="mk" status="translated">English</value>
-    <value lang="de" status="translated">English</value>
+    <value lang="en" status="initial">English</value>
+    <value lang="mk" status="initial">English</value>
+    <value lang="de" status="initial">English</value>
   </text>
   <text key="done">
     <context></context>
-    <value lang="en" status="translated">Done</value>
-    <value lang="mk" status="translated">Готово</value>
-    <value lang="de" status="translated">Getan</value>
+    <value lang="en" status="initial">Done</value>
+    <value lang="mk" status="initial">Готово</value>
+    <value lang="de" status="initial">Getan</value>
   </text>
   <text key="cancel">
     <context></context>
-    <value lang="en" status="translated">Cancel</value>
-    <value lang="mk" status="translated">Затвори</value>
-    <value lang="de" status="translated">Stornieren</value>
+    <value lang="en" status="initial">Cancel</value>
+    <value lang="mk" status="initial">Затвори</value>
+    <value lang="de" status="initial">Stornieren</value>
   </text>
   <text key="average">
     <context></context>
-    <value lang="en" status="translated">Average</value>
-    <value lang="mk" status="translated">Просечно</value>
-    <value lang="de" status="translated">Durchschnittlich</value>
+    <value lang="en" status="initial">Average</value>
+    <value lang="mk" status="initial">Просечно</value>
+    <value lang="de" status="initial">Durchschnittlich</value>
   </text>
   <text key="add_city_button">
     <context></context>
-      <value lang="en" status="translated">Add city</value>
-      <value lang="mk" status="translated">Додади град</value>
-      <value lang="de" status="translated">Stadt hinzufügen</value>
+      <value lang="en" status="initial">Add city</value>
+      <value lang="mk" status="initial">Додади град</value>
+      <value lang="de" status="initial">Stadt hinzufügen</value>
   </text>
 </trema>
