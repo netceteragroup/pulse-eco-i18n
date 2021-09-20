@@ -7,7 +7,7 @@
     <value lang="mk" status="translated">Пон</value>
     <value lang="de" status="translated">Mo</value>
   </text>
-  <text key="tueseday-short">
+  <text key="tuesday-short">
     <context></context>
     <value lang="en" status="translated">Tue</value>
     <value lang="mk" status="translated">Вто</value>
