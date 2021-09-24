@@ -115,12 +115,6 @@
     <value lang="mk" status="initial">Нема достапни податоци. Обидете се повторно подоцна.</value>
     <value lang="de" status="translated">Keine Daten verfügbar. Versuchen Sie es später erneut.</value>
   </text>
-  <text key="disclaimer_message">
-    <context></context>
-    <value lang="en" status="initial">The data collected are not manipulated in any way. We do not guarantee of their correctness. The MOEPP sensor data are stored as receiver from their service, while the pulse.eco devices depend on the correctness of the used sensors: Nova PM SDS011/SDS021, DHT22 and Grove Sounds sensor. Please refer to their data sheets for details.</value>
-    <value lang="mk" status="initial">Собраните податоци не се манипулирани на никаков начин. Не гарантираме за нивната коректност. Податоците за MOEPP сензорот се зачувуваат онака како што се примени од нивниот серис, додека pulse.eco уредите зависат од исправноста на користените сензори: сензорот Nova PM SDS011 / SDS021, DHT22 и Grove Sounds. За повеќе детали, погледнете ги нивните документации.</value>
-    <value lang="de" status="translated">Die gesammelten Daten werden in keiner Weise manipuliert. Wir übernehmen keine Garantie für die Richtigkeit. Die MOEPP-Sensordaten werden unverändert von ihrem Dienst gespeichert, während die puls.eco-Geräte von der Richtigkeit der verwendeten Sensoren abhängen: Nova PM SDS011 / SDS021, DHT22 und Grove Sounds-Sensor. Details entnehmen Sie bitte den Datenblättern.</value>
-  </text>
   <text key="disclaimer">
     <context></context>
     <value lang="en" status="translated">Disclaimer</value>
@@ -192,5 +186,23 @@
       <value lang="en" status="initial">Add city</value>
       <value lang="mk" status="initial">Додади град</value>
       <value lang="de" status="translated">Stadt hinzufügen</value>
+  </text>
+  <text key="disclaimer_message">
+      <context>index</context>
+      <value lang="de" status="translated">Die präsentierten Daten sind Crowdsourcing-Daten. Wir übernehmen keine Garantie für die Richtigkeit. Die Sensordaten von Drittanbietern werden so gespeichert, wie sie von ihrem Dienst empfangen wurden, während die puls.eco-Geräte von der Richtigkeit der verwendeten Sensoren und den Bedingungen in der nächstgelegenen Umgebung abhängen. Weitere Informationen findest du in den FAQ.</value>
+      <value lang="en" status="translated">The data presented is crowdsourced. We do not guarantee of its correctness. The third-party sensor data are stored as received from their service, while the pulse.eco devices depend on the correctness of the used sensors and the conditions in their nearest surroundings. Please refer to the FAQ for details.</value>
+      <value lang="mk" status="translated">Претставените податоци потекнуваат од заедницата. Не ја гарантираме точноста на овие податоци. Податоците од трети извори се складирани и добиени од нивната услуга, додека уредите на pulse.eco зависат од точноста на користените сензори и условите во нивното непосредно опкружување. За повеќе детали упатете се во делот за Често поставувани прашања.</value>
+  </text>
+  <text key="faq">
+      <context>index</context>
+      <value lang="de" status="translated">Häufig gestellte Fragen</value>
+      <value lang="en" status="translated">FAQ</value>
+      <value lang="mk" status="translated">Често поставувани прашања</value>
+  </text>
+  <text key="city_missing_add_new">
+  <context></context>
+  <value lang="en" status="initial">Didn't find the city you were looking for? Add a new city</value>
+  <value lang="mk" status="initial">Не го најде градот кој го бараше? Додади нов град</value>
+  <value lang="de" status="initial"></value>
   </text>
 </trema>
