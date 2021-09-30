@@ -92,25 +92,25 @@
     <value lang="de" status="translated">Ergebnisse</value>
   </text>
   <text key="suggested">
-    <context></context>
+    <context>City select screen</context>
     <value lang="en" status="initial">Suggested</value>
     <value lang="mk" status="initial">Предложени</value>
     <value lang="de" status="translated">Vorgeschlagen</value>
   </text>
   <text key="search_city_or_choose_suggested">
-    <context></context>
+    <context>City select screen</context>
     <value lang="en" status="initial">Search city, or choose suggested</value>
     <value lang="mk" status="initial">Пребарувајте град или изберете од предложените</value>
     <value lang="de" status="translated">Stadt suchen oder vorgeschlagene wählen</value>
   </text>
   <text key="search_city_or_country">
-    <context></context>
+    <context>City select screen</context>
     <value lang="en" status="initial">Search City or Country</value>
     <value lang="mk" status="initial">Пребарување по град или земја</value>
     <value lang="de" status="translated">Suche Stadt oder Land</value>
   </text>
   <text key="no_data_available">
-    <context></context>
+    <context>City select search bar when there is no data available</context>
     <value lang="en" status="initial">No data available. Try again later.</value>
     <value lang="mk" status="initial">Нема достапни податоци. Обидете се повторно подоцна.</value>
     <value lang="de" status="translated">Keine Daten verfügbar. Versuchen Sie es später erneut.</value>
@@ -182,7 +182,7 @@
     <value lang="de" status="translated">Durchschnitt</value>
   </text>
   <text key="add_city_button">
-    <context></context>
+    <context>City select screen</context>
       <value lang="en" status="initial">Add city</value>
       <value lang="mk" status="initial">Додади град</value>
       <value lang="de" status="translated">Stadt hinzufügen</value>
@@ -204,5 +204,173 @@
   <value lang="en" status="initial">Didn't find the city you were looking for? Add a new city</value>
   <value lang="mk" status="initial">Не го најде градот кој го бараше? Додади нов град</value>
   <value lang="de" status="initial"></value>
+  </text>
+  <text key="select_city">
+    <context>Toolbar Select City</context>
+    <value lang="en" status="initial">Select city</value>
+    <value lang="mk" status="initial">Изберете град</value>
+    <value lang="de" status="initial">Stadt wählen</value>
+  </text>
+  <text key="technical_error">
+    <context>Technical error</context>
+    <value lang="en" status="initial">Technical error occurred. Please try again.</value>
+    <value lang="mk" status="initial">Настана техничка грешка. Ве молиме обидете се повторно.</value>
+    <value lang="de" status="initial">Technischer Fehler aufgetreten. Bitte versuche es erneut.</value>
+  </text>
+  <text key="select_sensors">
+    <context>Bottom sheet button if there are no sensors selected</context>
+    <value lang="en" status="initial">Select sensor/s</value>
+    <value lang="mk" status="initial">Изберете сензор/и</value>
+    <value lang="de" status="initial">Sensor/en auswählen</value>
+  </text>
+  <text key="no_sensors_selected">
+    <context>Bottom sheet message if there are no sensors selected</context>
+    <value lang="en" status="initial">You can select up to 5 sensors by clicking the pins on the map. Bookmark them so they can be displayed here. You can also select sensors from the button.</value>
+    <value lang="mk" status="initial">Можете да селектирате намногу 5 сензори со одбирање на мапата. Додадете ги во омилени за да бидат прикажани тука. Можете да додадете омилени сензори и со копчето.</value>
+    <value lang="de" status="initial">Sie können bis zu 5 Sensoren auswählen, indem Sie auf die Stifte auf der Karte klicken. Setzen Sie ein Lesezeichen, damit sie hier angezeigt werden können. Sie können auch Sensoren über die Schaltfläche auswählen.</value>
+  </text>
+  <text key="sensors_selected">
+    <context>Bottom sheet message if there are 1 or more sensors selected</context>
+    <value lang="en" status="initial">Graph data for selected sensors</value>
+    <value lang="mk" status="initial">Графички податоци за селекитираните сензори</value>
+    <value lang="de" status="initial">Grafikdaten für ausgewählte Sensoren</value>
+  </text>
+  <text key="day_for_weekly_average_data">
+    <context>Bottom sheet day for weekly average data</context>
+    <value lang="en" status="initial">Day</value>
+    <value lang="mk" status="initial">Den</value>
+    <value lang="de" status="initial">Tag</value>
+  </text>
+  <text key="no_internet_connection">
+    <context>No internet connection</context>
+    <value lang="en" status="initial">No internet connection.</value>
+    <value lang="mk" status="initial">Нема интернет конекција.</value>
+    <value lang="de" status="initial">Keine Internet verbindung.</value>
+  </text>
+  <text key="unhandled_technical_error">
+    <context>Unhandled technical error</context>
+    <value lang="en" status="initial">Unhandled technical error.</value>
+    <value lang="mk" status="initial">Неработена техничка грешка.</value>
+    <value lang="de" status="initial">Unbehandelter technischer Fehler.</value>
+  </text>
+  <text key="msg_removed">
+    <context>Message displayed when city is deleted from selected cities</context>
+    <value lang="en" status="initial">Removed from selected cities</value>
+    <value lang="mk" status="initial">Отстранет од листата на избрани градови</value>
+    <value lang="de" status="initial">Aus ausgewählten Städten entfernt</value>
+  </text>
+  <text key="missing_location_permission_error">
+    <context>Message for missing location permission after starting app</context>
+    <value lang="en" status="initial">Missing location permission needed to sort cities by distance. Please allow in application settings.</value>
+    <value lang="mk" status="initial">Недостасуваат привилегии за сортирање на градовите според оддалеченост. Ве молиме овозможете го тоа во поставките.</value>
+    <value lang="de" status="initial">Fehlende Standortgenehmigung erforderlich, um Städte nach Entfernung zu sortieren. Bitte in den Anwendungseinstellungen zulassen.</value>
+  </text>
+  <text key="location_services_disabled_error">
+    <context>Message for disabled location services after starting app</context>
+    <value lang="en" status="initial">Location services disabled, can't acquire current location. Please allow in location services in phone settings.</value>
+    <value lang="mk" status="initial">Не може да се добие точна локација. Ве молиме вклучете локација.</value>
+    <value lang="de" status="initial">Standortdienste deaktiviert, aktueller Standort kann nicht erfasst werden. Bitte erlauben Sie in Ortungsdiensten in den Telefoneinstellungen.</value>
+  </text>
+  <text key="change_language_message_android">
+    <context>Change language message</context>
+    <value lang="en" status="initial">Applying this setting will change the language of the app and will refresh the app. Are you sure you want to change the language?</value>
+    <value lang="mk" status="initial">Примена на оваа поставка ќе го смени јазикот на апликацијата и ќе ја освежи апликацијата. Дали сте сигурни дека сакате да го смените јазикот?</value>
+    <value lang="de" status="initial">Durch das Anwenden dieser Einstellung wird die Sprache der App geändert und die App aktualisiert. Möchten Sie die Sprache wirklich ändern?</value>
+  </text>
+  <text key="tooltip_maximum_sensors_reached">
+    <context>Bottom sheet adding sensors message</context>
+    <value lang="en" status="initial">You can add up to 5 sensors</value>
+    <value lang="mk" status="initial">Можете да додадете најмногу 5 сензори</value>
+    <value lang="de" status="initial">Sie können bis zu 5 Sensoren hinzufügen</value>
+  </text>
+  <text key="confirmation">
+    <context></context>
+    <value lang="en" status="initial">Confirmation</value>
+    <value lang="mk" status="initial">Потврда</value>
+    <value lang="de" status="initial">Bestätigung</value>
+  </text>
+  <text key="yes">
+    <context></context>
+    <value lang="en" status="initial">Yes</value>
+    <value lang="mk" status="initial">Да</value>
+    <value lang="de" status="initial">Ja</value>
+  </text>
+  <text key="no">
+    <context></context>
+    <value lang="en" status="initial">No</value>
+    <value lang="mk" status="initial">Не</value>
+    <value lang="de" status="initial">Nein</value>
+  </text>
+  <text key="past_week_for_whole_city">
+    <context>Bottom sheet average data for city</context>
+    <value lang="en" status="initial">Past week average data for %s (%s)</value>
+    <value lang="mk" status="initial">Просечни податоци за минатата недела за %s (%s)</value>
+    <value lang="de" status="initial">Durchschnittliche Daten der letzten Woche für %s (%s)</value>
+  </text>
+  <text key="past_week_for_specific_sensor">
+    <context>Bottom sheet average data for specific sensor</context>
+    <value lang="en" status="initial">Past week average data (%s)</value>
+    <value lang="mk" status="initial">Просечни податоци за минатата недела (%s)</value>
+    <value lang="de" status="initial">Durchschnittliche Daten der letzten Woche (%s)</value>
+  </text>
+  <text key="map_type_title">
+    <context>3 types of map on Android</context>
+    <value lang="en" status="initial">MAP TYPE</value>
+    <value lang="mk" status="initial">ТИП НА МАПА</value>
+    <value lang="de" status="initial">KARTENTYP</value>
+  </text>
+  <text key="map_type_default">
+    <context>Map type default</context>
+    <value lang="en" status="initial">Default</value>
+    <value lang="mk" status="initial">Стандардно</value>
+    <value lang="de" status="initial">Standard</value>
+  </text>
+  <text key="map_type_satellite">
+    <context>Map type satellite</context>
+    <value lang="en" status="initial">Satellite</value>
+    <value lang="mk" status="initial">Сателитски</value>
+    <value lang="de" status="initial">Satellit</value>
+  </text>
+  <text key="map_type_terrain">
+    <context>Map type terrain</context>
+    <value lang="en" status="initial">Terrain</value>
+    <value lang="mk" status="initial">Земјиште</value>
+    <value lang="de" status="initial">Terrain</value>
+  </text>
+  <text key="data_visualization_title">
+    <context>Data visualization</context>
+    <value lang="en" status="initial">DATA VISUALIZATION</value>
+    <value lang="mk" status="initial">ВИЗУЕЛИЗАЦИЈА</value>
+    <value lang="de" status="initial">DATENVISUALISIERUNG</value>
+  </text>
+  <text key="data_visualization_sensor_marker">
+    <context>Data visualization sensor marker</context>
+    <value lang="en" status="initial">Sensors</value>
+    <value lang="mk" status="initial">Сензори</value>
+    <value lang="de" status="initial">Sensormarkierungen</value>
+  </text>
+  <text key="data_visualization_geographic">
+    <context>Data visualization geographic</context>
+    <value lang="en" status="initial">Geographic</value>
+    <value lang="mk" status="initial">Област</value>
+    <value lang="de" status="initial">Geografisch</value>
+  </text>
+  <text key="sensor_select_dialog_warning_when_more_selected">
+    <context>Bottom sheet sensor select dialog warning when there are more than 5 sensors selected</context>
+    <value lang="en" status="initial">Maximum 5 favourite sensors</value>
+    <value lang="mk" status="initial">Најмногу 5 омилени сензори</value>
+    <value lang="de" status="initial">Maximal 5 Lieblingssensoren</value>
+  </text>
+  <text key="not_available">
+    <context>Bottom sheet not available data for selected sensors</context>
+    <value lang="en" status="initial">N/A</value>
+    <value lang="mk" status="initial">N/A</value>
+    <value lang="de" status="initial">N/A</value>
+  </text>
+  <text key="default_no_sensors_selected">
+    <context>Bottom sheet message when there are no sensors selected</context>
+    <value lang="en" status="initial">No selected sensors</value>
+    <value lang="mk" status="initial">Нема селектирани сензори</value>
+    <value lang="de" status="initial">Keine ausgewählten Sensoren</value>
   </text>
 </trema>
