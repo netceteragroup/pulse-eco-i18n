@@ -373,4 +373,16 @@
     <value lang="mk" status="initial">Нема селектирани сензори</value>
     <value lang="de" status="initial">Keine ausgewählten Sensoren</value>
   </text>
+  <text key="history">
+    <context></context>
+    <value lang="en" status="initial">History</value>
+    <value lang="mk" status="initial">Историја</value>
+    <value lang="de" status="initial">Geschichte</value>
+  </text>
+  <text key="currently_selected">
+    <context></context>
+    <value lang="en" status="initial">Currently selected</value>
+    <value lang="mk" status="initial">Моментално избрано</value>
+    <value lang="de" status="initial">Momentan ausgewählt</value>
+  </text>
 </trema>
