@@ -385,4 +385,10 @@
     <value lang="mk" status="initial">Моментално избрано</value>
     <value lang="de" status="initial">Momentan ausgewählt</value>
   </text>
+  <text key="app_name">
+    <context></context>
+    <value lang="en" status="initial">pulse.eco</value>
+    <value lang="mk" status="initial">pulse.eco</value>
+    <value lang="de" status="initial">pulse.eco</value>
+  </text>
 </trema>
