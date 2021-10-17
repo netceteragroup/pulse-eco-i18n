@@ -790,14 +790,14 @@
 		<value lang="de" status="translated">Die Passwörter stimmen nicht überein</value>
 		<value lang="en" status="translated">Passwords did not match</value>
 		<value lang="mk" status="translated">Лозинките не се совпаѓаат</value>
-		<value lang="ro" status="translated">Parolele nu sunt identice/value>
+		<value lang="ro" status="translated">Parolele nu sunt identice</value>
 	</text>
 	<text key="password.placeholder.old">
 		<context>Change Password</context>
 		<value lang="de" status="translated">Gib das alte Passwort ein</value>
 		<value lang="en" status="translated">Enter Old Password</value>
 		<value lang="mk" status="translated">Внесете ја лозинката</value>
-		<value lang="ro" status="translated">Introduceți parola veche </value>
+		<value lang="ro" status="translated">Introduceți parola veche</value>
 	</text>
 	<text key="password.new">
 		<context>Change Password</context>
@@ -1581,7 +1581,7 @@
 		<value lang="de" status="translated">Unangenehm laut. Vorübergehender Hörverlust kann nach längerer Exposition mit möglichen Ohrenschmerzen und Schwindel auftreten.</value>
 		<value lang="en" status="translated">Uncomfortably loud. Temporary hearing loss may occur after prolonged exposure with possible ear pain and dizziness.</value>
 		<value lang="mk" status="translated">Непријатно гласно. Можно е привремено губење на слухот по долга изложеност со можна болка во ушите и вртоглавица.</value>
-		<value lang="ro" status="translated">Inconfortabil de tare. Pierderea temporară a auzului poate apărea după expunere prelungită cu posibile dureri ale urechii și amețeli.</value
+		<value lang="ro" status="translated">Inconfortabil de tare. Pierderea temporară a auzului poate apărea după expunere prelungită cu posibile dureri ale urechii și amețeli.</value>
 	</text>
 	<text key="measurements.noise_dba.purpleBand.suggestion">
 		<context>measurements</context>
@@ -1609,7 +1609,7 @@
 		<value lang="de" status="translated">Ozon (O3) Konzentration in der Luft</value>
 		<value lang="en" status="translated">Ozone (O3) concetration in the air</value>
 		<value lang="mk" status="translated">Концентрација на озон (O3) во воздухот</value>
-		<value lang="ro" status="translated">Concentrația de ozon (O3) în aer/value>
+		<value lang="ro" status="translated">Concentrația de ozon (O3) în aer</value>
 	</text>
 	<text key="measurements.o3.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1650,7 +1650,7 @@
 		<context>measurements</context>
 		<value lang="de" status="translated">Denke daran, den Aufenthalt im Freien zu begrenzen, wenn du empfindlich gegen schlechte Luft bist.</value>
 		<value lang="en" status="translated">Consider limiting your outside exposure if you're sensitive to bad air.</value>
-		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>\
+		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="ro" status="translated">Luați în considerare limitarea expunerii exterioare dacă sunteți sensibil la aer rău.</value>
 	</text>
 	<text key="measurements.o3.orangeBand.shortGrade">
