@@ -382,8 +382,7 @@
             their correctness.</value>
 		<value lang="mk" status="translated">Прикажаните податоци потекнуваат директно од самите сензори. Не
             гарантираме за нивната точност.</value>
-        <value lang="ro" status="translated">Datele afișate provin direct de la senzorii folosiți. Nu garantăm corectitudinea 
-        	lor.</value>
+        <value lang="ro" status="translated">Datele afișate provin direct de la senzorii folosiți. Nu garantăm corectitudinea lor.</value>
 	</text>
 	<text key="frontmap.disclaimer.details">
 		<context>disclaimer</context>
