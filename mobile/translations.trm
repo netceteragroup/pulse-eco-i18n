@@ -174,7 +174,7 @@
     <value lang="en" status="translated">Deutsch</value>
     <value lang="mk" status="translated">Deutsch</value>
     <value lang="de" status="translated">Deutsch</value>
-    <value lang="ro" status="translated">Germană</value>
+    <value lang="ro" status="translated">Deutsch</value>
   </text>
   <text key="macedonian">
     <context></context>
@@ -188,7 +188,7 @@
     <value lang="en" status="initial">English</value>
     <value lang="mk" status="initial">English</value>
     <value lang="de" status="initial">English</value>
-    <value lang="ro" status="translated">Engleză</value>
+    <value lang="ro" status="translated">English</value>
   </text>
   <text key="done">
     <context></context>
@@ -236,7 +236,7 @@
     <context></context>
     <value lang="en" status="initial">Didn't find the city you were looking for? Add a new city</value>
     <value lang="mk" status="initial">Не го најде градот кој го бараше? Додади нов град</value>
-    <value lang="de" status="initial"></value>
+    <value lang="de" status="initial">Stadt nicht gefunden? Neue Stadt hinzufügen</value>
     <value lang="ro" status="translated">Nu ați găsit orașul pe care îl căutați? Adăugați un oraș nou.</value>
   </text>
   <text key="select_city">
