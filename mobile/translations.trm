@@ -190,6 +190,13 @@
     <value lang="de" status="initial">English</value>
     <value lang="ro" status="translated">English</value>
   </text>
+  <text key="romanian">
+    <context></context>
+    <value lang="en" status="initial">Română</value>
+    <value lang="mk" status="initial">Română</value>
+    <value lang="de" status="initial">Română</value>
+    <value lang="ro" status="initial">Română</value>
+  </text>
   <text key="done">
     <context></context>
     <value lang="en" status="initial">Done</value>
