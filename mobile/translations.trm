@@ -134,13 +134,6 @@
     <value lang="de" status="translated">Keine Daten verfügbar. Versuchen Sie es später erneut.</value>
     <value lang="sr" status="initial">Podaci su nedostupni. Probajte ponovo.</value>
   </text>
-  <text key="disclaimer_message">
-    <context></context>
-    <value lang="en" status="initial">The data collected are not manipulated in any way. We do not guarantee of their correctness. The MOEPP sensor data are stored as receiver from their service, while the pulse.eco devices depend on the correctness of the used sensors: Nova PM SDS011/SDS021, DHT22 and Grove Sounds sensor. Please refer to their data sheets for details.</value>
-    <value lang="mk" status="initial">Собраните податоци не се манипулирани на никаков начин. Не гарантираме за нивната коректност. Податоците за MOEPP сензорот се зачувуваат онака како што се примени од нивниот серис, додека pulse.eco уредите зависат од исправноста на користените сензори: сензорот Nova PM SDS011 / SDS021, DHT22 и Grove Sounds. За повеќе детали, погледнете ги нивните документации.</value>
-    <value lang="de" status="initial">Die gesammelten Daten werden in keiner Weise manipuliert. Wir übernehmen keine Garantie für die Richtigkeit. Die MOEPP-Sensordaten werden als Empfänger von ihrem Dienst gespeichert, während die puls.eco-Geräte von der Richtigkeit der verwendeten Sensoren abhängen: Nova PM SDS011 / SDS021, DHT22 und Grove Sounds-Sensor. Einzelheiten entnehmen Sie bitte den Datenblättern.</value>
-    <value lang="sr" status="initial">Prikupljeni podaci nisu promenjeni ni na koji način. Ne garantujemo njihov kvalitet. Podaci sa MOEPP senzora se skladište u istom obliku kakvom su primljeni, dok podaci sa pulse.eco uređaja zavise od korišćenih senzora: Nova PM SDS011/SDS021, DHT22 i Grove Sounds (za više detalja pogledajte njihovu dokumentaciju).</value>
-  </text>
   <text key="disclaimer">
     <context></context>
     <value lang="en" status="translated">Disclaimer</value>
@@ -201,7 +194,6 @@
     <context></context>
     <value lang="en" status="initial">English</value>
     <value lang="mk" status="initial">English</value>
-    <value lang="de" status="initial">English</value>
     <value lang="de" status="initial">English</value>
     <value lang="sr" status="initial">English</value>
   </text>
