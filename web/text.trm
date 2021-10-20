@@ -539,6 +539,7 @@
 		<value lang="en" status="translated">Privacy Policy</value>
 		<value lang="mk" status="translated">Политиката за приватност</value>
 		<value lang="sr" status="initial">Politiku privatnosti</value>
+		<value lang="ro" status="translated">Politica de confidențialitate</value>
 	</text>
 	<text key="register.privacy.policy.accept">
 		<context>index</context>
@@ -546,16 +547,8 @@
 		<value lang="en" status="translated">and I accept it.</value>
 		<value lang="mk" status="translated">и ја прифаќам.</value>
 		<value lang="sr" status="initial">i prihvatam je.</value>
+   		<value lang="ro" status="translated">și o accept.</value>
 	</text>
-		<value lang="ro" status="translated">Politica de confidențialitate</value>
-	</text>
-		<text key="register.privacy.policy.accept">
-    		<context>index</context>
-    		<value lang="de" status="translated">gelesen und akzeptiert.</value>
-    		<value lang="en" status="translated">and I accept it.</value>
-    		<value lang="mk" status="translated">и ја прифаќам.</value>
-    		<value lang="ro" status="translated">și o accept.</value>
-    	</text>
 	<text key="frontmap.current.situation">
 		<context>index</context>
 		<value lang="de" status="translated">Momentane Situation:</value>

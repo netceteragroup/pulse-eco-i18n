@@ -294,6 +294,7 @@
     <value lang="en" status="initial">Select city</value>
     <value lang="mk" status="initial">Изберете град</value>
     <value lang="de" status="initial">Stadt wählen</value>
+    <value lang="sr" status="initial">Izaberi grad</value>
     <value lang="ro" status="translated">Selectați orașul</value>
   </text>
   <text key="technical_error">
@@ -301,6 +302,7 @@
     <value lang="en" status="initial">Technical error occurred. Please try again.</value>
     <value lang="mk" status="initial">Настана техничка грешка. Ве молиме обидете се повторно.</value>
     <value lang="de" status="initial">Technischer Fehler aufgetreten. Bitte versuche es erneut.</value>
+    <value lang="sr" status="initial">Desila se tehnička greške. Pokušaj ponovo.</value>
     <value lang="ro" status="translated">A apărut o eroare tehnică. Vă rugăm să încercați din nou.</value>
   </text>
   <text key="select_sensors">
@@ -308,6 +310,7 @@
     <value lang="en" status="initial">Select sensor/s</value>
     <value lang="mk" status="initial">Изберете сензор/и</value>
     <value lang="de" status="initial">Sensor/en auswählen</value>
+    <value lang="sr" status="initial">Izaberi senzor</value>
     <value lang="ro" status="translated">Selectați senzorii</value>
   </text>
   <text key="no_sensors_selected">
@@ -315,6 +318,7 @@
     <value lang="en" status="initial">You can select up to 5 sensors by clicking the pins on the map. Bookmark them so they can be displayed here. You can also select sensors from the button.</value>
     <value lang="mk" status="initial">Можете да селектирате намногу 5 сензори со одбирање на мапата. Додадете ги во омилени за да бидат прикажани тука. Можете да додадете омилени сензори и со копчето.</value>
     <value lang="de" status="initial">Sie können bis zu 5 Sensoren auswählen, indem Sie auf die Stifte auf der Karte klicken. Setzen Sie ein Lesezeichen, damit sie hier angezeigt werden können. Sie können auch Sensoren über die Schaltfläche auswählen.</value>
+    <value lang="sr" status="initial">Možeš izabrati do 5 senzora klikom pinova na mapi. Dodaj ih kao omiljene da bi ovde bili prikazani. Izbor senzora je moguć i preko dugmeta.</value>
     <value lang="ro" status="translated">Puteți selecta până la 5 senzori făcând clic pe pinii de pe hartă. Marcați-i astfel încât să poată fi afișati aici. De asemenea, puteți selecta senzori din buton.</value>
   </text>
   <text key="sensors_selected">
@@ -322,6 +326,7 @@
     <value lang="en" status="initial">Graph data for selected sensors</value>
     <value lang="mk" status="initial">Графички податоци за селекитираните сензори</value>
     <value lang="de" status="initial">Grafikdaten für ausgewählte Sensoren</value>
+    <value lang="sr" status="initial">Grafički prikaz podataka za izabrane senzore</value>
     <value lang="ro" status="translated">Date grafice pentru senzorii selectați</value>
   </text>
   <text key="day_for_weekly_average_data">
@@ -329,6 +334,7 @@
     <value lang="en" status="initial">Day</value>
     <value lang="mk" status="initial">Den</value>
     <value lang="de" status="initial">Tag</value>
+    <value lang="sr" status="initial">Dan</value>
     <value lang="ro" status="translated">Zi</value>
   </text>
   <text key="no_internet_connection">
@@ -336,6 +342,7 @@
     <value lang="en" status="initial">No internet connection.</value>
     <value lang="mk" status="initial">Нема интернет конекција.</value>
     <value lang="de" status="initial">Keine Internet verbindung.</value>
+    <value lang="sr" status="initial">Nema konekcije.</value>
     <value lang="ro" status="translated">Fără conexiune la internet.</value>
   </text>
   <text key="unhandled_technical_error">
@@ -343,6 +350,7 @@
     <value lang="en" status="initial">Unhandled technical error.</value>
     <value lang="mk" status="initial">Неработена техничка грешка.</value>
     <value lang="de" status="initial">Unbehandelter technischer Fehler.</value>
+    <value lang="sr" status="initial">Neuhvaćena tehnička greška.</value>
     <value lang="ro" status="translated">Eroare tehnică nesoluționată.</value>
   </text>
   <text key="msg_removed">
@@ -350,6 +358,7 @@
     <value lang="en" status="initial">Removed from selected cities</value>
     <value lang="mk" status="initial">Отстранет од листата на избрани градови</value>
     <value lang="de" status="initial">Aus ausgewählten Städten entfernt</value>
+    <value lang="sr" status="initial">Uklonjen iz liste izabranih gradova</value>
     <value lang="ro" status="translated">Eliminat din orașele selectate.</value>
   </text>
   <text key="missing_location_permission_error">
@@ -357,6 +366,7 @@
     <value lang="en" status="initial">Missing location permission needed to sort cities by distance. Please allow in application settings.</value>
     <value lang="mk" status="initial">Недостасуваат привилегии за сортирање на градовите според оддалеченост. Ве молиме овозможете го тоа во поставките.</value>
     <value lang="de" status="initial">Fehlende Standortgenehmigung erforderlich, um Städte nach Entfernung zu sortieren. Bitte in den Anwendungseinstellungen zulassen.</value>
+    <value lang="sr" status="initial">Nedovoljno privilegija za sortiranje liste gradova po udaljenosti. Promeni podešavanja.</value>
     <value lang="ro" status="translated">Lipsește permisiunea de localizare necesară pentru a sorta orașele după distanță. Vă rugăm să permiteți setările aplicației.</value>
   </text>
   <text key="location_services_disabled_error">
@@ -364,6 +374,7 @@
     <value lang="en" status="initial">Location services disabled, can't acquire current location. Please allow in location services in phone settings.</value>
     <value lang="mk" status="initial">Не може да се добие точна локација. Ве молиме вклучете локација.</value>
     <value lang="de" status="initial">Standortdienste deaktiviert, aktueller Standort kann nicht erfasst werden. Bitte erlauben Sie in Ortungsdiensten in den Telefoneinstellungen.</value>
+    <value lang="sr" status="initial">Nemoguće je odrediti tačnu lokaciju. Promeni podešavanja.</value>
     <value lang="ro" status="translated">Serviciile de localizare sunt dezactivate, nu pot accesa locația curentă. Vă rugăm să permiteți serviciile de localizare în setările telefonului.</value>
   </text>
   <text key="change_language_message_android">
@@ -371,6 +382,7 @@
     <value lang="en" status="initial">Applying this setting will change the language of the app and will refresh the app. Are you sure you want to change the language?</value>
     <value lang="mk" status="initial">Примена на оваа поставка ќе го смени јазикот на апликацијата и ќе ја освежи апликацијата. Дали сте сигурни дека сакате да го смените јазикот?</value>
     <value lang="de" status="initial">Durch das Anwenden dieser Einstellung wird die Sprache der App geändert und die App aktualisiert. Möchten Sie die Sprache wirklich ändern?</value>
+    <value lang="sr" status="initial">Primena ovih podešavanja će dovesti do promene jezika aplikacije i restartovanje iste. Da li ste sigurni?</value>
     <value lang="ro" status="translated">Aplicarea acestei setări va schimba limba aplicației și va actualiza aplicația. Sigur doriți să schimbați limba?</value>
   </text>
   <text key="tooltip_maximum_sensors_reached">
@@ -378,6 +390,7 @@
     <value lang="en" status="initial">You can add up to 5 sensors</value>
     <value lang="mk" status="initial">Можете да додадете најмногу 5 сензори</value>
     <value lang="de" status="initial">Sie können bis zu 5 Sensoren hinzufügen</value>
+    <value lang="sr" status="initial">Možeš dodati najviše 5 senzora.</value>
     <value lang="ro" status="translated">Puteți adăuga până la 5 senzori</value>
   </text>
   <text key="confirmation">
@@ -385,6 +398,7 @@
     <value lang="en" status="initial">Confirmation</value>
     <value lang="mk" status="initial">Потврда</value>
     <value lang="de" status="initial">Bestätigung</value>
+    <value lang="sr" status="initial">Potvrda</value>
     <value lang="ro" status="translated">Confirmare</value>
   </text>
   <text key="yes">
@@ -392,6 +406,7 @@
     <value lang="en" status="initial">Yes</value>
     <value lang="mk" status="initial">Да</value>
     <value lang="de" status="initial">Ja</value>
+    <value lang="sr" status="initial">Da</value>
     <value lang="ro" status="translated">Da</value>
   </text>
   <text key="no">
@@ -399,6 +414,7 @@
     <value lang="en" status="initial">No</value>
     <value lang="mk" status="initial">Не</value>
     <value lang="de" status="initial">Nein</value>
+    <value lang="sr" status="initial">Ne</value>
     <value lang="ro" status="translated">Nu</value>
   </text>
   <text key="past_week_for_whole_city">
@@ -406,6 +422,7 @@
     <value lang="en" status="initial">Past week average data for %s (%s)</value>
     <value lang="mk" status="initial">Просечни податоци за минатата недела за %s (%s)</value>
     <value lang="de" status="initial">Durchschnittliche Daten der letzten Woche für %s (%s)</value>
+    <value lang="sr" status="initial">Prosečne vrednosti za prošlu nedelju za %s (%s)</value>
     <value lang="ro" status="translated">Date medii săptămâna trecută pentru %s (%s)</value>
   </text>
   <text key="past_week_for_specific_sensor">
@@ -413,6 +430,7 @@
     <value lang="en" status="initial">Past week average data (%s)</value>
     <value lang="mk" status="initial">Просечни податоци за минатата недела (%s)</value>
     <value lang="de" status="initial">Durchschnittliche Daten der letzten Woche (%s)</value>
+    <value lang="sr" status="initial">Prosečne vrednosti za prošlu nedelju (%s)</value>
     <value lang="ro" status="translated">Datele medii de săptămâna trecută (%s)</value>
   </text>
   <text key="map_type_title">
@@ -420,6 +438,7 @@
     <value lang="en" status="initial">MAP TYPE</value>
     <value lang="mk" status="initial">ТИП НА МАПА</value>
     <value lang="de" status="initial">KARTENTYP</value>
+    <value lang="sr" status="initial">TIP KARTE</value>
     <value lang="ro" status="translated">TIP HARTA</value>
   </text>
   <text key="map_type_default">
@@ -427,6 +446,7 @@
     <value lang="en" status="initial">Default</value>
     <value lang="mk" status="initial">Стандардно</value>
     <value lang="de" status="initial">Standard</value>
+    <value lang="sr" status="initial">Standardno</value>
     <value lang="ro" status="translated">Implicit</value>
   </text>
   <text key="map_type_satellite">
@@ -434,6 +454,7 @@
     <value lang="en" status="initial">Satellite</value>
     <value lang="mk" status="initial">Сателитски</value>
     <value lang="de" status="initial">Satellit</value>
+    <value lang="sr" status="initial">Satelitski</value>
     <value lang="ro" status="translated">Satelit</value>
   </text>
   <text key="map_type_terrain">
@@ -441,6 +462,7 @@
     <value lang="en" status="initial">Terrain</value>
     <value lang="mk" status="initial">Земјиште</value>
     <value lang="de" status="initial">Terrain</value>
+    <value lang="sr" status="initial">Teren</value>
     <value lang="ro" status="translated">Teren</value>
   </text>
   <text key="data_visualization_title">
@@ -448,6 +470,7 @@
     <value lang="en" status="initial">DATA VISUALIZATION</value>
     <value lang="mk" status="initial">ВИЗУЕЛИЗАЦИЈА</value>
     <value lang="de" status="initial">DATENVISUALISIERUNG</value>
+    <value lang="sr" status="initial">VIZUALIZACIJA</value>
     <value lang="ro" status="translated">VIZUALIZAREA DATELOR</value>
   </text>
   <text key="data_visualization_sensor_marker">
@@ -455,6 +478,7 @@
     <value lang="en" status="initial">Sensors</value>
     <value lang="mk" status="initial">Сензори</value>
     <value lang="de" status="initial">Sensormarkierungen</value>
+    <value lang="sr" status="initial">Senzori</value>
     <value lang="ro" status="translated">Senzori</value>
   </text>
   <text key="data_visualization_geographic">
@@ -462,6 +486,7 @@
     <value lang="en" status="initial">Geographic</value>
     <value lang="mk" status="initial">Област</value>
     <value lang="de" status="initial">Geografisch</value>
+    <value lang="sr" status="initial">Geografski</value>
     <value lang="ro" status="translated">Geografic</value>
   </text>
   <text key="sensor_select_dialog_warning_when_more_selected">
@@ -469,6 +494,7 @@
     <value lang="en" status="initial">Maximum 5 favourite sensors</value>
     <value lang="mk" status="initial">Најмногу 5 омилени сензори</value>
     <value lang="de" status="initial">Maximal 5 Lieblingssensoren</value>
+    <value lang="sr" status="initial">Najviše 5 senzora</value>
     <value lang="ro" status="translated">Maxim 5 senzori preferați</value>
   </text>
   <text key="not_available">
@@ -476,6 +502,7 @@
     <value lang="en" status="initial">N/A</value>
     <value lang="mk" status="initial">N/A</value>
     <value lang="de" status="initial">N/A</value>
+    <value lang="sr" status="initial">N/A</value>
     <value lang="ro" status="translated">N/A</value>
   </text>
   <text key="default_no_sensors_selected">
@@ -483,6 +510,7 @@
     <value lang="en" status="initial">No selected sensors</value>
     <value lang="mk" status="initial">Нема селектирани сензори</value>
     <value lang="de" status="initial">Keine ausgewählten Sensoren</value>
+    <value lang="sr" status="initial">Nema izabranih senzora</value>
     <value lang="ro" status="translated">Nu există senzori selectați</value>
   </text>
   <text key="history">
@@ -490,6 +518,7 @@
     <value lang="en" status="initial">History</value>
     <value lang="mk" status="initial">Историја</value>
     <value lang="de" status="initial">Geschichte</value>
+    <value lang="sr" status="initial">Istorija</value>
     <value lang="ro" status="translated">Istoric</value>
   </text>
   <text key="currently_selected">
@@ -497,6 +526,7 @@
     <value lang="en" status="initial">Currently selected</value>
     <value lang="mk" status="initial">Моментално избрано</value>
     <value lang="de" status="initial">Momentan ausgewählt</value>
+    <value lang="sr" status="initial">Trenutno izabrani</value>
     <value lang="ro" status="translated">În prezent selectat</value>
   </text>
   <text key="app_name">
@@ -504,6 +534,7 @@
     <value lang="en" status="initial">pulse.eco</value>
     <value lang="mk" status="initial">pulse.eco</value>
     <value lang="de" status="initial">pulse.eco</value>
+    <value lang="sr" status="initial">pulse.eco</value>
     <value lang="ro" status="translated">pulse.eco</value>
   </text>
 </trema>
