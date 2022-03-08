@@ -71,7 +71,7 @@
     <value lang="mk" status="initial">Нема читања</value>
     <value lang="de" status="translated">Keine Messwerte</value>
     <value lang="rs" status="initial">Nema očitavanja</value>
-    <value lang="ro" status="translated">Fără citiri</value>
+    <value lang="ro" status="translated">Nu există date</value>
   </text>
   <text key="past_week">
     <context></context>
@@ -127,7 +127,7 @@
     <value lang="mk" status="initial">Предложени</value>
     <value lang="de" status="translated">Vorgeschlagen</value>
     <value lang="rs" status="initial">Predloženi</value>
-    <value lang="ro" status="translated">Sugerat</value>
+    <value lang="ro" status="translated">Recomandat</value>
   </text>
   <text key="search_city_or_choose_suggested">
     <context>City select screen</context>
@@ -135,7 +135,7 @@
     <value lang="mk" status="initial">Пребарувајте град или изберете од предложените</value>
     <value lang="de" status="translated">Stadt suchen oder vorgeschlagene wählen</value>
     <value lang="rs" status="initial">Nađi grad ili izaberi predloženi</value>
-    <value lang="ro" status="translated">Căutați orașul sau alegeți orașul sugerat</value>
+    <value lang="ro" status="translated">Căutați orașul sau alegeți orașul recomandat</value>
   </text>
   <text key="search_city_or_country">
     <context>City select screen</context>
@@ -191,7 +191,7 @@
     <value lang="mk" status="initial">Продолжи</value>
     <value lang="de" status="translated">Weiter</value>
     <value lang="rs" status="initial">Dalje</value>
-    <value lang="ro" status="translated">Continua</value>
+    <value lang="ro" status="translated">Continuă</value>
   </text>
   <text key="german">
     <context></context>
@@ -239,7 +239,7 @@
     <value lang="mk" status="initial">Готово</value>
     <value lang="de" status="translated">Fertig</value>
     <value lang="rs" status="initial">Gotovo</value>
-    <value lang="ro" status="translated">Gata</value>
+    <value lang="ro" status="translated">Terminare</value>
   </text>
   <text key="cancel">
     <context></context>
@@ -271,7 +271,7 @@
       <value lang="en" status="translated">The data presented is crowdsourced. We do not guarantee of its correctness. The third-party sensor data are stored as received from their service, while the pulse.eco devices depend on the correctness of the used sensors and the conditions in their nearest surroundings. Please refer to the FAQ for details.</value>
       <value lang="mk" status="translated">Претставените податоци потекнуваат од заедницата. Не ја гарантираме точноста на овие податоци. Податоците од трети извори се складирани и добиени од нивната услуга, додека уредите на pulse.eco зависат од точноста на користените сензори и условите во нивното непосредно опкружување. За повеќе детали упатете се во делот за Често поставувани прашања.</value>
       <value lang="rs" status="initial">Prikazani podaci potiču od zajednice. Nema garancije za njihovu ispravnost. Podaci od trećih lica su skladišteni u istom obliku u kakvom su primljeni, dok podaci sa pulse.eco uređaja zavise od korišćenih senzora i uslova u njihovom okruženju. Za dodatne detalje pogledajte sekciju Često postavljana pitanja.</value>
-      <value lang="ro" status="translated">Datele prezentate sunt crowdsourced. Nu garantăm corectitudinea acestora. Datele primite de la senzori terți sunt stocate asa cum sunt primite de la serviciul lor, iar dispozitivele pulse.eco depind de corectitudinea senzorilor folosiți și condițiile din apropierea lor. Vă rugăm să consultați FAQ pentru detalii.</value>
+      <value lang="ro" status="translated">Datele prezentate sunt crowdsourced. Nu garantăm corectitudinea acestora. Datele primite de la senzori terți sunt stocate așa cum sunt primite de la serviciul lor, iar dispozitivele pulse.eco depind de corectitudinea senzorilor folosiți și condițiile din apropierea lor. Vă rugăm să consultați secțiunea Întrebări frecvente pentru detalii.</value>
   </text>
   <text key="faq">
       <context>index</context>
@@ -279,7 +279,7 @@
       <value lang="en" status="translated">FAQ</value>
       <value lang="mk" status="translated">Често поставувани прашања</value>
       <value lang="rs" status="initial">Često postavljana pitanja</value>
-      <value lang="ro" status="translated">FAQ</value>
+      <value lang="ro" status="translated">Întrebări frecvente</value>
   </text>
   <text key="city_missing_add_new">
     <context></context>
@@ -367,7 +367,7 @@
     <value lang="mk" status="initial">Недостасуваат привилегии за сортирање на градовите според оддалеченост. Ве молиме овозможете го тоа во поставките.</value>
     <value lang="de" status="initial">Fehlende Standortgenehmigung erforderlich, um Städte nach Entfernung zu sortieren. Bitte in den Anwendungseinstellungen zulassen.</value>
     <value lang="rs" status="initial">Nedovoljno privilegija za sortiranje liste gradova po udaljenosti. Promeni podešavanja.</value>
-    <value lang="ro" status="translated">Lipsește permisiunea de localizare necesară pentru a sorta orașele după distanță. Vă rugăm să permiteți setările aplicației.</value>
+    <value lang="ro" status="translated">Lipsește permisiunea de localizare necesară pentru a sorta orașele după distanță. Vă rugăm să permiteți folosind setările aplicației.</value>
   </text>
   <text key="location_services_disabled_error">
     <context>Message for disabled location services after starting app</context>
@@ -383,7 +383,7 @@
     <value lang="mk" status="initial">Примена на оваа поставка ќе го смени јазикот на апликацијата и ќе ја освежи апликацијата. Дали сте сигурни дека сакате да го смените јазикот?</value>
     <value lang="de" status="initial">Durch das Anwenden dieser Einstellung wird die Sprache der App geändert und die App aktualisiert. Möchten Sie die Sprache wirklich ändern?</value>
     <value lang="rs" status="initial">Primena ovih podešavanja će dovesti do promene jezika aplikacije i restartovanje iste. Da li ste sigurni?</value>
-    <value lang="ro" status="translated">Aplicarea acestei setări va schimba limba aplicației și va actualiza aplicația. Sigur doriți să schimbați limba?</value>
+    <value lang="ro" status="translated">Aplicarea acestei setări va schimba limba aplicației și va actualiza aplicația. Sunteți sigur că doriți să schimbați limba?</value>
   </text>
   <text key="tooltip_maximum_sensors_reached">
     <context>Bottom sheet adding sensors message</context>
@@ -423,7 +423,7 @@
     <value lang="mk" status="initial">Просечни податоци за минатата недела за %s (%s)</value>
     <value lang="de" status="initial">Durchschnittliche Daten der letzten Woche für %s (%s)</value>
     <value lang="rs" status="initial">Prosečne vrednosti za prošlu nedelju za %s (%s)</value>
-    <value lang="ro" status="translated">Date medii săptămâna trecută pentru %s (%s)</value>
+    <value lang="ro" status="translated">Datele medii de săptămâna trecută pentru %s (%s)</value>
   </text>
   <text key="past_week_for_specific_sensor">
     <context>Bottom sheet average data for specific sensor</context>
@@ -439,7 +439,7 @@
     <value lang="mk" status="initial">ТИП НА МАПА</value>
     <value lang="de" status="initial">KARTENTYP</value>
     <value lang="rs" status="initial">TIP KARTE</value>
-    <value lang="ro" status="translated">TIP HARTA</value>
+    <value lang="ro" status="translated">TIP HARTĂ</value>
   </text>
   <text key="map_type_default">
     <context>Map type default</context>
