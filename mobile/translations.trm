@@ -537,4 +537,12 @@
     <value lang="rs" status="initial">pulse.eco</value>
     <value lang="ro" status="translated">pulse.eco</value>
   </text>
+  <text key="explore">
+    <context></context>
+    <value lang="en" status="initial">Explore</value>
+    <value lang="mk" status="initial">Истражи</value>
+    <value lang="de" status="initial">Explore(de)</value>
+    <value lang="rs" status="initial">Explore(rs)</value>
+    <value lang="ro" status="initial">Explore(ro)</value>
+  </text>
 </trema>
