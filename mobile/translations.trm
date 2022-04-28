@@ -545,4 +545,12 @@
     <value lang="rs" status="initial">Explore(rs)</value>
     <value lang="ro" status="initial">Explore(ro)</value>
   </text>
+  <text key="today">
+    <context></context>
+    <value lang="en" status="initial">Today</value>
+    <value lang="mk" status="initial">Денес</value>
+    <value lang="de" status="initial">Heute</value>
+    <value lang="rs" status="initial">Danas</value>
+    <value lang="ro" status="initial">Azi</value>
+  </text>
 </trema>
