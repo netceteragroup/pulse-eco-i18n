@@ -553,4 +553,100 @@
     <value lang="rs" status="initial">Danas</value>
     <value lang="ro" status="initial">Azi</value>
   </text>
+  <text key="january">
+    <context>Calendar circled month January</context>
+    <value lang="en" status="translated">January</value>
+    <value lang="mk" status="translated">Јануари</value>
+    <value lang="de" status="translated">Januar</value>
+    <value lang="rs" status="translated">Januar</value>
+    <value lang="ro" status="translated">Ianuarie</value>
+  </text>
+  <text key="february">
+    <context>Calendar circled month February</context>
+    <value lang="en" status="translated">February</value>
+    <value lang="mk" status="translated">Февруари</value>
+    <value lang="de" status="translated">Februar</value>
+    <value lang="rs" status="translated">Februar</value>
+    <value lang="ro" status="translated">Februarie</value>
+  </text>
+  <text key="march">
+    <context>Calendar circled month March</context>
+    <value lang="en" status="translated">March</value>
+    <value lang="mk" status="translated">Март</value>
+    <value lang="de" status="translated">März</value>
+    <value lang="rs" status="translated">Mart</value>
+    <value lang="ro" status="translated">Martie</value>
+  </text>
+  <text key="april">
+    <context>Calendar circled month April</context>
+    <value lang="en" status="translated">April</value>
+    <value lang="mk" status="translated">Април</value>
+    <value lang="de" status="translated">April</value>
+    <value lang="rs" status="translated">April</value>
+    <value lang="ro" status="translated">Aprilie</value>
+  </text>
+  <text key="may">
+    <context>Calendar circled month May</context>
+    <value lang="en" status="translated">May</value>
+    <value lang="mk" status="translated">Мај</value>
+    <value lang="de" status="translated">Mai</value>
+    <value lang="rs" status="translated">Maj</value>
+    <value lang="ro" status="translated">Mai</value>
+  </text>
+  <text key="june">
+    <context>Calendar circled month June</context>
+    <value lang="en" status="translated">June</value>
+    <value lang="mk" status="translated">Јуни</value>
+    <value lang="de" status="translated">Juni</value>
+    <value lang="rs" status="translated">Jun</value>
+    <value lang="ro" status="translated">Iunie</value>
+  </text>
+  <text key="july">
+    <context>Calendar circled month July</context>
+    <value lang="en" status="translated">July</value>
+    <value lang="mk" status="translated">Јули</value>
+    <value lang="de" status="translated">Juli</value>
+    <value lang="rs" status="translated">Jul</value>
+    <value lang="ro" status="translated">Iiulie</value>
+  </text>
+  <text key="august">
+    <context>Calendar circled month August</context>
+    <value lang="en" status="translated">August</value>
+    <value lang="mk" status="translated">Август</value>
+    <value lang="de" status="translated">August</value>
+    <value lang="rs" status="translated">Avgust</value>
+    <value lang="ro" status="translated">August</value>
+  </text>
+  <text key="september">
+    <context>Calendar circled month September</context>
+    <value lang="en" status="translated">September</value>
+    <value lang="mk" status="translated">Септември</value>
+    <value lang="de" status="translated">September</value>
+    <value lang="rs" status="translated">Septembar</value>
+    <value lang="ro" status="translated">Septembrie</value>
+  </text>
+  <text key="october">
+    <context>Calendar circled month October</context>
+    <value lang="en" status="translated">October</value>
+    <value lang="mk" status="translated">Октомври</value>
+    <value lang="de" status="translated">Oktober</value>
+    <value lang="rs" status="translated">Oktobar</value>
+    <value lang="ro" status="translated">Octombrie</value>
+  </text>
+  <text key="november">
+    <context>Calendar circled month November</context>
+    <value lang="en" status="translated">November</value>
+    <value lang="mk" status="translated">Ноември</value>
+    <value lang="de" status="translated">November</value>
+    <value lang="rs" status="translated">Novembarr</value>
+    <value lang="ro" status="translated">Noiembrie</value>
+  </text>
+  <text key="december">
+    <context>Calendar circled month December</context>
+    <value lang="en" status="translated">December</value>
+    <value lang="mk" status="translated">Декември</value>
+    <value lang="de" status="translated">Dezember</value>
+    <value lang="rs" status="translated">Decembar</value>
+    <value lang="ro" status="translated">Decembrie</value>
+  </text>
 </trema>
