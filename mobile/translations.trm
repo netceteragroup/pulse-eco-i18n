@@ -638,7 +638,7 @@
     <value lang="en" status="translated">November</value>
     <value lang="mk" status="translated">Ноември</value>
     <value lang="de" status="translated">November</value>
-    <value lang="rs" status="translated">Novembarr</value>
+    <value lang="rs" status="translated">Novembar</value>
     <value lang="ro" status="translated">Noiembrie</value>
   </text>
   <text key="december">
@@ -648,5 +648,78 @@
     <value lang="de" status="translated">Dezember</value>
     <value lang="rs" status="translated">Decembar</value>
     <value lang="ro" status="translated">Decembrie</value>
+  </text>
+
+  <text key="dashboard_view">
+    <context>Menu dialog first selection</context>
+    <value lang="en" status="new">Dashboard view</value>
+    <value lang="mk" status="new">MK: Контролен панел</value>
+    <value lang="de" status="new">DE: Dashboard view</value>
+    <value lang="rs" status="new">RS: Dashboard view</value>
+    <value lang="ro" status="new">RO: Dashboard view</value>
+  </text>
+  <text key="map_view">
+    <context>Menu dialog second selection</context>
+    <value lang="en" status="new">Map view</value>
+    <value lang="mk" status="new">Мапа</value>
+    <value lang="de" status="new">DE: Map view</value>
+    <value lang="rs" status="new">RS: Map view</value>
+    <value lang="ro" status="new">RO: Map view</value>
+  </text>
+  <text key="settings_view">
+    <context>Menu dialog third selection</context>
+    <value lang="en" status="new">Settings</value>
+    <value lang="mk" status="new">Поставки</value>
+    <value lang="de" status="new">DE: Settings</value>
+    <value lang="rs" status="new">RS: Settings</value>
+    <value lang="ro" status="new">RO: Settings</value>
+  </text>
+  <text key="settings_option_title_language">
+    <context>First option in the settings menu title</context>
+    <value lang="en" status="new">Language</value>
+    <value lang="mk" status="new">Јазик</value>
+    <value lang="de" status="new">DE: Language</value>
+    <value lang="rs" status="new">RS: Language</value>
+    <value lang="ro" status="new">RO: Language</value>
+  </text>
+  <text key="settings_option_sub_title_language">
+    <context>First option in the settings menu sub-title</context>
+    <value lang="en" status="new">Change language</value>
+    <value lang="mk" status="new">Промени јазик</value>
+    <value lang="de" status="new">DE: Change language</value>
+    <value lang="rs" status="new">RS: Change language</value>
+    <value lang="ro" status="new">RO: Change language</value>
+  </text>
+  <text key="settings_option_title_about">
+    <context>Second option in the settings menu title</context>
+    <value lang="en" status="new">About</value>
+    <value lang="mk" status="new">MK: About</value>
+    <value lang="de" status="new">DE: About</value>
+    <value lang="rs" status="new">RS: About</value>
+    <value lang="ro" status="new">RO: About</value>
+  </text>
+  <text key="settings_option_sub_title_about">
+    <context>Second option in the settings menu sub-title</context>
+    <value lang="en" status="new">About pulse.eco</value>
+    <value lang="mk" status="new">За pulse.eco</value>
+    <value lang="de" status="new">DE: About pulse.eco</value>
+    <value lang="rs" status="new">RS: About pulse.eco</value>
+    <value lang="ro" status="new">RO: About pulse.eco</value>
+  </text>
+  <text key="settings_option_title_libraries">
+    <context>Third option in the settings menu title</context>
+    <value lang="en" status="new">Libraries</value>
+    <value lang="mk" status="new">MK: Libraries</value>
+    <value lang="de" status="new">DE: Libraries</value>
+    <value lang="rs" status="new">RS: Libraries</value>
+    <value lang="ro" status="new">RO: Libraries</value>
+  </text>
+  <text key="settings_option_sub_title_libraries">
+    <context>Third option in the settings menu sub-title</context>
+    <value lang="en" status="new">Used libraries</value>
+    <value lang="mk" status="new">MK: Used libraries</value>
+    <value lang="de" status="new">DE: Used libraries</value>
+    <value lang="rs" status="new">RS: Used libraries</value>
+    <value lang="ro" status="new">RO: Used libraries</value>
   </text>
 </trema>
