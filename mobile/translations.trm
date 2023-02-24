@@ -664,7 +664,7 @@
     <value lang="mk" status="translated">Мапа</value>
     <value lang="de" status="translated">Kartenansicht</value>
     <value lang="rs" status="translated">Приказ мапе</value>
-    <value lang="ro" status="translated">Vizualizarea hartii/value>
+    <value lang="ro" status="translated">Vizualizarea hartii</value>
   </text>
   <text key="settings_view">
     <context>Menu dialog third selection</context>
@@ -725,9 +725,9 @@
   <text key="settings_option_sub_title_libraries">
     <context>Third option in the settings menu sub-title</context>
     <value lang="en" status="translated">Used libraries</value>
-    <value lang="mk" status="translated">Користени библиотекиs</value>
+    <value lang="mk" status="translated">Користени библиотеки</value>
     <value lang="de" status="translated">Gebrauchte Bibliotheken</value>
-    <value lang="rs" status="translated">Коришћене библиотеке/value>
+    <value lang="rs" status="translated">Коришћене библиотеке</value>
     <value lang="ro" status="translated">Biblioteci folosite</value>
   </text>
 
