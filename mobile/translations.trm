@@ -653,42 +653,42 @@
   <text key="dashboard_view">
     <context>Menu dialog first selection</context>
     <value lang="en" status="initial">Dashboard view</value>
-    <value lang="mk" status="initial">MK: Контролен панел</value>
-    <value lang="de" status="initial">DE: Dashboard view</value>
-    <value lang="rs" status="initial">RS: Dashboard view</value>
-    <value lang="ro" status="initial">RO: Dashboard view</value>
+    <value lang="mk" status="initial">Контролен панел</value>
+    <value lang="de" status="initial">Armaturenbrett</value>
+    <value lang="rs" status="initial">Командна табла</value>
+    <value lang="ro" status="initial">Bord</value>
   </text>
   <text key="map_view">
     <context>Menu dialog second selection</context>
     <value lang="en" status="initial">Map view</value>
     <value lang="mk" status="initial">Мапа</value>
-    <value lang="de" status="initial">DE: Map view</value>
-    <value lang="rs" status="initial">RS: Map view</value>
-    <value lang="ro" status="initial">RO: Map view</value>
+    <value lang="de" status="initial">Kartenansicht</value>
+    <value lang="rs" status="initial">Приказ мапе</value>
+    <value lang="ro" status="initial">Vizualizarea hartii/value>
   </text>
   <text key="settings_view">
     <context>Menu dialog third selection</context>
     <value lang="en" status="initial">Settings</value>
     <value lang="mk" status="initial">Поставки</value>
-    <value lang="de" status="initial">DE: Settings</value>
-    <value lang="rs" status="initial">RS: Settings</value>
-    <value lang="ro" status="initial">RO: Settings</value>
+    <value lang="de" status="initial">Einstellungen</value>
+    <value lang="rs" status="initial">Подешавањаs</value>
+    <value lang="ro" status="initial">Setări</value>
   </text>
   <text key="settings_option_title_language">
     <context>First option in the settings menu title</context>
     <value lang="en" status="initial">Language</value>
     <value lang="mk" status="initial">Јазик</value>
-    <value lang="de" status="initial">DE: Language</value>
-    <value lang="rs" status="initial">RS: Language</value>
-    <value lang="ro" status="initial">RO: Language</value>
+    <value lang="de" status="initial">Sprache</value>
+    <value lang="rs" status="initial">Језикe</value>
+    <value lang="ro" status="initial">Limba</value>
   </text>
   <text key="settings_option_sub_title_language">
     <context>First option in the settings menu sub-title</context>
     <value lang="en" status="initial">Change language</value>
     <value lang="mk" status="initial">Промени јазик</value>
-    <value lang="de" status="initial">DE: Change language</value>
-    <value lang="rs" status="initial">RS: Change language</value>
-    <value lang="ro" status="initial">RO: Change language</value>
+    <value lang="de" status="initial">Sprache ändern</value>
+    <value lang="rs" status="initial">Промени језик</value>
+    <value lang="ro" status="initial">Schimbați limba</value>
   </text>
   <text key="settings_option_title_about">
     <context>Second option in the settings menu title</context>
@@ -702,9 +702,9 @@
     <context>Second option in the settings menu sub-title</context>
     <value lang="en" status="initial">About pulse.eco</value>
     <value lang="mk" status="initial">За pulse.eco</value>
-    <value lang="de" status="initial">DE: About pulse.eco</value>
-    <value lang="rs" status="initial">RS: About pulse.eco</value>
-    <value lang="ro" status="initial">RO: About pulse.eco</value>
+    <value lang="de" status="initial">Über pulse.eco</value>
+    <value lang="rs" status="initial">О pulse.eco</value>
+    <value lang="ro" status="initial">Despre pulse.eco</value>
   </text>
   <text key="settings_about_pulse_eco_paragraph">
     <context>About pulse eco text</context>
@@ -717,18 +717,18 @@
   <text key="settings_option_title_libraries">
     <context>Third option in the settings menu title</context>
     <value lang="en" status="initial">Libraries</value>
-    <value lang="mk" status="initial">MK: Libraries</value>
-    <value lang="de" status="initial">DE: Libraries</value>
-    <value lang="rs" status="initial">RS: Libraries</value>
-    <value lang="ro" status="initial">RO: Libraries</value>
+    <value lang="mk" status="initial">Библиотеки</value>
+    <value lang="de" status="initial">Bibliotheken</value>
+    <value lang="rs" status="initial">Библиотеке</value>
+    <value lang="ro" status="initial">Biblioteci</value>
   </text>
   <text key="settings_option_sub_title_libraries">
     <context>Third option in the settings menu sub-title</context>
     <value lang="en" status="initial">Used libraries</value>
-    <value lang="mk" status="initial">MK: Used libraries</value>
-    <value lang="de" status="initial">DE: Used libraries</value>
-    <value lang="rs" status="initial">RS: Used libraries</value>
-    <value lang="ro" status="initial">RO: Used libraries</value>
+    <value lang="mk" status="initial">Користени библиотекиs</value>
+    <value lang="de" status="initial">Gebrauchte Bibliotheken</value>
+    <value lang="rs" status="initial">Коришћене библиотеке/value>
+    <value lang="ro" status="initial">Biblioteci folosite</value>
   </text>
 
 </trema>
