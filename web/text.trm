@@ -348,7 +348,7 @@
         	de la senzori terți sunt stocate așa cum sunt primite de la serviciul lor, iar dispozitivele pulse.eco depind
         	de corectitudinea senzorilor folosiți și de condițiile din apropierea lor. Vă rugăm să consultați secțiunea Întrebări frecvente pentru detalii.
         </value>
-        <value lang="sqi" status="translated">Të dhënat e shfaqura kanë prejardhje nga komuniteti. Nuk e garantojmë saktësine e tyre.
+        <value lang="sqi" status="translated">Të dhënat e shfaqura kanë prejardhje nga komuniteti. Nuk e garantojmë saktësinë e tyre.
             Të dhënat e sensorëve të palëve të treta ruhen ashtu siç janë marrë nga shërbimi i tyre, ndërsa pajisjet pulse.eco varen nga
             korrektësija e sensorëve të përdorur dhe kushtet në rrethinën e tyre më të afërt. Ju lutemi drejtohuni tek pjesa për
             Pyetjet më të shpeshta për më shumë detaje.</value>
@@ -1212,7 +1212,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv, doduše, neki zagađivači mogu da uzrokuju umerene posledice kod malog broja ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
-		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, ndonjë ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.co.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -1410,7 +1410,7 @@
 		<value lang="mk" status="translated">Бидете смирени, одморајте се кога ќе забележите некаков знак на замор, главоболка или забрзан пулс, пијте големо количество на вода.</value>
 		<value lang="rs" status="initial">Mirujte, rashlađujte se ako primetite znake umora, glavobolje ili ubzanog pulsa; pijte dosta tečnosti.</value>
 		<value lang="ro" status="translated">Luați-o ușor, răcoriți-vă când observați orice semn de oboseală, dureri de cap sau puls crescut, beți multă apă.</value>
-        <value lang="sqi" status="translated">Relaksohuni, pushoni kur vëreni ndonjë shenjë lodhjeje, dhimbje koke ose rrahje të shpejtë të zemrës, kosumoni më tepër ujë.</value>
+        <value lang="sqi" status="translated">Relaksohuni, pushoni kur vëreni ndonjë shenjë lodhjeje, kokëdhimbje ose rrahje të shpejtë të zemrës, kosumoni më tepër ujë.</value>
 	</text>
 	<text key="measurements.nh3_ppm.buttonTitle">
 		<context>measurements</context>
@@ -1590,7 +1590,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje za vrlo mali broj ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o îngrijorare moderată a sănătății pentru un număr foarte mic de persoane.</value>
-		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, ndonjë ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.no2.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -1815,7 +1815,7 @@
 		<value lang="mk" status="translated">Обидете се избегнете подолга изложеност бидејќи може да Ве иритира, нема потреба од преземање на медицински мерки.</value>
 		<value lang="rs" status="initial">Pokušajte da izbegnete duže izlaganje jer može biti iritantno, nisu potrebne medicinske mere predostrožnosti.</value>
 		<value lang="ro" status="translated">Încercați să evitați expunerea prelungită, deoarece poate fi iritantă, nu sunt necesare măsuri de precauție medicale.</value>
-        <value lang="sqi" status="translated">Shmangni ekspozimin për periudha të gjata exposure sepse mund të jetë irrituese, nuk nevojiten masa paraprake mjekësore.</value>
+        <value lang="sqi" status="translated">Shmangni ekspozimin për periudha të gjata sepse mund të jetë irrituese, nuk nevojiten masa paraprake mjekësore.</value>
 	</text>
 	<text key="measurements.noise.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -1842,7 +1842,7 @@
 		<value lang="mk" status="translated">Обидете се да останете во затворен простор. Доколку чувствувате зуење на ушите, одморете ги во период од 16 часа за да закрепнете.</value>
 		<value lang="rs" status="initial">Pokušajte da ostanete u zatvorenom. Ako osetite zujanje u ušima, odmorite uši 16 sati.</value>
 		<value lang="ro" status="translated">Încercați să rămâneți în interior. Dacă întâmpinați sunete în ureche, odihniți-vă urechile timp de 16 ore pentru a vă recupera.</value>
-		<value lang="sqi" status="translated">Mundohuni të qëndroni në ambiente të mbyllura. Nëse po përjetoni ndonjë zhurmë në vesh, pushoni veshët për 16 orë për t'u rikuperuar.</value>
+		<value lang="sqi" status="translated">Mundohuni të qëndroni në ambiente të mbyllura. Nëse përjetoni ndonjë zhurmë në vesh, pushoni veshët për 16 orë për t'u rikuperuar.</value>
 	</text>
 	<text key="measurements.noise.purpleBand.shortGrade">
 		<context>measurements</context>
@@ -2004,7 +2004,7 @@
 		<value lang="mk" status="translated">Обидете се избегнете подолга изложеност бидејќи може да Ве иритира, нема потреба од преземање на медицински мерки.</value>
 		<value lang="rs" status="initial">Pokušajte da izbegnete duže izlaganje jer može biti iritantno, nisu potrebne medicinske mere predostrožnosti</value>
 		<value lang="ro" status="translated">Încercați să evitați expunerea prelungită, deoarece poate fi iritantă, nu sunt necesare măsuri de precauție medicale.</value>
-        <value lang="sqi" status="translated">Shmangni ekspozimin për periudha të gjata exposure sepse mund të jetë irrituese, nuk nevojiten masa paraprake mjekësore.</value>
+        <value lang="sqi" status="translated">Shmangni ekspozimin për periudha të gjata sepse mund të jetë irrituese, nuk nevojiten masa paraprake mjekësore.</value>
 	</text>
 	<text key="measurements.noise_dba.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -2031,7 +2031,7 @@
 		<value lang="mk" status="translated">Обидете се да останете во затворен простор. Доколку чувствувате зуење на ушите, одморете ги во период од 16 часа за да закрепнете.</value>
 		<value lang="rs" status="initial">Pokušajte da ostanete u zatvorenom. Ako osetite zujanje u ušima, odmorite uši 16 sati.</value>
 		<value lang="ro" status="translated">Încercați să rămâneți în interior. Dacă întâmpinați sunete de ureche, odihniți-vă urechile timp de 16 ore pentru a vă recupera.</value>
-		<value lang="sqi" status="translated">Mundohuni të qëndroni në ambiente të mbyllura. Nëse po përjetoni ndonjë zhurmë në vesh, pushoni veshët për 16 orë për t'u rikuperuar.</value>
+		<value lang="sqi" status="translated">Mundohuni të qëndroni në ambiente të mbyllura. Nëse përjetoni ndonjë zhurmë në vesh, pushoni veshët për 16 orë për t'u rikuperuar.</value>
 	</text>
 	<text key="measurements.noise_dba.purpleBand.shortGrade">
 		<context>measurements</context>
@@ -2130,7 +2130,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje za mali broj ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
-		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, ndonjë ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.o3.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -2373,7 +2373,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje malog broja ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
-		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, ndonjë ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.pm10.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -2535,7 +2535,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje malog broja ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
-		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, ndonjë ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.pm25.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -2679,7 +2679,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si kokëdhimbje dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.blueBand.shortGrade">
 		<context>measurements</context>
@@ -2706,7 +2706,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si kokëdhimbje dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2733,7 +2733,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si kokëdhimbje dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.greenBand.shortGrade">
 		<context>measurements</context>
@@ -2760,7 +2760,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si kokëdhimbje dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -2787,7 +2787,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si kokëdhimbje dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.redBand.shortGrade">
 		<context>measurements</context>
@@ -2814,7 +2814,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si kokëdhimbje dhe marramendje.</value>
 	</text>
 	<text key="measurements.temperature.buttonTitle">
 		<context>measurements</context>
@@ -2859,7 +2859,7 @@
 		<value lang="mk" status="translated">Премногу ниска температура. Зголемен ризик за напади од астма, ослабен имун систем и мигрени. Подолга изложеност може да предизвика хипотермија.</value>
 		<value lang="rs" status="initial">Temperatura smrzavanja. Povećan rizik od napada astme, oslabljenog imuno sistema i migrene. Produženo izlaganje izaziva hipotermiju.</value>
 		<value lang="ro" status="translated">Temperatură de îngheț. Risc crescut de atacuri de astm, sistemul imunitar slăbit și migrene. Expunerea prelungită va provoca hipotermie.</value>
-		<value lang="sqi" status="translated">Temperaturë tepër e ulët. Gjasa më të mëdhaja të sulmeve të astmës, dobësimit të sistemit imunitar dhe migrenës. Ekspozimi pë periudh të gjata mund të shkaktojë hipotermi.</value>
+		<value lang="sqi" status="translated">Temperaturë tepër e ulët. Gjasa më të mëdhaja të sulmeve të astmës, dobësimit të sistemit imunitar dhe migrenës. Ekspozimi për periudha të gjata mund të shkaktojë hipotermi.</value>
 	</text>
 	<text key="measurements.temperature.darkblueBand.suggestion">
 		<context>measurements</context>
@@ -3003,7 +3003,7 @@
 		<value lang="mk" status="translated">Избегнувајте да бидете на отворено во периодот од 11 до 17 часот. Пијте големо количество на течности.</value>
 		<value lang="rs" status="initial">Izbegavajte boravak na otvorenom u periodu od 11 do 17 časova. Pijte puno tečnosti.</value>
 		<value lang="ro" status="translated">Evitați să stați în aer liber în perioada 11-17. Beți multe lichide.</value>
-		<value lang="sqi" status="translated">Anashkaloni qëndrimin në ambiente të hapura prej orës 11 deri 17. Konsumoni lëngje në sasi më të madhe.</value>
+		<value lang="sqi" status="translated">Anashkaloni qëndrimin në ambiente të hapura prej orës 11 deri 17. Konsumoni lëngje në sasi më të mëdha.</value>
 	</text>
 	<text key="measurements.temperature.darkredBand.shortGrade">
 		<context>measurements</context>
