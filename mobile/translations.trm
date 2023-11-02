@@ -170,7 +170,7 @@
     <value lang="de" status="translated">Keine Daten verfügbar. Versuchen Sie es später erneut.</value>
     <value lang="rs" status="translated">Podaci su nedostupni. Probajte ponovo.</value>
     <value lang="ro" status="translated">Nu există date disponibile. Încercați mai târziu.</value>
-    <value lang="sqi" status="translated">Të dhënat nuk janë në dispozicion. Provo përsëri më vonë.</value>
+    <value lang="sqi" status="translated">Të dhënat nuk janë në dispozicion. Provoni përsëri më vonë.</value>
   </text>
   <text key="disclaimer">
     <context></context>

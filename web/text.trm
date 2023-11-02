@@ -349,7 +349,7 @@
         	de corectitudinea senzorilor folosiți și de condițiile din apropierea lor. Vă rugăm să consultați secțiunea Întrebări frecvente pentru detalii.
         </value>
         <value lang="sqi" status="translated">Të dhënat e shfaqura kanë prejardhje nga komuniteti. Nuk e garantojmë saktësinë e tyre.
-            Të dhënat e sensorëve të palëve të treta ruhen ashtu siç janë marrë nga shërbimi i tyre, ndërsa pajisjet pulse.eco varen nga
+            Të dhënat e sensorëve të palëve të treta ruhen ashtu siç janë marrë nga servisi i tyre, ndërsa pajisjet pulse.eco varen nga
             korrektësija e sensorëve të përdorur dhe kushtet në rrethinën e tyre më të afërt. Ju lutemi drejtohuni tek pjesa për
             Pyetjet më të shpeshta për më shumë detaje.</value>
 	</text>
@@ -360,7 +360,7 @@
 		<value lang="mk" status="translated">Изберете најмногу 10 сензори за прикажување:</value>
 		<value lang="rs" status="initial">Izaberi najviše 10 senzora za prikaz:</value>
 		<value lang="ro" status="translated">Alegeți până la 10 senzori pentru a afișa:</value>
-		<value lang="sqi" status="translated">Zgjedhni deri në 10 sensore për tu shfaqur:</value>
+		<value lang="sqi" status="translated">Zgjedhni deri në 10 sensorë për tu shfaqur:</value>
 	</text>
 	<text key="footer.title">
 		<context>index</context>
@@ -438,7 +438,7 @@
 		<value lang="mk" status="translated">Лиценци</value>
 		<value lang="rs" status="initial">Licence</value>
 		<value lang="ro" status="translated">Licențe</value>
-		<value lang="sqi" status="translated">Licentcat</value>
+		<value lang="sqi" status="translated">Licencat</value>
 	</text>
 	<text key="app.store">
 		<context>index</context>
@@ -1194,7 +1194,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajrin e freskët.</value>
 	</text>
 	<text key="measurements.co.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -1572,7 +1572,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nisu potrebne preventivne mere, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajrin e freskët.</value>
 	</text>
 	<text key="measurements.no2.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2112,7 +2112,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajrin e freskët.</value>
 	</text>
 	<text key="measurements.o3.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2355,7 +2355,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nisu potrebne preventivne mere, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajrin e freskët.</value>
 	</text>
 	<text key="measurements.pm10.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2517,7 +2517,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama, uživajte u svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
-		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajrin e freskët.</value>
 	</text>
 	<text key="measurements.pm25.darkgreenBand.shortGrade">
 		<context>measurements</context>
