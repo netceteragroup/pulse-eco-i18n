@@ -8,6 +8,7 @@
 		<value lang="mk" status="translated">притиснете ctrl (control) + scroll за да ја зголемите мапата</value>
 		<value lang="rs" status="initial">stisnite ctrl (control) i točkićem uveličajte mapu</value>
 		<value lang="ro" status="translated">Apasă ctrl (control) + scroll pentru a mări harta</value>
+		<value lang="al" status="translated">shtypni ctrl (control) + scroll për të zmadhuar hartën</value>
 	</text>
 	<text key="cookie.message">
 		<context>cookie</context>
@@ -34,6 +35,11 @@
         	folosiți și despre calculele făcute pentru a arăta unele dintre măsuri, vă rugăm să consultați secțiunea Întrebări frecvente. Pulse.eco folosește cookie-uri
         	pentru a personaliza selecția dispozitivului și pentru a vă face site-ul mai ușor de utilizat. Nu stocăm și nici nu 
         	partajăm aceste informații cu altcineva.</value>
+        <value lang="sqi" status="translated">Pjesa më e madhe e të dhënave vijnë nga komuniteti dhe nuk duhet të trajtohen sikur të dhëna oficiale.
+            Korrektësia e tyre nuk është e garantuar.\n Për detaje në lidhje me precizitetin e sensorëve më të zakonshëm dhe kalkulimeve që bëhen
+            për të shfaqur disa nga masat, udhëzohuni në pjesën Pyetjet më të shpeshta.\n
+            pulse.eco përdor biskota për personalizimin e përzgjedhjeve për pajisjen tuaj dhe lehtësimin e përdorimit të faqes. Ne nuk i ruajm
+            dhe nuk i shpërndajmë këto informata me askënd tjetër.</value>
 	</text>
 	<text key="frontmap.disclaimer.content">
 		<context>disclaimer</context>
@@ -46,6 +52,8 @@
 		<value lang="rs" status="initial">Skupljeni podaci nisu menjani ni na koji način. Nema garancije za njihovu ispravnost.</value>
         <value lang="ro" status="translated">Datele colectate nu sunt manipulate în nici un fel. Nu garantăm
              corectitudinea lor.</value>
+        <value lang="sqi" status="translated">Të dhënat e mbledhura nuk janë të manipuluara në asnjë mënyrë.
+             Nuk garantojmë saktësinë e tyre.</value>
 	</text>
 	<text key="frontmap.days.mon">
 		<context>frontmap</context>
@@ -54,6 +62,7 @@
 		<value lang="mk" status="translated">Пон</value>
 		<value lang="rs" status="initial">pon</value>
 		<value lang="ro" status="translated">Lun</value>
+		<value lang="sqi" status="translated">Hën</value>
 	</text>
 	<text key="frontmap.days.tue">
 		<context>frontmap</context>
@@ -62,6 +71,7 @@
 		<value lang="mk" status="translated">Вто</value>
 		<value lang="rs" status="initial">uto</value>
 		<value lang="ro" status="translated">Mar</value>
+		<value lang="sqi" status="translated">Mar</value>
 	</text>
 	<text key="frontmap.days.wed">
 		<context>frontmap</context>
@@ -70,6 +80,7 @@
 		<value lang="mk" status="translated">Сре</value>
 		<value lang="rs" status="initial">sre</value>
 		<value lang="ro" status="translated">Mie</value>
+		<value lang="sqi" status="translated">Mër</value>
 	</text>
 	<text key="frontmap.days.thu">
 		<context>frontmap</context>
@@ -78,6 +89,7 @@
 		<value lang="mk" status="translated">Чет</value>
 		<value lang="rs" status="initial">čet</value>
 		<value lang="ro" status="translated">Joi</value>
+		<value lang="sqi" status="translated">Enj</value>
 	</text>
 	<text key="frontmap.days.fri">
 		<context>frontmap</context>
@@ -86,6 +98,7 @@
 		<value lang="mk" status="translated">Пет</value>
 		<value lang="rs" status="initial">pet</value>
 		<value lang="ro" status="translated">Vin</value>
+		<value lang="sqi" status="translated">Pre</value>
 	</text>
 	<text key="frontmap.days.sat">
 		<context>frontmap</context>
@@ -94,6 +107,7 @@
 		<value lang="mk" status="translated">Саб</value>
 		<value lang="rs" status="initial">sub</value>
 		<value lang="ro" status="translated">Sam</value>
+		<value lang="sqi" status="translated">Sht</value>
 	</text>
 	<text key="frontmap.days.sun">
 		<context>frontmap</context>
@@ -102,6 +116,7 @@
 		<value lang="mk" status="translated">Нед</value>
 		<value lang="rs" status="initial">ned</value>
 		<value lang="ro" status="translated">Dum</value>
+		<value lang="sqi" status="translated">Die</value>
 	</text>
 	<text key="frontmap.min">
 		<context>frontmap</context>
@@ -110,6 +125,7 @@
 		<value lang="mk" status="translated">минимум:</value>
 		<value lang="rs" status="initial">minimum: </value>
 		<value lang="ro" status="translated">min:</value>
+		<value lang="sqi" status="translated">minimum:</value>
 	</text>
 	<text key="frontmap.max">
 		<context>frontmap</context>
@@ -118,6 +134,7 @@
 		<value lang="mk" status="translated">максимум:</value>
 		<value lang="rs" status="initial">maksimum: </value>
 		<value lang="ro" status="translated">max:</value>
+		<value lang="sqi" status="translated">maksimum:</value>
 	</text>
 	<text key="frontmap.description.minimum">
 		<context>frontmap</context>
@@ -126,6 +143,7 @@
 		<value lang="mk" status="translated">минимум</value>
 		<value lang="rs" status="initial">minimum</value>
 		<value lang="ro" status="translated">Minim</value>
+		<value lang="sqi" status="translated">minimum</value>
 	</text>
 	<text key="frontmap.description.maximum">
 		<context>frontmap</context>
@@ -134,6 +152,7 @@
 		<value lang="mk" status="translated">максимум</value>
 		<value lang="rs" status="initial">maksimum</value>
 		<value lang="ro" status="translated">Maxim</value>
+		<value lang="sqi" status="translated">maksimum</value>
 	</text>
 	<text key="frontmap.description.average">
 		<context>frontmap</context>
@@ -142,6 +161,7 @@
 		<value lang="mk" status="translated">просек</value>
 		<value lang="rs" status="initial">prosek</value>
 		<value lang="ro" status="translated">În medie</value>
+		<value lang="sqi" status="translated">mesatarja</value>
 	</text>
 	<text key="frontmap.description.median">
 		<context>frontmap</context>
@@ -150,6 +170,7 @@
 		<value lang="mk" status="translated">медијана</value>
 		<value lang="rs" status="initial">medijana</value>
 		<value lang="ro" status="translated">Mediana</value>
+		<value lang="sqi" status="translated">mesatarja</value>
 	</text>
 	<text key="frontmap.add.your.device">
 		<context>frontmap</context>
@@ -158,6 +179,7 @@
 		<value lang="mk" status="translated">Додади уред</value>
 		<value lang="rs" status="initial">Dodaj svoj uređaj</value>
 		<value lang="ro" status="translated">Adăugați dispozitivul dvs.</value>
+		<value lang="sqi" status="translated">Shto pajisje</value>
 	</text>
 	<text key="frontmap.show.only.confirmed">
 		<context>frontmap</context>
@@ -166,6 +188,7 @@
 		<value lang="mk" status="translated">Само потврдени</value>
 		<value lang="rs" status="initial">Samo potvrđeni</value>
 		<value lang="ro" status="translated">Afișați numai dispozitivele confirmate</value>
+		<value lang="sqi" status="translated">Shfaq vetëm të konfirmuarat</value>
 	</text>
 	<text key="frontmap.disclaimer.link">
 		<context>disclaimer</context>
@@ -174,6 +197,7 @@
 		<value lang="mk" status="translated">Податоците од МОЕРР сензорот</value>
 		<value lang="rs" status="initial">Podaci sa MOEPP senzora</value>
 		<value lang="ro" status="translated">Date senzor MOEPP</value>
+		<value lang="sqi" status="translated">Të dhënat nga sensori MOEPP</value>
 	</text>
 	<text key="frontmap.disclaimer.continued">
 		<context>disclaimer</context>
@@ -192,6 +216,9 @@
         <value lang="ro" status="translated">sunt stocate precum sunt primite de la serviciul lor, în timp ce dispozitivele CityPulse
         	depind de corectitudinea senzorilor folosiți: Nova PM SDS011 / SDS021, DHT22 și senzor Grove Sound.
 			Consultați fișele lor pentru detalii.</value>
+        <value lang="sqi" status="translated">janë të ruajtura ashtu siç pranohen nga servisi i tyre, ndërsa pajisjet CityPulse
+            varen nga korrektësia e sensorëve të përdorur: Nova PM SDS011/SDS021, DHT22 dhe Grove Sound sensor. Ju lutemi që të drejtoheni
+            tek dokumentimet e tyre per detaje të mëtutjeshme.</value>
 	</text>
 	<text key="connect.title">
 		<context>index</context>
@@ -200,6 +227,7 @@
 		<value lang="mk" status="translated">Поврзи се</value>
 		<value lang="rs" status="initial">Poveži se</value>
 		<value lang="ro" status="translated">Conectați</value>
+		<value lang="sqi" status="translated">Lidhu</value>
 	</text>
 	<text key="login">
 		<context>index</context>
@@ -208,6 +236,7 @@
 		<value lang="mk" status="translated">Најава</value>
 		<value lang="rs" status="initial">Prijava</value>
 		<value lang="ro" status="translated">Autentificare</value>
+		<value lang="sqi" status="translated">Kyçu</value>
 	</text>
 	<text key="hack.content">
 		<context>index</context>
@@ -223,6 +252,8 @@
         <value lang="ro" status="translated">Una dintre principalele caracteristici ale proiectului este de a pune datele la 
         	dispoziția tuturor. Puteți să utilizați API-ul nostru și să colectați datele pentru dezvoltarea propriilor dvs. aplicații.
         </value>
+        <value lang="sqi" status="translated">Një nga karakteristikat kryesore të projektit është që sigurohet se të dhënat janë të disponueshme për të gjithë.
+            Mos ngurroni të përdorni API-në tonë dhe të mblidhni të dhënat për zhvillimin e aplikacioneve juaja personale.</value>
 	</text>
 	<text key="frontmap.past.hours">
 		<context>map</context>
@@ -231,6 +262,7 @@
 		<value lang="mk" status="translated">Минатите 24 часа:</value>
 		<value lang="rs" status="initial">Zadnja 24h</value>
 		<value lang="ro" status="translated">Ultimele 24 de ore:</value>
+		<value lang="sqi" status="translated">24 orët e kaluara:</value>
 	</text>
 	<text key="frontmap.btn.details">
 	    <context>map</context>
@@ -239,6 +271,7 @@
         <value lang="mk" status="translated">Детали</value>
         <value lang="rs" status="translated">Detalji</value>
         <value lang="ro" status="translated">Detalii</value>
+        <value lang="sqi" status="translated">Detajet</value>
 	</text>
 	<text key="register">
 		<context>index</context>
@@ -247,6 +280,7 @@
 		<value lang="mk" status="translated">Регистрација</value>
 		<value lang="rs" status="initial">Registracija</value>
 		<value lang="ro" status="translated">Înregistrare</value>
+		<value lang="sqi" status="translated">Regjistrohu</value>
 	</text>
 	<text key="faq">
 		<context>index</context>
@@ -255,6 +289,7 @@
 		<value lang="mk" status="translated">Често поставувани прашања</value>
 		<value lang="rs" status="initial">Često postavljana pitanja</value>
 		<value lang="ro" status="translated">Întrebări frecvente</value>
+		<value lang="sqi" status="translated">Pyetjet më të shpeshta</value>
 	</text>
 	<text key="dashboard">
 		<context>index</context>
@@ -263,6 +298,7 @@
 		<value lang="mk" status="translated">Работна табла</value>
 		<value lang="rs" status="initial">Radna tabla</value>
 		<value lang="ro" status="translated">Bord</value>
+		<value lang="sqi" status="translated">Paneli</value>
 	</text>
 	<text key="participate.title">
 		<context>index</context>
@@ -271,6 +307,7 @@
 		<value lang="mk" status="translated">Учествувај и помогни да порасне мрежата на твојот град.</value>
 		<value lang="rs" status="initial">Učestvuj i pomozi da mreža u tvom gradu raste.</value>
 		<value lang="ro" status="translated">Participă și ajută rețeaua orașului să crească!</value>
+		<value lang="sqi" status="translated">Merr pjesë dhe ndihmo në rritjen e rrjetit në qytetin tënd!</value>
 	</text>
 	<text key="frontmap.recommend">
 		<context>map</context>
@@ -279,6 +316,7 @@
 		<value lang="mk" status="translated">Препорачуваме:</value>
 		<value lang="rs" status="initial">Preporučujemo:</value>
 		<value lang="ro" status="translated">Îți recomandăm:</value>
+		<value lang="sqi" status="translated">Ne rekomandojmë:</value>
 	</text>
 	<text key="add.device">
 		<context>map</context>
@@ -287,6 +325,7 @@
 		<value lang="mk" status="translated">Додади го твојот уред</value>
 		<value lang="rs" status="initial">Dodaj svoj uređaj</value>
 		<value lang="ro" status="translated">Adăugați dispozitivul dvs.</value>
+		<value lang="sqi" status="translated">Shto pajisjen tënde</value>
 	</text>
 	<text key="footer.content">
 		<context>index</context>
@@ -309,6 +348,10 @@
         	de la senzori terți sunt stocate așa cum sunt primite de la serviciul lor, iar dispozitivele pulse.eco depind
         	de corectitudinea senzorilor folosiți și de condițiile din apropierea lor. Vă rugăm să consultați secțiunea Întrebări frecvente pentru detalii.
         </value>
+        <value lang="sqi" status="translated">Të dhënat e shfaqura kanë prejardhje nga komuniteti. Nuk e garantojmë saktësine e tyre.
+            Të dhënat e sensorëve të palëve të treta ruhen ashtu siç janë marrë nga shërbimi i tyre, ndërsa pajisjet pulse.eco varen nga
+            korrektësija e sensorëve të përdorur dhe kushtet në rrethinën e tyre më të afërt. Ju lutemi drejtohuni tek pjesa për
+            Pyetjet më të shpeshta për më shumë detaje.</value>
 	</text>
 	<text key="modal.choose.sensors">
 		<context>map</context>
@@ -317,6 +360,7 @@
 		<value lang="mk" status="translated">Изберете најмногу 10 сензори за прикажување:</value>
 		<value lang="rs" status="initial">Izaberi najviše 10 senzora za prikaz:</value>
 		<value lang="ro" status="translated">Alegeți până la 10 senzori pentru a afișa:</value>
+		<value lang="sqi" status="translated">Zgjedhni deri në 10 sensore për tu shfaqur:</value>
 	</text>
 	<text key="footer.title">
 		<context>index</context>
@@ -325,6 +369,7 @@
 		<value lang="mk" status="translated">Почувствувај го пулсот на твојот град!</value>
 		<value lang="rs" status="initial">Oseti puls svog grada!</value>
 		<value lang="ro" status="translated">Simte pulsul orașului tău!</value>
+		<value lang="sqi" status="translated">Ndjeje pulsin e qytetit tënd!</value>
 	</text>
 	<text key="modal.save">
 		<context>map</context>
@@ -333,6 +378,7 @@
 		<value lang="mk" status="translated">Зачувај</value>
 		<value lang="rs" status="initial">Sačuvaj promene</value>
 		<value lang="ro" status="translated">Salvează modificările</value>
+		<value lang="sqi" status="translated">Ruaj ndryshimet</value>
 	</text>
 	<text key="frontmap.overview">
 		<context>map</context>
@@ -341,6 +387,7 @@
 		<value lang="mk" status="translated">Преглед</value>
 		<value lang="rs" status="initial">Pregled</value>
 		<value lang="ro" status="translated">Privire ansamblu</value>
+		<value lang="sqi" status="translated">Vështrim i përgjithshëm i qytetit</value>
 	</text>
 	<text key="play.store">
 		<context>index</context>
@@ -349,6 +396,7 @@
 		<value lang="mk" status="translated">Play Store</value>
 		<value lang="rs" status="initial">Play Store</value>
 		<value lang="ro" status="translated">Play Store</value>
+		<value lang="sqi" status="translated">Play Store</value>
 	</text>
 	<text key="logout">
 		<context>index</context>
@@ -357,6 +405,7 @@
 		<value lang="mk" status="translated">Одјава</value>
 		<value lang="rs" status="initial">Odjava</value>
 		<value lang="ro" status="translated">Deconectare</value>
+		<value lang="sqi" status="translated">Shkyçu</value>
 	</text>
 	<text key="modal.close">
 		<context>map</context>
@@ -365,6 +414,7 @@
 		<value lang="mk" status="translated">Затвори</value>
 		<value lang="rs" status="initial">Zatvori</value>
 		<value lang="ro" status="translated">Închide</value>
+		<value lang="sqi" status="translated">Mbylle</value>
 	</text>
 	<text key="inspire.content">
 		<context>index</context>
@@ -378,6 +428,8 @@
 			tvoje ideje o unapređivanju projekta.</value>
         <value lang="ro" status="translated">Ești o persoană creativă și inovatoare? Devino un colaborator al echipei.
 			Va fi plăcerea noastră să îți revizuim ideile pentru îmbunătățirea proiectului nostru.</value>
+        <value lang="sqi" status="translated">A jeni person inovativ dhe kreativ? Bëhuni kontribues në ekipin tonë.
+        Do të jetë kënaqësi të shqyrtojmë idetë tuaja për përmirësimin e projektit tonë.</value>
 	</text>
 	<text key="licenses">
 		<context>index</context>
@@ -386,6 +438,7 @@
 		<value lang="mk" status="translated">Лиценци</value>
 		<value lang="rs" status="initial">Licence</value>
 		<value lang="ro" status="translated">Licențe</value>
+		<value lang="sqi" status="translated">Licentcat</value>
 	</text>
 	<text key="app.store">
 		<context>index</context>
@@ -394,6 +447,7 @@
 		<value lang="mk" status="translated">App Store</value>
 		<value lang="rs" status="initial">App Store</value>
 		<value lang="ro" status="translated">App Store</value>
+		<value lang="sqi" status="translated">App Store</value>
 	</text>
 	<text key="frontmap.past.week">
 		<context>map</context>
@@ -402,6 +456,7 @@
 		<value lang="mk" status="translated">Минатата недела:</value>
 		<value lang="rs" status="initial">Prethodna nedelja:</value>
 		<value lang="ro" status="translated">Săptămâna trecută:</value>
+		<value lang="sqi" status="translated">Java e kaluar:</value>
 	</text>
 	<text key="frontmap.past.dailyavg">
 		<context>map</context>
@@ -410,6 +465,7 @@
 		<value lang="mk" status="translated">Дневни просеци:</value>
 		<value lang="rs" status="initial">Dnevni proseci:</value>
 		<value lang="ro" status="translated">Medii zilnice:</value>
+		<value lang="sqi" status="translated">Mesataret ditore:</value>
 	</text>
 	<text key="rest.docs">
 		<context>index</context>
@@ -418,6 +474,7 @@
 		<value lang="mk" status="translated">Документација за REST API</value>
 		<value lang="rs" status="initial">REST API dokumentacija</value>
 		<value lang="ro" status="translated">Documentație REST API</value>
+		<value lang="sqi" status="translated">Dokumentimi për REST API</value>
 	</text>
 	<text key="rights">
 		<context>copyright</context>
@@ -426,6 +483,7 @@
 		<value lang="mk" status="translated">2021 pulse.eco. Сите права се задржани.</value>
 		<value lang="rs" status="initial">2021 pulse.eco. Sva prava zadržana.</value>
 		<value lang="ro" status="translated">2021 pulse.eco. Toate drepturile rezervate.</value>
+		<value lang="sqi" status="translated">2021 pulse.eco. Të gjitha të drejtat e rezervuara.</value>
 	</text>
 	<text key="frontmap.disclaimer.title">
 		<context>disclaimer</context>
@@ -434,6 +492,7 @@
 		<value lang="mk" status="translated">Забелешка:</value>
 		<value lang="rs" status="initial">Napomena:</value>
 		<value lang="ro" status="translated">Disclaimer:</value>
+		<value lang="sqi" status="translated">Vërejtje:</value>
 	</text>
 	<text key="frontmap.disclaimer">
 		<context>disclaimer</context>
@@ -446,6 +505,8 @@
 		<value lang="rs" status="initial">Prikazani podaci dolaze direktno sa samih senzora. Ne garantujemo kvalitet 
 			ovih podataka.</value>
         <value lang="ro" status="translated">Datele afișate provin direct de la senzorii folosiți. Nu garantăm corectitudinea lor.</value>
+        <value lang="sqi" status="translated">Të dhënat e shfaqura vinë direkt prej sensorëve të përdorur.
+            Ne nuk garantojmë saktësinë e tyre.</value>
 	</text>
 	<text key="frontmap.disclaimer.details">
 		<context>disclaimer</context>
@@ -454,6 +515,7 @@
 		<value lang="mk" status="translated">Детали</value>
 		<value lang="rs" status="initial">Detalji</value>
 		<value lang="ro" status="translated">Detalii</value>
+		<value lang="sqi" status="translated">Detajet</value>
 	</text>
 	<text key="has.community.lead.title">
 		<context>index</context>
@@ -462,6 +524,7 @@
 		<value lang="mk" status="translated">Водач на заедница</value>
 		<value lang="rs" status="initial">Vođa zajednice</value>
 		<value lang="ro" status="translated">Lider comunitate</value>
+		<value lang="sqi" status="translated">Udhëheqës i komunitetit</value>
 	</text>
 	<text key="hack.title">
 		<context>index</context>
@@ -470,6 +533,7 @@
 		<value lang="mk" status="translated">Хакирај</value>
 		<value lang="rs" status="initial">Hakuj</value>
 		<value lang="ro" status="translated">Hack</value>
+		<value lang="sqi" status="translated">Hako</value>
 	</text>
 	<text key="change.password">
 		<context>index</context>
@@ -478,6 +542,7 @@
 		<value lang="mk" status="translated">Промени лозинка</value>
 		<value lang="rs" status="initial">Promeni lozinku</value>
 		<value lang="ro" status="translated">Schimbați parola</value>
+		<value lang="sqi" status="translated">Ndërro fjalkalimin</value>
 	</text>
 	<text key="inspire.title">
 		<context>index</context>
@@ -486,6 +551,7 @@
 		<value lang="mk" status="translated">Инспирирај</value>
 		<value lang="rs" status="initial">Inspiriši</value>
 		<value lang="ro" status="translated">Inspiră</value>
+		<value lang="sqi" status="translated">Inspiro</value>
 	</text>
 	<text key="explore.data">
 		<context>index</context>
@@ -494,6 +560,7 @@
 		<value lang="mk" status="translated">Пребарај податоци</value>
 		<value lang="rs" status="initial">Istraži podatke</value>
 		<value lang="ro" status="translated">Explorați datele</value>
+		<value lang="sqi" status="translated">Eksploro të dhënat</value>
 	</text>
 	<text key="participate">
 		<context>index</context>
@@ -502,6 +569,7 @@
 		<value lang="mk" status="translated">Учествувај</value>
 		<value lang="rs" status="initial">Učestvuj</value>
 		<value lang="ro" status="translated">Participați</value>
+		<value lang="sqi" status="translated">Merr pjesë</value>
 	</text>
 	<text key="no.community.lead.title">
 		<context>index</context>
@@ -510,6 +578,7 @@
 		<value lang="mk" status="translated">Се уште нема водач на заедницата за овој град.</value>
 		<value lang="rs" status="initial">Još uvek nema vođe za ovu zajednicu.</value>
 		<value lang="ro" status="translated">Nu există încă un lider de comunitate pentru acest oraș.</value>
+		<value lang="sqi" status="translated">Akoma nuk ka udhëheqës të komunitetit për këtë qytet.</value>
 	</text>
 	<text key="connect.content">
 		<context>index</context>
@@ -524,6 +593,9 @@
 		<value lang="ro" status="translated">Dacă locuiți în zonele acoperite de TTN și doriți să dețineți un senzor pulse.eco 
 		la domiciliul dvs. sau poate doriți sa creați unul singur și să-l conectați prin WiFi, apoi contactați liderul
 			comunității orașului dvs. astăzi.</value>
+        <value lang="sqi" status="translated">Nëse jetoni në afërsi të zonave të mbuluara nga TTN dhe dëshironi të posedoni një
+        pulse.eco sensor në shtëpinë tuaj, apo dëshironi të krijoni një vet dhe ta lidhni përmes WiFi,
+        atëherë kontaktoni udhëheqësin e komunitetit të qytetit tuaj tani.</value>
 	</text>
 	<text key="register.privacy.policy">
 		<context>register</context>
@@ -532,6 +604,7 @@
 		<value lang="mk" status="translated">Политиката за приватност</value>
 		<value lang="rs" status="initial">Politika privatnosti</value>
 		<value lang="ro" status="translated">Politica de confidențialitate</value>
+		<value lang="sqi" status="translated">Politikat për privatësi</value>
 	</text>
 	<text key="register.privacy.policy.read">
 		<context>register</context>
@@ -540,6 +613,7 @@
 		<value lang="mk" status="translated">Ја прочитав</value>
 		<value lang="rs" status="initial">Pročitao sam</value>
 		<value lang="ro" status="translated">Am citit</value>
+		<value lang="sqi" status="translated">I kam lexuar</value>
 	</text>
 	<text key="privacy.policy">
 		<context>index</context>
@@ -548,6 +622,7 @@
 		<value lang="mk" status="translated">Политиката за приватност</value>
 		<value lang="rs" status="initial">Politiku privatnosti</value>
 		<value lang="ro" status="translated">Politica de confidențialitate</value>
+		<value lang="sqi" status="translated">Politikat për privatësi</value>
 	</text>
 	<text key="register.privacy.policy.accept">
 		<context>index</context>
@@ -556,6 +631,7 @@
 		<value lang="mk" status="translated">и ја прифаќам.</value>
 		<value lang="rs" status="initial">i prihvatam je.</value>
    		<value lang="ro" status="translated">și o accept.</value>
+   		<value lang="sqi" status="translated">dhe i pranoj të njejtat.</value>
 	</text>
 	<text key="frontmap.current.situation">
 		<context>index</context>
@@ -564,6 +640,7 @@
 		<value lang="mk" status="translated">Моментална ситуација:</value>
 		<value lang="rs" status="initial">Trenutna situacija:</value>
 		<value lang="ro" status="translated">Situația actuală</value>
+		<value lang="sqi" status="translated">Situata momentale</value>
 	</text>
 	<text key="profile">
 		<context>index</context>
@@ -572,6 +649,7 @@
 		<value lang="mk" status="translated">Профил</value>
 		<value lang="rs" status="initial">Profil</value>
 		<value lang="ro" status="translated">Profil</value>
+		<value lang="sqi" status="translated">Profili</value>
 	</text>
 	<text key="about">
 		<context>index</context>
@@ -580,6 +658,7 @@
 		<value lang="mk" status="translated">За проектот</value>
 		<value lang="rs" status="initial">O projektu</value>
 		<value lang="ro" status="translated">Despre</value>
+		<value lang="sqi" status="translated">Rreth projektit</value>
 	</text>
 	<text key="no.community.lead.content">
 		<context>index</context>
@@ -588,6 +667,7 @@
 		<value lang="mk" status="translated">Ако сакаш да станеш водач на заедницата за твојот град,</value>
 		<value lang="rs" status="initial">Ako si zainteresovan da postaneš vođa zajednice u svom gradu,</value>
 		<value lang="ro" status="translated">Dacă sunteți interesat să deveniți unul,</value>
+		<value lang="sqi" status="translated">Nëse dëshiron të bëhesh udhëheqës i komunitetit në qytetin tënd,</value>
 	</text>
 	<text key="let.us.know">
 		<context>index</context>
@@ -596,6 +676,7 @@
 		<value lang="mk" status="translated">извести не</value>
 		<value lang="rs" status="initial">obavesti nas</value>
 		<value lang="ro" status="translated">anunțați-ne</value>
+		<value lang="sqi" status="translated">na lajmëro</value>
 	</text>
 	<text key="frontmap.locations">
 		<context>map</context>
@@ -604,6 +685,7 @@
 		<value lang="mk" status="translated">Локации</value>
 		<value lang="rs" status="initial">Lokacije</value>
 		<value lang="ro" status="translated">Locații</value>
+		<value lang="sqi" status="translated">Lokacionet</value>
 	</text>
 	<text key="explore.sensors">
 		<context>explore</context>
@@ -612,6 +694,7 @@
 		<value lang="mk" status="translated">Одбери сензор за кој сакаш да добиеш информации:</value>
 		<value lang="rs" status="initial">Izaberi senzore za koje želiš informacije:</value>
 		<value lang="ro" status="translated">Alegeți senzorii pentru care doriți informații:</value>
+		<value lang="sqi" status="translated">Zgjedh sensorët për të cilët dëshiron të shikosh informata:</value>
 	</text>
 	<text key="explore.save">
 		<context>explore</context>
@@ -620,6 +703,7 @@
 		<value lang="mk" status="translated">Зачувај</value>
 		<value lang="rs" status="initial">Sačuvaj promene</value>
 		<value lang="ro" status="translated">Salvează modificările</value>
+		<value lang="sqi" status="translated">Ruaj ndryshimet</value>
 	</text>
 	<text key="explore.close">
 		<context>explore</context>
@@ -628,6 +712,7 @@
 		<value lang="mk" status="translated">Затвори</value>
 		<value lang="rs" status="initial">Zatvori</value>
 		<value lang="ro" status="translated">Închide</value>
+		<value lang="sqi" status="translated">Mbylle</value>
 	</text>
 	<text key="explore.date.from">
 		<context>explore</context>
@@ -636,6 +721,7 @@
 		<value lang="mk" status="translated">Од:</value>
 		<value lang="rs" status="initial">Od:</value>
 		<value lang="ro" status="translated">De la:</value>
+		<value lang="sqi" status="translated">Prej:</value>
 	</text>
 	<text key="explore.date.to">
 		<context>explore</context>
@@ -644,6 +730,7 @@
 		<value lang="mk" status="translated">До:</value>
 		<value lang="rs" status="initial">Do:</value>
 		<value lang="ro" status="translated">La:</value>
+		<value lang="sqi" status="translated">Deri:</value>
 	</text>
 	<text key="explore.select.sensors">
 		<context>explore</context>
@@ -652,6 +739,7 @@
 		<value lang="mk" status="translated">Одбери сензори</value>
 		<value lang="rs" status="initial">Izaberi senzore</value>
 		<value lang="ro" status="translated">Selectați senzori</value>
+		<value lang="sqi" status="translated">Zgjedh sensorë</value>
 	</text>
 	<text key="explore.search">
 		<context>explore</context>
@@ -660,6 +748,7 @@
 		<value lang="mk" status="translated">Пребарај</value>
 		<value lang="rs" status="initial">Traži</value>
 		<value lang="ro" status="translated">Căutați</value>
+		<value lang="sqi" status="translated">Kërko</value>
 	</text>
 	<text key="explore.disclaimer.title">
 		<context>explore</context>
@@ -668,6 +757,7 @@
 		<value lang="mk" status="translated">Забелешка:</value>
 		<value lang="rs" status="initial">Napomena:</value>
 		<value lang="ro" status="translated">Disclaimer:</value>
+		<value lang="sqi" status="translated">Vërejtje:</value>
 	</text>
 	<text key="explore.disclaimer.content">
 		<context>explore</context>
@@ -680,6 +770,8 @@
 		<value lang="rs" status="initial">Prikazani podaci direktno dolaze sa senzora. Ne garantujemo njihovu ispravnost.</value>
         <value lang="ro" status="translated">Datele afișate provin direct de la senzorii folosiți. Nu garantăm corectitudinea lor.
         </value>
+        <value lang="sqi" status="translated">Të dhënat e shfaqura vinë direkt prej sensorëve të përdorur.
+            Ne nuk garantojmë saktësinë e tyre.</value>
 	</text>
 	<text key="explore.disclaimer.details">
 		<context>explore</context>
@@ -688,6 +780,7 @@
 		<value lang="mk" status="translated">Детали</value>
 		<value lang="rs" status="initial">Detalji</value>
 		<value lang="ro" status="translated">Detalii</value>
+		<value lang="sqi" status="translated">Detajet</value>
 	</text>
 	<text key="update.user.title">
 		<context>profile</context>
@@ -696,6 +789,7 @@
 		<value lang="mk" status="translated">Aжурирај профил</value>
 		<value lang="rs" status="initial">Ažuriraj profil</value>
 		<value lang="ro" status="translated">Actualizează utilizator</value>
+		<value lang="sqi" status="translated">Përditëso profilin</value>
 	</text>
 	<text key="user.name">
 		<context>profile</context>
@@ -704,6 +798,7 @@
 		<value lang="mk" status="translated">Име:</value>
 		<value lang="rs" status="initial">Ime:</value>
 		<value lang="ro" status="translated">Nume:</value>
+		<value lang="sqi" status="translated">Emri:</value>
 	</text>
 	<text key="user.email">
 		<context>profile</context>
@@ -712,6 +807,7 @@
 		<value lang="mk" status="translated">Email адреса:</value>
 		<value lang="rs" status="initial">E-pošta:</value>
 		<value lang="ro" status="translated">Email:</value>
+		<value lang="sqi" status="translated">Email:</value>
 	</text>
 	<text key="user.exists">
 		<context>profile</context>
@@ -720,6 +816,7 @@
 		<value lang="mk" status="translated">Корисник со истата email адреса веќе постои</value>
 		<value lang="rs" status="initial">Korisnik sa istom adresom e-pošte već postoji</value>
 		<value lang="ro" status="translated">Există deja un utilizator cu aceeași adresă de email</value>
+		<value lang="sqi" status="translated">Përdorues me të njejtën email adresë tashmë ekziston</value>
 	</text>
 	<text key="user.update">
 		<context>profile</context>
@@ -728,6 +825,7 @@
 		<value lang="mk" status="translated">Ажурирај</value>
 		<value lang="rs" status="initial">Ažuriraj</value>
 		<value lang="ro" status="translated">Actualizați</value>
+		<value lang="sqi" status="translated">Përditëso</value>
 	</text>
 	<text key="receive.emails.text">
 		<context>user</context>
@@ -736,6 +834,7 @@
 		<value lang="mk" status="translated">Сакам да добивам email пораки за поважни новости:</value>
 		<value lang="rs" status="initial">Želim da primam poruke o važnim novostima:</value>
 		<value lang="ro" status="translated">Doresc să primesc e-mailuri pentru actualizări majore:</value>
+		<value lang="sqi" status="translated">Dëshiroj të pranoj email mesazhe për përditësmet kryesore:</value>
 	</text>
 	<text key="invalid.input">
 		<context>Request password reset</context>
@@ -744,6 +843,7 @@
 		<value lang="mk" status="translated">Невалидни податоци. Обидете се повторно.</value>
 		<value lang="rs" status="initial">Nevalidni podaci. Probaj ponovo.</value>
 		<value lang="ro" status="translated">Date invalide. Încercați din nou.</value>
+		<value lang="sqi" status="translated">Të dhëna të pavlefshme. Provoni përsëri.</value>
 	</text>
 	<text key="register.label.password.re-enter">
 		<context>Register Users</context>
@@ -752,6 +852,7 @@
 		<value lang="mk" status="translated">Повторно внесете ја лозинката:</value>
 		<value lang="rs" status="initial">Ponovi lozinku:</value>
 		<value lang="ro" status="translated">Reintroduceți parola:</value>
+		<value lang="sqi" status="translated">Hyni fjalkalimin përsëri:</value>
 	</text>
 	<text key="register.name">
 		<context>Register Users</context>
@@ -760,6 +861,7 @@
 		<value lang="mk" status="translated">Име</value>
 		<value lang="rs" status="initial">Ime</value>
 		<value lang="ro" status="translated">Nume</value>
+		<value lang="sqi" status="translated">Emri</value>
 	</text>
 	<text key="register.validation.password.min-length">
 		<context>Register Validation</context>
@@ -768,6 +870,7 @@
 		<value lang="mk" status="translated">*Лозинката мора да има најмалку 6 карактери</value>
 		<value lang="rs" status="initial">*Lozinka mora da ima najmanje 6 karaktera</value>
 		<value lang="ro" status="translated">*Parola trebuie să aibă cel puțin 6 caractere</value>
+		<value lang="sqi" status="translated">*Fjalkalimi duhet të përmbaj më së paku 6 karaktere</value>
 	</text>
 	<text key="password.change.submit">
 		<context>Change Password</context>
@@ -776,6 +879,7 @@
 		<value lang="mk" status="translated">Променете ја лозинката</value>
 		<value lang="rs" status="initial">Promena lozinke</value>
 		<value lang="ro" status="translated">Schimbați parola</value>
+		<value lang="sqi" status="translated">Ndërro fjalkalimin</value>
 	</text>
 	<text key="password.old">
 		<context>Change Password</context>
@@ -784,6 +888,7 @@
 		<value lang="mk" status="translated">Лозинка:</value>
 		<value lang="rs" status="initial">Stara lozinka:</value>
 		<value lang="ro" status="translated">Parola veche:</value>
+		<value lang="sqi" status="translated">Fjalkalimi i vjetër:</value>
 	</text>
 	<text key="credentials.error">
 		<context>Request password reset</context>
@@ -792,6 +897,7 @@
 		<value lang="mk" status="translated">Неточни податоци</value>
 		<value lang="rs" status="initial">Pogrešni podaci</value>
 		<value lang="ro" status="translated">Credențiale invalide</value>
+		<value lang="sqi" status="translated">Kredenciale të pavlefshme</value>
 	</text>
 	<text key="password.change.title">
 		<context>Change Password</context>
@@ -800,6 +906,7 @@
 		<value lang="mk" status="translated">Промена на лозинката</value>
 		<value lang="rs" status="initial">Promena lozinke</value>
 		<value lang="ro" status="translated">Schimbați parola</value>
+		<value lang="sqi" status="translated">Ndërro fjalkalimin</value>
 	</text>
 	<text key="password.reset.failure">
 		<context>Request password reset</context>
@@ -808,6 +915,7 @@
 		<value lang="mk" status="translated">Неуспешно ресетирање на лозинката. Обидете се повторно.</value>
 		<value lang="rs" status="initial">Neuspešno resetovanje lozinke. Pokušaj ponovo.</value>
 		<value lang="ro" status="translated">Resetarea parolei nu a reușit. Încercați din nou.</value>
+		<value lang="sqi" status="translated">Ndërrimi i fjalkalimit i pasuksesshëm. Provoni përsëri.</value>
 	</text>
 	<text key="login.remember">
 		<context>Login Page</context>
@@ -816,6 +924,7 @@
 		<value lang="mk" status="translated">Запомни ме</value>
 		<value lang="rs" status="initial">Zapamti me</value>
 		<value lang="ro" status="translated">Ține-mă minte:</value>
+		<value lang="sqi" status="translated">Më kujto:</value>
 	</text>
 	<text key="login.submit">
 		<context>Login Page</context>
@@ -824,6 +933,7 @@
 		<value lang="mk" status="translated">Најавете се</value>
 		<value lang="rs" status="initial">Prijava</value>
 		<value lang="ro" status="translated">Autentificare</value>
+		<value lang="sqi" status="translated">Kyçu</value>
 	</text>
 	<text key="register.title">
 		<context>Register Users</context>
@@ -832,6 +942,7 @@
 		<value lang="mk" status="translated">Регистрација</value>
 		<value lang="rs" status="initial">Registracija</value>
 		<value lang="ro" status="translated">Înregistrare</value>
+		<value lang="sqi" status="translated">Regjistrohu</value>
 	</text>
 	<text key="password.placeholder.confirm">
 		<context>Change Password</context>
@@ -840,6 +951,7 @@
 		<value lang="mk" status="translated">Внесете ја новата лозинка</value>
 		<value lang="rs" status="initial">Potvrdi lozinku</value>
 		<value lang="ro" status="translated">Confirmă parola nouă</value>
+		<value lang="sqi" status="translated">Konfirmoni fjalkalimin e ri</value>
 	</text>
 	<text key="register.submit">
 		<context>Register Users</context>
@@ -848,6 +960,7 @@
 		<value lang="mk" status="translated">Регистрирајте се</value>
 		<value lang="rs" status="initial">Registruj se</value>
 		<value lang="ro" status="translated">Înregistrare</value>
+		<value lang="sqi" status="translated">Regjistrohu</value>
 	</text>
 	<text key="register.placeholder.email">
 		<context>Register Users</context>
@@ -856,6 +969,7 @@
 		<value lang="mk" status="translated">email@email.com</value>
 		<value lang="rs" status="initial">elektronska@posta.com</value>
 		<value lang="ro" status="translated">email@email.com</value>
+		<value lang="sqi" status="translated">email@email.com</value>
 	</text>
 	<text key="login.title">
 		<context>Login Page</context>
@@ -864,6 +978,7 @@
 		<value lang="mk" status="translated">Најава</value>
 		<value lang="rs" status="initial">Prijava</value>
 		<value lang="ro" status="translated">Autentificare</value>
+		<value lang="sqi" status="translated">Kyçu</value>
 	</text>
 	<text key="register.invalid.input">
 		<context>Register Users</context>
@@ -872,6 +987,7 @@
 		<value lang="mk" status="translated">Невалидни податоци. Обидете се повторно.</value>
 		<value lang="rs" status="initial">Netačni podaci. Probaj ponovo.</value>
 		<value lang="ro" status="translated">Date invalide. Încercați din nou.</value>
+		<value lang="sqi" status="translated">Të dhënat e pavlefshme. Provoni përsëri.</value>
 	</text>
 	<text key="password.reset.submit">
 		<context>Request password reset</context>
@@ -880,6 +996,7 @@
 		<value lang="mk" status="translated">Ресетирајте ја лозинката</value>
 		<value lang="rs" status="initial">Resetuj lozinku</value>
 		<value lang="ro" status="translated">Resetare parolă</value>
+		<value lang="sqi" status="translated">Ndërro fjalkalimin</value>
 	</text>
 	<text key="email">
 		<context>General User properties</context>
@@ -888,6 +1005,7 @@
 		<value lang="mk" status="translated">Email адреса</value>
 		<value lang="rs" status="initial">E-pošta</value>
 		<value lang="ro" status="translated">E-mail</value>
+		<value lang="sqi" status="translated">E-mail adresa</value>
 	</text>
 	<text key="register.validation.required">
 		<context>Register Validation</context>
@@ -896,6 +1014,7 @@
 		<value lang="mk" status="translated">*Задолжително поле</value>
 		<value lang="rs" status="initial">*Obavezno polje</value>
 		<value lang="ro" status="translated">*Câmp necesar</value>
+		<value lang="sqi" status="translated">*Fushë e detyrueshme</value>
 	</text>
 	<text key="username">
 		<context>General User properties</context>
@@ -904,6 +1023,7 @@
 		<value lang="mk" status="translated">Корисничко име</value>
 		<value lang="rs" status="initial">Korisnično ime</value>
 		<value lang="ro" status="translated">Nume de utilizator</value>
+		<value lang="sqi" status="translated">Emri i përdoruesit</value>
 	</text>
 	<text key="password.no-match">
 		<context>Change Password</context>
@@ -912,6 +1032,7 @@
 		<value lang="mk" status="translated">Лозинките не се совпаѓаат</value>
 		<value lang="rs" status="initial">Lozinke nisu iste</value>
 		<value lang="ro" status="translated">Parolele nu sunt identice</value>
+		<value lang="sqi" status="translated">Fjalkalimet nuk përputhen</value>
 	</text>
 	<text key="password.placeholder.old">
 		<context>Change Password</context>
@@ -920,6 +1041,7 @@
 		<value lang="mk" status="translated">Внесете ја лозинката</value>
 		<value lang="rs" status="initial">Unesi staru lozinku</value>
 		<value lang="ro" status="translated">Introduceți parola veche</value>
+		<value lang="sqi" status="translated">Hyni fjalkalimin e vjetër</value>
 	</text>
 	<text key="password.new">
 		<context>Change Password</context>
@@ -928,6 +1050,7 @@
 		<value lang="mk" status="translated">Нова лозинка:</value>
 		<value lang="rs" status="initial">Nova lozinka</value>
 		<value lang="ro" status="translated">Parola nouă:</value>
+		<value lang="sqi" status="translated">Fjalkalimi i ri:</value>
 	</text>
 	<text key="password.request.reset.title">
 		<context>Request password reset</context>
@@ -936,6 +1059,7 @@
 		<value lang="mk" status="translated">Ресетирање на лозинката</value>
 		<value lang="rs" status="initial">Resetuj lozinku</value>
 		<value lang="ro" status="translated">Resetare parolă</value>
+		<value lang="sqi" status="translated">Ndërro fjalkalimin</value>
 	</text>
 	<text key="register.registration.failure">
 		<context>Register Users</context>
@@ -944,6 +1068,7 @@
 		<value lang="mk" status="translated">Неуспешна регистрација. Обидете се повторно.</value>
 		<value lang="rs" status="initial">Neuspešna registracija. Probajte ponovo.</value>
 		<value lang="ro" status="translated">Înregistrare eșuată. Încercați din nou.</value>
+		<value lang="sqi" status="translated">Regjistrimi i pasuksesshëm. Provoni përsëri.</value>
 	</text>
 	<text key="password.placeholder.new">
 		<context>Change Password</context>
@@ -952,6 +1077,7 @@
 		<value lang="mk" status="translated">Внесете ја новата лозинка</value>
 		<value lang="rs" status="initial">Unesite novu lozinku</value>
 		<value lang="ro" status="translated">Introduceți parola nouă</value>
+		<value lang="sqi" status="translated">Hyni fjalkalimin e ri</value>
 	</text>
 	<text key="register.username.in-use">
 		<context>Register Users</context>
@@ -960,6 +1086,7 @@
 		<value lang="mk" status="translated">Корисничкото име или емаил се во употреба. Обидете се повторно.</value>
 		<value lang="rs" status="initial">Korisničko ime ili adresa e-pošte je već u upotrebi. Probaj ponovo.</value>
 		<value lang="ro" status="translated">Nume de utilizator sau e-mail deja utilizat. Încercați din nou.</value>
+		<value lang="sqi" status="translated">Emri i përdoruesit ose email adresa është tashmë në përdorim. Provoni përsëri.</value>
 	</text>
 	<text key="register.validation.password.no-match">
 		<context>Register Validation</context>
@@ -968,6 +1095,7 @@
 		<value lang="mk" status="translated">*Лозинките не се совпаѓаат</value>
 		<value lang="rs" status="initial">*Lozinke nisu iste</value>
 		<value lang="ro" status="translated">*Parolele nu sunt identice</value>
+		<value lang="sqi" status="translated">*Fjakalimet nuk përputhen</value>
 	</text>
 	<text key="password.confirm">
 		<context>Change Password</context>
@@ -976,6 +1104,7 @@
 		<value lang="mk" status="translated">Повторно внесете ја новата лозинка:</value>
 		<value lang="rs" status="initial">Potvrdi novu lozinku:</value>
 		<value lang="ro" status="translated">Confirmare parolă nouă:</value>
+		<value lang="sqi" status="translated">Konfirmoni fjalkalimin e ri:</value>
 	</text>
 	<text key="login.forgot.password">
 		<context>Login Page</context>
@@ -984,6 +1113,7 @@
 		<value lang="mk" status="translated">Ја заборавив лозинката</value>
 		<value lang="rs" status="initial">Zaboravljena lozinka</value>
 		<value lang="ro" status="translated">Am uitat parola</value>
+		<value lang="sqi" status="translated">Kam harruar fjalkalimin</value>
 	</text>
 	<text key="password.reset.title">
 		<context>Password Reset</context>
@@ -992,6 +1122,7 @@
 		<value lang="mk" status="translated">Нова лозинка</value>
 		<value lang="rs" status="initial">Nova lozinka</value>
 		<value lang="ro" status="translated">Parolă nouă</value>
+		<value lang="sqi" status="translated">Fjalkalimi ri</value>
 	</text>
 	<text key="password.incorrect">
 		<context>Change Password</context>
@@ -1000,6 +1131,7 @@
 		<value lang="mk" status="translated">Погрешна лозинка</value>
 		<value lang="rs" status="initial">Pogrešna lozinka</value>
 		<value lang="ro" status="translated">Parolă incorectă</value>
+		<value lang="sqi" status="translated">Fjalkalimi i pavlefshëm</value>
 	</text>
 	<text key="password">
 		<context>General User properties</context>
@@ -1008,6 +1140,7 @@
 		<value lang="mk" status="translated">Лозинка</value>
 		<value lang="rs" status="initial">Lozinka</value>
 		<value lang="ro" status="translated">Parola</value>
+        <value lang="sqi" status="translated">Fjalkalimi</value>
 	</text>
 	<text key="measurements.co.buttonTitle">
 		<context>measurements</context>
@@ -1016,6 +1149,7 @@
 		<value lang="mk" status="translated">CO</value>
 		<value lang="rs" status="initial">CO</value>
 		<value lang="ro" status="translated">CO</value>
+		<value lang="sqi" status="translated">CO</value>
 	</text>
 	<text key="measurements.co.title">
 		<context>measurements</context>
@@ -1024,6 +1158,7 @@
 		<value lang="mk" status="translated">Квалитет на воздухот (CO)</value>
 		<value lang="rs" status="initial">Kvalitet vazduha (CO)</value>
 		<value lang="ro" status="translated">Calitatea aerului (CO)</value>
+		<value lang="sqi" status="translated">Kualiteti i ajrit (CO)</value>
 	</text>
 	<text key="measurements.co.description">
 		<context>measurements</context>
@@ -1032,6 +1167,7 @@
 		<value lang="mk" status="translated">Концентрација на јаглерод моноксид (СО) во воздухот</value>
 		<value lang="rs" status="initial">Koncetracija karbon monoksida (CO) u vazduhu</value>
 		<value lang="ro" status="translated">Concentrația de monoxid de carbon (CO) în aer</value>
+		<value lang="sqi" status="translated">Koncentrimi i monoksid karbonit (CO) në ajër</value>
 	</text>
 	<text key="measurements.co.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1040,6 +1176,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Dobar kvelitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit.</value>
 	</text>
 	<text key="measurements.co.greenBand.grade">
 		<context>measurements</context>
@@ -1048,6 +1185,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот. Квалитетот на воздухот се смета за задоволителен, загадувањето на воздухот претставува мал ризик или воопшто не претставува ризик</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha. Kvalitet vazduha je zadovoljavajući i postoji mali ili nikakav rizik za zdravlje.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului. Calitatea aerului este considerată satisfăcătoare, iar poluarea aerului prezintă un risc redus sau deloc.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit. Kualiteti i ajrit konsiderohet i këndshëm, dhe ndotësia e ajrit paraqet pak ose aspak rrezik.</value>
 	</text>
 	<text key="measurements.co.greenBand.suggestion">
 		<context>measurements</context>
@@ -1056,6 +1194,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
 	</text>
 	<text key="measurements.co.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -1064,6 +1203,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitatea aerului este moderată.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit.</value>
 	</text>
 	<text key="measurements.co.darkgreenBand.grade">
 		<context>measurements</context>
@@ -1072,6 +1212,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv, doduše, neki zagađivači mogu da uzrokuju umerene posledice kod malog broja ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.co.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -1080,6 +1221,7 @@
 		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Preporučuje se ograničena izoženost ukoliko ste osetljivi na loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Luați în considerare limitarea expunerii în exterior dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Konsideroni të kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër ajrit të keq.</value>
 	</text>
 	<text key="measurements.co.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -1088,6 +1230,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitatea proastă a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit.</value>
 	</text>
 	<text key="measurements.co.orangeBand.grade">
 		<context>measurements</context>
@@ -1096,6 +1239,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот. Влијае негативно врз здравјето на чувствителните групи, луѓе со срцеви или белодробни заболувања, повозрасни луѓе и деца.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha. Utiče negativno na zdravlje ukoliko ste osetljivi, imate srčanih ili plućnih problema, ako ste dete ili starija osoba.</value>
 		<value lang="ro" status="translated">Calitatea proastă a aerului. Nesănătos pentru grupurile sensibile, persoanele cu boli pulmonare, adulții mai în vârstă și copii.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit. I pashëndetshëm për grupet e ndjeshme, personat me sëmundje të zemrës ose mushkërive, të moshuarit dhe fëmijët.</value>
 	</text>
 	<text key="measurements.co.orangeBand.suggestion">
 		<context>measurements</context>
@@ -1104,6 +1248,7 @@
 		<value lang="mk" status="translated">Ограничете ја изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ograničite izloženost ukoliko ste osetljivi na loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Limitați expunerea în exterior dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër kualitetit të keq të ajrit.</value>
 	</text>
 	<text key="measurements.co.redBand.shortGrade">
 		<context>measurements</context>
@@ -1112,6 +1257,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Veoma loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit.</value>
 	</text>
 	<text key="measurements.co.redBand.grade">
 		<context>measurements</context>
@@ -1120,6 +1266,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот. Секој може да почувствува непожелни ефекти врз здравјето, членови на чувствителните групи може да почувствуваат и посериозни негативни ефекти врз здравјето.</value>
 		<value lang="rs" status="initial">Veoma loš kvalitet vazduha. Svako može osetiti nepoželjne efekta po zdravlje, ako pripadate osetljivim grupama, možete osetiti ozbiljnije smetnje.</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă. Toată lumea poate începe să aibă unele efecte adverse asupra sănătății, iar membrii grupurilor sensibile pot avea efecte mai grave.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit. Të gjithë mund të ndjesojnë efekte të pafavorshme në shëndetin e tyre, sikur antarët e grupeve të ndjeshme mund të ndjesojnë efekte akoma më serioze.</value>
 	</text>
 	<text key="measurements.co.redBand.suggestion">
 		<context>measurements</context>
@@ -1128,6 +1275,7 @@
 		<value lang="mk" status="translated">Останете дома доколку сте чувствителни на лош квалитет на воздухот. Секој би требало да ја огранижи изложеноста на лошиот квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ostanite kod kuće ako ste osetljivi na loš kvalitet vazduha. Svako bi trebalo da ograniči izloženost.</value>
 		<value lang="ro" status="translated">Rămâneți în interior dacă sunteți sensibil la aerul poluat. Toată lumea ar trebui să limiteze expunerea în exterior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura nëse jeni të ndjeshëm kundër ajrit të keq. Të gjithë duhet të kufizojnë ekspozimin në ambientet e hapura.</value>
 	</text>
 	<text key="measurements.co.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -1136,6 +1284,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот!</value>
 		<value lang="rs" status="initial">Jako loš kvalitet vazduha!</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit!</value>
 	</text>
 	<text key="measurements.co.darkredBand.grade">
 		<context>measurements</context>
@@ -1144,6 +1293,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот! Може да предизвика сериозни последици по здравјето. Голем е веројатноста ваквиот квалитет на воздухот да има влијание врз целата популација.</value>
 		<value lang="rs" status="initial">Jako loš kvalitet vazduha! Mogućnost ozbiljnih posledica po zdravlje. Vrlo verovatno utiče na sve grupe.</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă! Acest lucru reprezintă un avertisment asupra stării de sănătate. Este foarte probabil ca întreaga populație să fie afectată!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit! Mund të shkaktojë pasoja serioze në shëndetin tuaj. E gjithë popullata ka gjasa të ndikohet nga ky kualitet i ajrit.</value>
 	</text>
 	<text key="measurements.co.darkredBand.suggestion">
 		<context>measurements</context>
@@ -1152,6 +1302,7 @@
 		<value lang="mk" status="translated">Останете дома во секоја прилика кога тоа е возможно.</value>
 		<value lang="rs" status="initial">Ostanite unutra koliko god da ste u mogućnosti.</value>
 		<value lang="ro" status="translated">Rămâneți cât mai mult în interior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura sa më shumë që të jetë e mundur.</value>
 	</text>
 	<text key="measurements.humidity.buttonTitle">
 		<context>measurements</context>
@@ -1160,6 +1311,7 @@
 		<value lang="mk" status="translated">Влажност</value>
 		<value lang="rs" status="initial">Vlažnost</value>
 		<value lang="ro" status="translated">Umiditate</value>
+		<value lang="sqi" status="translated">Lagështia</value>
 	</text>
 	<text key="measurements.humidity.title">
 		<context>measurements</context>
@@ -1168,6 +1320,7 @@
 		<value lang="mk" status="translated">Влажност на воздухот</value>
 		<value lang="rs" status="initial">Vlažnost vazduha</value>
 		<value lang="ro" status="translated">Umiditate</value>
+		<value lang="sqi" status="translated">Lagështia e ajrit</value>
 	</text>
 	<text key="measurements.humidity.description">
 		<context>measurements</context>
@@ -1176,6 +1329,7 @@
 		<value lang="mk" status="translated">Релативна влажност на воздухот во проценти.</value>
 		<value lang="rs" status="initial">Relativna vlažnost vazduha u procentima.</value>
 		<value lang="ro" status="translated">Umiditate relativă în procente.</value>
+		<value lang="sqi" status="translated">Lagështi relative e ajrit në përqindje.</value>
 	</text>
 	<text key="measurements.humidity.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -1184,6 +1338,7 @@
 		<value lang="mk" status="translated">Сув воздух.</value>
 		<value lang="rs" status="initial">Suv vazduh.</value>
 		<value lang="ro" status="translated">Aer uscat.</value>
+		<value lang="sqi" status="translated">Ajër i thatë.</value>
 	</text>
 	<text key="measurements.humidity.orangeBand.grade">
 		<context>measurements</context>
@@ -1192,6 +1347,7 @@
 		<value lang="mk" status="translated">Сув воздух. Може да предизвика сува слузокожа во носните патишта, дразнење или болка во грлото и суви усни.</value>
 		<value lang="rs" status="initial">Suv vazduh. Može da prouzrokuje osušenost sluzokože, nadraženo grlo i suve usne.</value>
 		<value lang="ro" status="translated">Aer uscat. Poate provoca uscăciuni nazale și de piele, dureri în gât sau zgârieturi și buze crăpate.</value>
+		<value lang="sqi" status="translated">Ajri i thatë. Mund të shkaktojë tharje të pasazheve të hundës dhe lëkurës, dhimbje ose gërvishtje të fytit dhe tharje të buzëve.</value>
 	</text>
 	<text key="measurements.humidity.orangeBand.suggestion">
 		<context>measurements</context>
@@ -1200,6 +1356,7 @@
 		<value lang="mk" status="translated">Пијте големо количество на вода. Обидете се да го поминете времето во затворена просторија. Користење на освежувач на воздухот во затворени простории може да има позитивно влијание.</value>
 		<value lang="rs" status="initial">Pijte dosta vode. Korišćenje ovlaživača prostorije može pomoći.</value>
 		<value lang="ro" status="translated">Beți multă apă. Încercați să rămâneți în interior. Utilizarea unui umidificator la domiciliu poate fi de ajutor.</value>
+		<value lang="sqi" status="translated">Konsumoni më tepër ujë. Mundohuni të qëndroni në ambiente të mbyllura. Përdorimi i pajisjeve për freskimin e ajrit mund të jetë i dobishëm.</value>
 	</text>
 	<text key="measurements.humidity.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1208,6 +1365,7 @@
 		<value lang="mk" status="translated">Погодни услови.</value>
 		<value lang="rs" status="initial">Prijatni uslovi.</value>
 		<value lang="ro" status="translated">Condiții confortabile.</value>
+		<value lang="sqi" status="translated">Kushte komode.</value>
 	</text>
 	<text key="measurements.humidity.greenBand.grade">
 		<context>measurements</context>
@@ -1216,6 +1374,7 @@
 		<value lang="mk" status="translated">Погодни услови. Влажноста на воздухот е пријатна и не претставува никаков ризик по здравјето.</value>
 		<value lang="rs" status="initial">Prijatni uslovi. Vlažnost vazduha je prijatna i ne predstavlja rizik po zdravlje.</value>
 		<value lang="ro" status="translated">Condiții confortabile. Umiditatea este considerată plăcută și nu prezintă riscuri.</value>
+		<value lang="sqi" status="translated">Kushte komode. Lagështia konsiderohet e këndshme dhe nuk paraqet asnjë rrezik.</value>
 	</text>
 	<text key="measurements.humidity.greenBand.suggestion">
 		<context>measurements</context>
@@ -1224,6 +1383,7 @@
 		<value lang="mk" status="translated">Нема потреба од никакви превентивни мерки.</value>
 		<value lang="rs" status="initial">Nema potrebe ze bilo kakvim preventivnim merama.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive.</value>
 	</text>
 	<text key="measurements.humidity.blueBand.shortGrade">
 		<context>measurements</context>
@@ -1232,6 +1392,7 @@
 		<value lang="mk" status="translated">Многу голема влажност на воздухот.</value>
 		<value lang="rs" status="initial">Velika vlažnost vazduha.</value>
 		<value lang="ro" status="translated">Foarte umed.</value>
+		<value lang="sqi" status="translated">Lagështi shumë e lartë e ajrit.</value>
 	</text>
 	<text key="measurements.humidity.blueBand.grade">
 		<context>measurements</context>
@@ -1240,6 +1401,7 @@
 		<value lang="mk" status="translated">Многу голема влажност на воздухот. Може да предизвика зголемено потење и дехидратација, замор, ослободување на телесна топлина и во екстремни служаи срцев удар.</value>
 		<value lang="rs" status="initial">Velika vlažnost vazduha. Može prouzrokovati povećano znojenje, dehidraciju, umor, ili u ekstremnim slučajevima sunčanicu.</value>
 		<value lang="ro" status="translated">Foarte umed. Poate provoca transpirații și deshidratare crescută, oboseală, epuizare termică și în cazuri extreme, insolație.</value>
+        <value lang="sqi" status="translated">Lagështi shumë e lartë e ajrit. Mund të shkaktojë më tepër djersitje dhe dehidrim, lodhje, rraskapitje nga nxehtësia dhe në raste ekstreme goditje nga nxehtësia.</value>
 	</text>
 	<text key="measurements.humidity.blueBand.suggestion">
 		<context>measurements</context>
@@ -1248,6 +1410,7 @@
 		<value lang="mk" status="translated">Бидете смирени, одморајте се кога ќе забележите некаков знак на замор, главоболка или забрзан пулс, пијте големо количество на вода.</value>
 		<value lang="rs" status="initial">Mirujte, rashlađujte se ako primetite znake umora, glavobolje ili ubzanog pulsa; pijte dosta tečnosti.</value>
 		<value lang="ro" status="translated">Luați-o ușor, răcoriți-vă când observați orice semn de oboseală, dureri de cap sau puls crescut, beți multă apă.</value>
+        <value lang="sqi" status="translated">Relaksohuni, pushoni kur vëreni ndonjë shenjë lodhjeje, dhimbje koke ose rrahje të shpejtë të zemrës, kosumoni më tepër ujë.</value>
 	</text>
 	<text key="measurements.nh3_ppm.buttonTitle">
 		<context>measurements</context>
@@ -1256,6 +1419,7 @@
 		<value lang="mk" status="translated">NH3</value>
 		<value lang="rs" status="initial">NH₃</value>
 		<value lang="ro" status="translated">NH3</value>
+		<value lang="sqi" status="translated">NH3</value>
 	</text>
 	<text key="measurements.nh3_ppm.title">
 		<context>measurements</context>
@@ -1264,6 +1428,7 @@
 		<value lang="mk" status="translated">Квалитет на воздухот (NH3)</value>
 		<value lang="rs" status="initial">Kvalitet vazduha (NH₃)</value>
 		<value lang="ro" status="translated">Calitatea aerului (NH3)</value>
+		<value lang="sqi" status="translated">Kualiteti i ajrit (NH3)</value>
 	</text>
 	<text key="measurements.nh3_ppm.description">
 		<context>measurements</context>
@@ -1272,6 +1437,7 @@
 		<value lang="mk" status="translated">Присуство на амонијак (NH3) во воздухот</value>
 		<value lang="rs" status="initial">Prisustvo amonijaka (NH₃) u vazduhu</value>
 		<value lang="ro" status="translated">Prezenta amoniacului (NH3) în aer</value>
+		<value lang="sqi" status="translated">Prezenca e amoniakut (NH3) në ajër</value>
 	</text>
 	<text key="measurements.nh3_ppm.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1280,6 +1446,7 @@
 		<value lang="mk" status="translated">Ниско присуство.</value>
 		<value lang="rs" status="initial">Nizak nivo.</value>
 		<value lang="ro" status="translated">Prezență scăzută.</value>
+		<value lang="sqi" status="translated">Prezenca e ulët.</value>
 	</text>
 	<text key="measurements.nh3_ppm.greenBand.grade">
 		<context>measurements</context>
@@ -1288,6 +1455,7 @@
 		<value lang="mk" status="translated">Не може да се примети преку мирис.</value>
 		<value lang="rs" status="initial">Ne može se osetiti čulom mirisa.</value>
 		<value lang="ro" status="translated">Nedetectabil prin miros.</value>
+		<value lang="sqi" status="translated">E pazbulueshme me nuhatje.</value>
 	</text>
 	<text key="measurements.nh3_ppm.greenBand.suggestion">
 		<context>measurements</context>
@@ -1296,6 +1464,7 @@
 		<value lang="mk" status="translated">N/A</value>
 		<value lang="rs" status="initial">N/A</value>
 		<value lang="ro" status="translated">N/A</value>
+		<value lang="sqi" status="translated">N/A</value>
 	</text>
 	<text key="measurements.nh3_ppm.redBand.shortGrade">
 		<context>measurements</context>
@@ -1304,6 +1473,7 @@
 		<value lang="mk" status="translated">Умерено присуство.</value>
 		<value lang="rs" status="initial">Umereno prisustvo.</value>
 		<value lang="ro" status="translated">Prezență moderată.</value>
+		<value lang="sqi" status="translated">Prezenca e moderuar.</value>
 	</text>
 	<text key="measurements.nh3_ppm.redBand.grade">
 		<context>measurements</context>
@@ -1312,6 +1482,7 @@
 		<value lang="mk" status="translated">Умерено до високо присуство на амонијак во воздухот. Може да се примети дури и преку мирис.</value>
 		<value lang="rs" status="initial">Umereno do visoko prisustvo u vazduhu. Može da se oseti preko mirisa.</value>
 		<value lang="ro" status="translated">Prezență moderată spre ridicată în aer. Poate fi chiar detectat prin miros.</value>
+		<value lang="sqi" status="translated">Prezencë e moderuar ose e lartë në ajër. Mund të zbulohet edhe me nuhatje.</value>
 	</text>
 	<text key="measurements.nh3_ppm.redBand.suggestion">
 		<context>measurements</context>
@@ -1320,6 +1491,7 @@
 		<value lang="mk" status="translated">Обидете се да избегнувате да бидете на отворено подолг период.</value>
 		<value lang="rs" status="initial">Izbegavajte boravak na otvorenom duže vreme.</value>
 		<value lang="ro" status="translated">Evitați pe cât posibil să stați afară pentru o perioadă îndelungată.</value>
+		<value lang="sqi" status="translated">Këshilloheni të anashkaloni qëndrimin në ambiente të hapura për një periudhë të gjatë.</value>
 	</text>
 	<text key="measurements.nh3_ppm.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -1328,6 +1500,7 @@
 		<value lang="mk" status="translated">Високо присуство.</value>
 		<value lang="rs" status="initial">Visoko prisustvo.</value>
 		<value lang="ro" status="translated">Prezență ridicată.</value>
+		<value lang="sqi" status="translated">Prezenca e lartë.</value>
 	</text>
 	<text key="measurements.nh3_ppm.darkredBand.grade">
 		<context>measurements</context>
@@ -1336,6 +1509,7 @@
 		<value lang="mk" status="translated">Високо присуство на NH3 во воздухот, над максимално дозволената граница. Лесно се приметува преку мирис.</value>
 		<value lang="rs" status="initial">Visoko pristustvo NH₃ u vazduhu, preko maksimalne granice. Primećuje se preko čula mirisa.</value>
 		<value lang="ro" status="translated">Prezență ridicată de NH3 în aer, peste limita maximă. Ușor de detectat prin miros.</value>
+		<value lang="sqi" status="translated">Prezencë e lartë e NH3 në ajër, mbi kufirin maksimal të lejuar. Lehtësisht zbulohet me nuhatje.</value>
 	</text>
 	<text key="measurements.nh3_ppm.darkredBand.suggestion">
 		<context>measurements</context>
@@ -1344,6 +1518,7 @@
 		<value lang="mk" status="translated">Избегнувајте да бидете на отворено подолго од 15 минути. Ако нивото на амонијак се зголеми, останете во затворен простор или променете ја Вашата локација.</value>
 		<value lang="rs" status="initial">Izbegavajte boravak na otvorenom duži od 15 minuta. Ako se prisustvo amonijaka poveća, ostanite unutra.</value>
 		<value lang="ro" status="translated">Evitați să stați afară pentru o perioadă mai mare de 15 minute. Dacă nivelurile cresc, rămâneți în interior sau mutați-vă într-o altă locație.</value>
+		<value lang="sqi" status="translated">Anashkaloni qëndrimin në ambientet e hapura më tepër se 15 minuta. Nëse rritet niveli i amoniakut, qëndroni në ambiente të mbyllura ose ndërrojeni vendndodhjen tuaj.</value>
 	</text>
 	<text key="measurements.no2.buttonTitle">
 		<context>measurements</context>
@@ -1352,6 +1527,7 @@
 		<value lang="mk" status="translated">NO2</value>
 		<value lang="rs" status="initial">NO₂</value>
 		<value lang="ro" status="translated">NO2</value>
+		<value lang="sqi" status="translated">NO2</value>
 	</text>
 	<text key="measurements.no2.title">
 		<context>measurements</context>
@@ -1360,6 +1536,7 @@
 		<value lang="mk" status="translated">Квалитет на воздухот (NO2)</value>
 		<value lang="rs" status="initial">Kvalitet vazduha (NO₂)</value>
 		<value lang="ro" status="translated">Calitatea aerului (NO2)</value>
+		<value lang="sqi" status="translated">Kualiteti i ajrit (NO2)</value>
 	</text>
 	<text key="measurements.no2.description">
 		<context>measurements</context>
@@ -1368,6 +1545,7 @@
 		<value lang="mk" status="translated">Концентрација на азот диоксид (NO2) во воздухот.</value>
 		<value lang="rs" status="initial">Koncetracija azot dioksida (NO₂) u vazduhu.</value>
 		<value lang="ro" status="translated">Concentrația de dioxid de azot (NO2) în aer.</value>
+		<value lang="sqi" status="translated">Коncentrimi i dioksid azotit (NO2) në ajër.</value>
 	</text>
 	<text key="measurements.no2.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1376,6 +1554,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit.</value>
 	</text>
 	<text key="measurements.no2.greenBand.grade">
 		<context>measurements</context>
@@ -1384,6 +1563,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот. Квалитетот на воздухот се смета за задоволителен, загадувањето на воздухот претставува мал ризик или воопшто не претставува ризик</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha. Kvalitet vazduha se smatra zadovoljavajućim, a zagađenje vazduha predstavlja mali ili nikakav rizik.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului. Calitatea aerului este considerată satisfăcătoare, iar poluarea aerului prezintă un risc redus sau deloc.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit. Kualiteti i ajrit konsiderohet i këndshëm, dhe ndotësia e ajrit paraqet pak ose aspak rrezik.</value>
 	</text>
 	<text key="measurements.no2.greenBand.suggestion">
 		<context>measurements</context>
@@ -1392,6 +1572,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nisu potrebne preventivne mere, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
 	</text>
 	<text key="measurements.no2.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -1400,6 +1581,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit.</value>
 	</text>
 	<text key="measurements.no2.darkgreenBand.grade">
 		<context>measurements</context>
@@ -1408,6 +1590,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje za vrlo mali broj ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o îngrijorare moderată a sănătății pentru un număr foarte mic de persoane.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.no2.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -1416,6 +1599,7 @@
 		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ograničite boravak napolju ako ste osetljivi na loš vazduh.</value>
 		<value lang="ro" status="translated">Luați în considerare limitarea expunerii exterioare dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Konsideroni të kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër ajrit të keq.</value>
 	</text>
 	<text key="measurements.no2.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -1424,6 +1608,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit.</value>
 	</text>
 	<text key="measurements.no2.orangeBand.grade">
 		<context>measurements</context>
@@ -1432,6 +1617,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот. Влијае негативно врз здравјето на чувствителните групи, луѓе со срцеви или белодробни заболувања, повозрасни луѓе и деца.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha. Nezdravo za osetljive grupe ljudi, osobe sa srčanim i oboljenjima pluća, starije osobe i decu.</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului. Nesănătos pentru grupurile sensibile, persoanele cu boli pulmonare, adulții mai în vârstă și copii.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit. I pashëndetshëm për grupet e ndjeshme, personat me sëmundje të zemrës ose mushkërive, të moshuarit dhe fëmijët.</value>
 	</text>
 	<text key="measurements.no2.orangeBand.suggestion">
 		<context>measurements</context>
@@ -1440,6 +1626,7 @@
 		<value lang="mk" status="translated">Ограничете ја изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ograničite boravak napolju ako ste osetljivi na loš vazduh</value>
 		<value lang="ro" status="translated">Limitați expunerea în exterior dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër kualitetit të keq të ajrit.</value>
 	</text>
 	<text key="measurements.no2.redBand.shortGrade">
 		<context>measurements</context>
@@ -1448,6 +1635,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Veoma loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate foarte slabă a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit.</value>
 	</text>
 	<text key="measurements.no2.redBand.grade">
 		<context>measurements</context>
@@ -1456,6 +1644,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот. Секој може да почувствува непожелни ефекти врз здравјето, членови на чувствителните групи може да почувствуваат и посериозни негативни ефекти врз здравјето.</value>
 		<value lang="rs" status="initial">Veoma loš kvalitet vazduha. Svi mogu osetiti neke štetne efekte po zdravlje, a članovi osetljivih grupa mogu imati ozbiljnije posledice.</value>
 		<value lang="ro" status="translated">Calitate foarte slabă a aerului. Toată lumea ar putea începe să aibă unele efecte adverse asupra sănătății, iar membrii grupurilor sensibile pot avea efecte mai grave.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit. Të gjithë mund të ndjesojnë efekte të pafavorshme në shëndetin e tyre, sikur antarët e grupeve të ndjeshme mund të ndjesojnë efekte akoma më serioze.</value>
 	</text>
 	<text key="measurements.no2.redBand.suggestion">
 		<context>measurements</context>
@@ -1464,6 +1653,7 @@
 		<value lang="mk" status="translated">Останете дома доколку сте чувствителни на лош квалитет на воздухот. Секој би требало да ја огранижи изложеноста на лошиот квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ostanite unutra ako ste osetljivi na loš vazduh. Svi bi trebalo da ograniče svoj boravak na otvorenom.</value>
 		<value lang="ro" status="translated">Rămâneți în interior dacă sunteți sensibil la aerul poluat. Toată lumea ar trebui să limiteze expunerea în exterior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura nëse jeni të ndjeshëm kundër ajrit të keq. Të gjithë duhet të kufizojnë ekspozimin në ambientet e hapura.</value>
 	</text>
 	<text key="measurements.no2.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -1472,6 +1662,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот!</value>
 		<value lang="rs" status="initial">Vazduha štetan po zdravlje.</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit!</value>
 	</text>
 	<text key="measurements.no2.darkredBand.grade">
 		<context>measurements</context>
@@ -1480,6 +1671,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот! Може да предизвика сериозни последици по здравјето. Голем е веројатноста ваквиот квалитет на воздухот да има влијание врз целата популација.</value>
 		<value lang="rs" status="initial">Vazduh štetan po zdravlje! Ovo dovodi do zdravstvenih upozorenja o vanrednim situacijama. Velika je verovatnoća da će cela populacija biti pogođena!</value>
 		<value lang="ro" status="translated">Calitate periculoasă a aerului! Acest lucru ar declanșa un avertisment de urgență asupra stării de sănătăte. Este destul de probabil ca întreaga populație să fie afectată!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit! Mund të shkaktojë pasoja serioze në shëndetin tuaj. E gjithë popullata ka gjasa të ndikohet nga ky kualitet i ajrit.</value>
 	</text>
 	<text key="measurements.no2.darkredBand.suggestion">
 		<context>measurements</context>
@@ -1488,6 +1680,7 @@
 		<value lang="mk" status="translated">Останете дома во секоја прилика кога тоа е возможно.</value>
 		<value lang="rs" status="initial">Ostanite unutra koliko je to moguće.</value>
 		<value lang="ro" status="translated">Rămâneți cât mai mult în interior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura sa më shumë që të jetë e mundur.</value>
 	</text>
 	<text key="measurements.noise.buttonTitle">
 		<context>measurements</context>
@@ -1496,6 +1689,7 @@
 		<value lang="mk" status="translated">Бучава</value>
 		<value lang="rs" status="initial">Buka</value>
 		<value lang="ro" status="translated">Zgomot</value>
+		<value lang="sqi" status="translated">Zhurma</value>
 	</text>
 	<text key="measurements.noise.title">
 		<context>measurements</context>
@@ -1504,6 +1698,7 @@
 		<value lang="mk" status="translated">Бучава</value>
 		<value lang="rs" status="initial">Buka</value>
 		<value lang="ro" status="translated">Zgomot</value>
+		<value lang="sqi" status="translated">Zhurma</value>
 	</text>
 	<text key="measurements.noise.description">
 		<context>measurements</context>
@@ -1512,6 +1707,7 @@
 		<value lang="mk" status="translated">Измерена бучава</value>
 		<value lang="rs" status="initial">Izmerena buka</value>
 		<value lang="ro" status="translated">Zgomotul măsurat</value>
+		<value lang="sqi" status="translated">Zhurma e matur</value>
 	</text>
 	<text key="measurements.noise.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1520,6 +1716,7 @@
 		<value lang="mk" status="translated">Целокупна тишина.</value>
 		<value lang="rs" status="initial">Opšta tišina.</value>
 		<value lang="ro" status="translated">Liniște generală.</value>
+		<value lang="sqi" status="translated">Qetësi totale.</value>
 	</text>
 	<text key="measurements.noise.greenBand.grade">
 		<context>measurements</context>
@@ -1528,6 +1725,7 @@
 		<value lang="mk" status="translated">Целокупна тишина. Човечкиот слух одвај може да регистрира приметлив звук.</value>
 		<value lang="rs" status="initial">Opšta tišina. Ljudski sluh jedva primetno registruje zvuk.</value>
 		<value lang="ro" status="translated">Liniște generală. Auzul uman abia poate să audă un zgomot.</value>
+		<value lang="sqi" status="translated">Qetësi totale. Dëgjimi i njeriut mezi regjistron zhurmë.</value>
 	</text>
 	<text key="measurements.noise.greenBand.suggestion">
 		<context>measurements</context>
@@ -1536,6 +1734,7 @@
 		<value lang="mk" status="translated">Уживајте во мирот и тишината.</value>
 		<value lang="rs" status="initial">Uživajte u miru i tišini.</value>
 		<value lang="ro" status="translated">Bucurați-vă de liniște și pace.</value>
+		<value lang="sqi" status="translated">Shijoni qetësinë.</value>
 	</text>
 	<text key="measurements.noise.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -1544,6 +1743,7 @@
 		<value lang="mk" status="translated">Генерално тивко.</value>
 		<value lang="rs" status="initial">Generalno tiho.</value>
 		<value lang="ro" status="translated">În general, liniște.</value>
+		<value lang="sqi" status="translated">Në përgjithësi, qetë.</value>
 	</text>
 	<text key="measurements.noise.darkgreenBand.grade">
 		<context>measurements</context>
@@ -1552,6 +1752,7 @@
 		<value lang="mk" status="translated">Генерално тивко. Нивоата на бучава се приметливи но не предизвикуваат непријатност.</value>
 		<value lang="rs" status="initial">Generalno tiho. Nivoi buke su primetni, ali ne izazivaju nelagodu.</value>
 		<value lang="ro" status="translated">În general, liniște. Nivelul de zgomot este vizibil, dar nu provoacă disconfort.</value>
+		<value lang="sqi" status="translated">Në përgjithësi, qetë. Nivelet e zhurmës mund të ndjehen, por nuk shkaktojnë shqetësim.</value>
 	</text>
 	<text key="measurements.noise.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -1560,6 +1761,7 @@
 		<value lang="mk" status="translated">Нема потреба од никакви мерки, нивоата на бучава се ниски.</value>
 		<value lang="rs" status="initial">Nisu potrebne mere predostrožnosti, nivo buke je nizak.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri de precauție, nivelul de zgomot este scăzut.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa, nivelet e zhurmës janë të ulëta.</value>
 	</text>
 	<text key="measurements.noise.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -1568,6 +1770,7 @@
 		<value lang="mk" status="translated">Умерено тивко, бучава на ниво на разговор.</value>
 		<value lang="rs" status="initial">Umereno tiho, na nivou razgovora.</value>
 		<value lang="ro" status="translated">Moderat calm, la nivelul conversației.</value>
+		<value lang="sqi" status="translated">Qetësi mesatare, zhurmë në nivel të bisedës.</value>
 	</text>
 	<text key="measurements.noise.orangeBand.grade">
 		<context>measurements</context>
@@ -1576,6 +1779,7 @@
 		<value lang="mk" status="translated">Умерено тивко, бучава на ниво на разговор. Не би требало да создава никакви непријатности.</value>
 		<value lang="rs" status="initial">Umereno tiho, na nivou razgovora. Ne bi trebalo da izaziva neprijatnost.</value>
 		<value lang="ro" status="translated">Moderat calm, la nivelul conversației. Nu ar trebui să cauzeze disconfort.</value>
+		<value lang="sqi" status="translated">Qetësi mesatare, zhurmë në nivel të bisedës. Nuk duhet të shkaktojë asnjë shqetësim.</value>
 	</text>
 	<text key="measurements.noise.orangeBand.suggestion">
 		<context>measurements</context>
@@ -1584,6 +1788,7 @@
 		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста ако сте чувствителни на бучава.</value>
 		<value lang="rs" status="initial">Pokušajte da ograničite izloženost ako ste veoma osetljivi na buku.</value>
 		<value lang="ro" status="translated">Încercați să limitați expunerea dacă sunteți foarte sensibil la zgomot.</value>
+		<value lang="sqi" status="translated">Kufizoni ekspozimin nëse jeni të ndjeshëm kundër zhurmës.</value>
 	</text>
 	<text key="measurements.noise.redBand.shortGrade">
 		<context>measurements</context>
@@ -1592,6 +1797,7 @@
 		<value lang="mk" status="translated">Бучен урбан ден.</value>
 		<value lang="rs" status="initial">Bučan urbani dan.</value>
 		<value lang="ro" status="translated">Zgomotos în timpul zilei.</value>
+		<value lang="sqi" status="translated">Ditë urbane e zhurmshme.</value>
 	</text>
 	<text key="measurements.noise.redBand.grade">
 		<context>measurements</context>
@@ -1600,6 +1806,7 @@
 		<value lang="mk" status="translated">Бучен урбан ден. Стандардна бучава во урбан град, може да предизвика непријатност.</value>
 		<value lang="rs" status="initial">Bučan urbani dan. Standardna gradska buka može izazvati nelagodu.</value>
 		<value lang="ro" status="translated">Zgomotos în timpul zilei. Poluarea fonică standard a orașului poate provoca disconfort.</value>
+        <value lang="sqi" status="translated">Ditë urbane e zhurmshme. Zhurmë standarde në qytet urban, mund të shkaktojë shqetësim.</value>
 	</text>
 	<text key="measurements.noise.redBand.suggestion">
 		<context>measurements</context>
@@ -1608,6 +1815,7 @@
 		<value lang="mk" status="translated">Обидете се избегнете подолга изложеност бидејќи може да Ве иритира, нема потреба од преземање на медицински мерки.</value>
 		<value lang="rs" status="initial">Pokušajte da izbegnete duže izlaganje jer može biti iritantno, nisu potrebne medicinske mere predostrožnosti.</value>
 		<value lang="ro" status="translated">Încercați să evitați expunerea prelungită, deoarece poate fi iritantă, nu sunt necesare măsuri de precauție medicale.</value>
+        <value lang="sqi" status="translated">Shmangni ekspozimin për periudha të gjata exposure sepse mund të jetë irrituese, nuk nevojiten masa paraprake mjekësore.</value>
 	</text>
 	<text key="measurements.noise.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -1616,6 +1824,7 @@
 		<value lang="mk" status="translated">Генерално гласно. Многу е веројатно бучавата да Ви создаде непријатност.</value>
 		<value lang="rs" status="initial">Generalno glasno. Verovatno će izazvati nelagodu.</value>
 		<value lang="ro" status="translated">În general tare. Poate provoca disconfort.</value>
+        <value lang="sqi" status="translated">Zhurmë e lartë. Ka shumë mundësi të shkaktojë shqetësim.</value>
 	</text>
 	<text key="measurements.noise.darkredBand.grade">
 		<context>measurements</context>
@@ -1624,6 +1833,7 @@
 		<value lang="mk" status="translated">Генерално гласно. Многу е веројатно бучавата да Ви создаде непријатност. Можно е привремено губење на слухот по долга изложеност.</value>
 		<value lang="rs" status="initial">Generalno glasno. Verovatno će izazvati nelagodu. Moguć privremeni gubitak sluha nakon dužeg izlaganja.</value>
 		<value lang="ro" status="translated">În general tare. Poate provoca disconfort. Este posibilă pierderea temporară a auzului după expunere prelungită.</value>
+        <value lang="sqi" status="translated">Zhurmë e lartë. Ka shumë mundësi të shkaktojë shqetësim. Humbje e përkohshme e dëgjimit është e mundur pas ekspozimit për një periudhë të gjatë.</value>
 	</text>
 	<text key="measurements.noise.darkredBand.suggestion">
 		<context>measurements</context>
@@ -1632,6 +1842,7 @@
 		<value lang="mk" status="translated">Обидете се да останете во затворен простор. Доколку чувствувате зуење на ушите, одморете ги во период од 16 часа за да закрепнете.</value>
 		<value lang="rs" status="initial">Pokušajte da ostanete u zatvorenom. Ako osetite zujanje u ušima, odmorite uši 16 sati.</value>
 		<value lang="ro" status="translated">Încercați să rămâneți în interior. Dacă întâmpinați sunete în ureche, odihniți-vă urechile timp de 16 ore pentru a vă recupera.</value>
+		<value lang="sqi" status="translated">Mundohuni të qëndroni në ambiente të mbyllura. Nëse po përjetoni ndonjë zhurmë në vesh, pushoni veshët për 16 orë për t'u rikuperuar.</value>
 	</text>
 	<text key="measurements.noise.purpleBand.shortGrade">
 		<context>measurements</context>
@@ -1640,6 +1851,7 @@
 		<value lang="mk" status="translated">Непријатно гласно.</value>
 		<value lang="rs" status="initial">Neprijatno glasno.</value>
 		<value lang="ro" status="translated">Inconfortabil de tare.</value>
+		<value lang="sqi" status="translated">Zhurmë shqetësuese.</value>
 	</text>
 	<text key="measurements.noise.purpleBand.grade">
 		<context>measurements</context>
@@ -1648,6 +1860,7 @@
 		<value lang="mk" status="translated">Непријатно гласно. Можно е привремено губење на слухот по долга изложеност со можна болка во ушите и вртоглавица.</value>
 		<value lang="rs" status="initial">Neprijatno glasno. Nakon dužeg izlaganja može doći do privremenog gubitka sluha sa mogućim bolom u uhu i vrtoglavicom.</value>
 		<value lang="ro" status="translated">Inconfortabil de tare. Pierderea temporară a auzului poate apărea după expunere prelungită cu posibile dureri ale urechii și amețeli.</value>
+        <value lang="sqi" status="translated">Zhurmë shqetësuese. Mund të paraqitet humbje e përkohshme e dëgjimit me dhimbje veshi dhe marramendje pas ekspozimit për një periudhë të gjatë.</value>
 	</text>
 	<text key="measurements.noise.purpleBand.suggestion">
 		<context>measurements</context>
@@ -1656,6 +1869,7 @@
 		<value lang="mk" status="translated">Останете во затворе простор колку што можете подолго. Размислете да носите заштита на вашите уши ако излегувате на отворено подолг период.</value>
 		<value lang="rs" status="initial">Ostanite u zatvorenom što je više moguće. Razmislite o nošenju zaštite za uši ako ćete duže boraviti napolju.</value>
 		<value lang="ro" status="translated">Rămâneți cât mai mult în interior. Luați în considerare purtarea protecției pentru urechi dacă ieșiți afară pentru perioade mai lungi.</value>
+		<value lang="sqi" status="translated">Qëndroni sa më shumë në ambiente të mbyllura. Konsideroni të mbathni mbrojtës për veshët e juaj nëse do të kaloni kohë të gjatë në ambiente të hapura.</value>
 	</text>
 	<text key="measurements.noise_dba.buttonTitle">
 		<context>measurements</context>
@@ -1664,6 +1878,7 @@
 		<value lang="mk" status="translated">Бучава</value>
 		<value lang="rs" status="initial">Buka</value>
 		<value lang="ro" status="translated">Zgomot</value>
+		<value lang="sqi" status="translated">Zhurma</value>
 	</text>
 	<text key="measurements.noise_dba.title">
 		<context>measurements</context>
@@ -1672,14 +1887,16 @@
 		<value lang="mk" status="translated">Бучава (проценета)</value>
 		<value lang="rs" status="initial">Buka (procenat)</value>
 		<value lang="ro" status="translated">Zgomot (estimat)</value>
+		<value lang="sqi" status="translated">Zhurma (e estimuar)</value>
 	</text>
 	<text key="measurements.noise_dba.description">
 		<context>measurements</context>
 		<value lang="de" status="translated">Geschätzter Stadtlärm (dBA)</value>
 		<value lang="en" status="translated">Estimated urban noise (dBA)</value>
-		<value lang="mk" status="translated">Проценета урбана бучава (dbA)</value>
+		<value lang="mk" status="translated">Проценета урбана бучава (dBA)</value>
 		<value lang="rs" status="initial">Procenjena urbana buka (dBA)</value>
 		<value lang="ro" status="translated">Zgomot urban estimat (dBA)</value>
+		<value lang="sqi" status="translated">Zhurma urbane e estimuar (dBA)</value>
 	</text>
 	<text key="measurements.noise_dba.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1688,6 +1905,7 @@
 		<value lang="mk" status="translated">Целокупна тишина.</value>
 		<value lang="rs" status="initial">Opšta tišina.</value>
 		<value lang="ro" status="translated">Liniște generală.</value>
+		<value lang="sqi" status="translated">Qetësi totale.</value>
 	</text>
 	<text key="measurements.noise_dba.greenBand.grade">
 		<context>measurements</context>
@@ -1696,6 +1914,7 @@
 		<value lang="mk" status="translated">Целокупна тишина. Човечкиот слух одвај може да регистрира приметлив звук.</value>
 		<value lang="rs" status="initial">Opšta tišina. Ljudski sluh jedva primetno registruje zvuk</value>
 		<value lang="ro" status="translated">Liniște generală. Auzul uman abia poate să auda un zgomot.</value>
+		<value lang="sqi" status="translated">Qetësi totale. Dëgjimi i njeriut mezi regjistron zhurmë.</value>
 	</text>
 	<text key="measurements.noise_dba.greenBand.suggestion">
 		<context>measurements</context>
@@ -1704,6 +1923,7 @@
 		<value lang="mk" status="translated">Уживајте во мирот и тишината.</value>
 		<value lang="rs" status="initial">Uživajte u miru i tišini.</value>
 		<value lang="ro" status="translated">Bucurați-vă de liniște și pace.</value>
+		<value lang="sqi" status="translated">Shijoni qetësinë.</value>
 	</text>
 	<text key="measurements.noise_dba.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -1712,6 +1932,7 @@
 		<value lang="mk" status="translated">Генерално тивко.</value>
 		<value lang="rs" status="initial">Generalno tiho.</value>
 		<value lang="ro" status="translated">În general, liniște.</value>
+		<value lang="sqi" status="translated">Në përgjithësi, qetë.</value>
 	</text>
 	<text key="measurements.noise_dba.darkgreenBand.grade">
 		<context>measurements</context>
@@ -1720,6 +1941,7 @@
 		<value lang="mk" status="translated">Генерално тивко. Нивоата на бучава се приметливи но не предизвикуваат непријатност.</value>
 		<value lang="rs" status="initial">Generalno tiho. Nivoi buke su primetni, ali ne izazivaju nelagodu.</value>
 		<value lang="ro" status="translated">În general, liniște. Nivelul de zgomot este vizibil, dar nu provoacă disconfort.</value>
+		<value lang="sqi" status="translated">Në përgjithësi, qetë. Nivelet e zhurmës mund të ndjehen, por nuk shkaktojnë shqetësim.</value>
 	</text>
 	<text key="measurements.noise_dba.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -1728,6 +1950,7 @@
 		<value lang="mk" status="translated">Нема потреба од никакви мерки, нивоата на бучава се ниски.</value>
 		<value lang="rs" status="initial">Nisu potrebne mere predostrožnosti, nivo buke je nizak</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri de precauție, nivelul de zgomot este scăzut.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa, nivelet e zhurmës janë të ulëta.</value>
 	</text>
 	<text key="measurements.noise_dba.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -1736,6 +1959,7 @@
 		<value lang="mk" status="translated">Умерено тивко, бучава на ниво на разговор.</value>
 		<value lang="rs" status="initial">Umereno tiho, na nivou razgovora.</value>
 		<value lang="ro" status="translated">Moderat calm, la nivelul conversației.</value>
+		<value lang="sqi" status="translated">Qetësi mesatare, zhurmë në nivel të bisedës.</value>
 	</text>
 	<text key="measurements.noise_dba.orangeBand.grade">
 		<context>measurements</context>
@@ -1744,6 +1968,7 @@
 		<value lang="mk" status="translated">Умерено тивко, бучава на ниво на разговор. Не би требало да создава никакви непријатности.</value>
 		<value lang="rs" status="initial">Umereno tiho, na nivou razgovora. Ne bi trebalo da izaziva neprijatnost.</value>
 		<value lang="ro" status="translated">Moderat calm, la nivelul conversației. Nu ar trebui să cauzeze disconfort.</value>
+		<value lang="sqi" status="translated">Qetësi mesatare, zhurmë në nivel të bisedës. Nuk duhet të shkaktojë asnjë shqetësim.</value>
 	</text>
 	<text key="measurements.noise_dba.orangeBand.suggestion">
 		<context>measurements</context>
@@ -1752,6 +1977,7 @@
 		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста ако сте чувствителни на бучава.</value>
 		<value lang="rs" status="initial">Pokušajte da ograničite izloženost ako ste veoma osetljivi na buku</value>
 		<value lang="ro" status="translated">Încercați să limitați expunerea dacă sunteți foarte sensibil la zgomot.</value>
+		<value lang="sqi" status="translated">Kufizoni ekspozimin nëse jeni të ndjeshëm kundër zhurmës.</value>
 	</text>
 	<text key="measurements.noise_dba.redBand.shortGrade">
 		<context>measurements</context>
@@ -1760,6 +1986,7 @@
 		<value lang="mk" status="translated">Бучен урбан ден.</value>
 		<value lang="rs" status="initial">Bučan urbani dan.</value>
 		<value lang="ro" status="translated">Zgomotos în timpul zilei.</value>
+		<value lang="sqi" status="translated">Ditë urbane e zhurmshme.</value>
 	</text>
 	<text key="measurements.noise_dba.redBand.grade">
 		<context>measurements</context>
@@ -1768,6 +1995,7 @@
 		<value lang="mk" status="translated">Бучен урбан ден. Стандардна бучава во урбан град, може да предизвика непријатност, потешкотии при зборување на телефон или општ разговор.</value>
 		<value lang="rs" status="initial">Bučan urbani dan. Standardna gradska buka može izazvati nelagodu, probleme tokom razgovora uživo ili preko telefona.</value>
 		<value lang="ro" status="translated">Zgomotos în timpul zilei. Poluarea fonică standard a orașului poate provoca disconfort.</value>
+        <value lang="sqi" status="translated">Ditë urbane e zhurmshme. Zhurmë standarde në qytet urban, mund të shkaktojë shqetësim.</value>
 	</text>
 	<text key="measurements.noise_dba.redBand.suggestion">
 		<context>measurements</context>
@@ -1776,6 +2004,7 @@
 		<value lang="mk" status="translated">Обидете се избегнете подолга изложеност бидејќи може да Ве иритира, нема потреба од преземање на медицински мерки.</value>
 		<value lang="rs" status="initial">Pokušajte da izbegnete duže izlaganje jer može biti iritantno, nisu potrebne medicinske mere predostrožnosti</value>
 		<value lang="ro" status="translated">Încercați să evitați expunerea prelungită, deoarece poate fi iritantă, nu sunt necesare măsuri de precauție medicale.</value>
+        <value lang="sqi" status="translated">Shmangni ekspozimin për periudha të gjata exposure sepse mund të jetë irrituese, nuk nevojiten masa paraprake mjekësore.</value>
 	</text>
 	<text key="measurements.noise_dba.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -1784,6 +2013,7 @@
 		<value lang="mk" status="translated">Генерално гласно. Многу е веројатно бучавата да Ви создаде непријатност.</value>
 		<value lang="rs" status="initial">Generalno glasno. Verovatno će izazvati neprijatnost.</value>
 		<value lang="ro" status="translated">În general tare. Poate provoca disconfort.</value>
+		<value lang="sqi" status="translated">Zhurmë e lartë. Ka shumë mundësi të shkaktojë shqetësim.</value>
 	</text>
 	<text key="measurements.noise_dba.darkredBand.grade">
 		<context>measurements</context>
@@ -1792,6 +2022,7 @@
 		<value lang="mk" status="translated">Генерално гласно. Многу е веројатно бучавата да Ви создаде непријатност и потешкотии при одржување разговор или одмарање.</value>
 		<value lang="rs" status="initial">Generalno glasno. Verovatno će izazvati nelagodu i probleme tokom razgovora ili odmora</value>
 		<value lang="ro" status="translated">În general tare. Poate provoca disconfort și probleme la purtarea unei conversații sau la odihnă.</value>
+        <value lang="sqi" status="translated">Zhurmë e lartë. Ka shumë mundësi të shkaktojë shqetësim. Humbje e përkohshme e dëgjimit është e mundur pas ekspozimit për një periudhë të gjatë.</value>
 	</text>
 	<text key="measurements.noise_dba.darkredBand.suggestion">
 		<context>measurements</context>
@@ -1800,6 +2031,7 @@
 		<value lang="mk" status="translated">Обидете се да останете во затворен простор. Доколку чувствувате зуење на ушите, одморете ги во период од 16 часа за да закрепнете.</value>
 		<value lang="rs" status="initial">Pokušajte da ostanete u zatvorenom. Ako osetite zujanje u ušima, odmorite uši 16 sati.</value>
 		<value lang="ro" status="translated">Încercați să rămâneți în interior. Dacă întâmpinați sunete de ureche, odihniți-vă urechile timp de 16 ore pentru a vă recupera.</value>
+		<value lang="sqi" status="translated">Mundohuni të qëndroni në ambiente të mbyllura. Nëse po përjetoni ndonjë zhurmë në vesh, pushoni veshët për 16 orë për t'u rikuperuar.</value>
 	</text>
 	<text key="measurements.noise_dba.purpleBand.shortGrade">
 		<context>measurements</context>
@@ -1808,6 +2040,7 @@
 		<value lang="mk" status="translated">Непријатно гласно.</value>
 		<value lang="rs" status="initial">Neprijatno glasno.</value>
 		<value lang="ro" status="translated">Inconfortabil de tare.</value>
+		<value lang="sqi" status="translated">Zhurmë shqetësuese.</value>
 	</text>
 	<text key="measurements.noise_dba.purpleBand.grade">
 		<context>measurements</context>
@@ -1816,6 +2049,7 @@
 		<value lang="mk" status="translated">Непријатно гласно. Можно е привремено губење на слухот по долга изложеност со можна болка во ушите и вртоглавица.</value>
 		<value lang="rs" status="initial">Neprijatno glasno. Nakon dužeg izlaganja može doći do privremenog gubitka sluha sa mogućim bolom u uhu i vrtoglavicom.</value>
 		<value lang="ro" status="translated">Inconfortabil de tare. Pierderea temporară a auzului poate apărea după expunere prelungită cu posibile dureri ale urechii și amețeli.</value>
+        <value lang="sqi" status="translated">Zhurmë shqetësuese. Mund të paraqitet humbje e përkohshme e dëgjimit me dhimbje veshi dhe marramendje pas ekspozimit për një periudhë të gjatë.</value>
 	</text>
 	<text key="measurements.noise_dba.purpleBand.suggestion">
 		<context>measurements</context>
@@ -1824,6 +2058,7 @@
 		<value lang="mk" status="translated">Останете во затворе простор колку што можете подолго. Размислете да носите заштита на вашите уши ако излегувате на отворено подолг период.</value>
 		<value lang="rs" status="initial">Ostanite u zatvorenom što je više moguće. Razmislite o nošenju zaštite za uši ako ćete duže ostati napolju.</value>
 		<value lang="ro" status="translated">Rămâneți cât mai mult în interior. Luați în considerare purtarea protecției pentru urechi dacă ieșiți afară pentru perioade mai lungi.</value>
+		<value lang="sqi" status="translated">Qëndroni sa më shumë në ambiente të mbyllura. Konsideroni të mbathni mbrojtës për veshët e juaj nëse do të kaloni kohë të gjatë në ambiente të hapura.</value>
 	</text>
 	<text key="measurements.o3.buttonTitle">
 		<context>measurements</context>
@@ -1832,6 +2067,7 @@
 		<value lang="mk" status="translated">O3</value>
 		<value lang="rs" status="initial">O₃</value>
 		<value lang="ro" status="translated">O3</value>
+		<value lang="sqi" status="translated">O3</value>
 	</text>
 	<text key="measurements.o3.title">
 		<context>measurements</context>
@@ -1840,6 +2076,7 @@
 		<value lang="mk" status="translated">Квалитет на воздухот (O3)</value>
 		<value lang="rs" status="initial">Kvalitet vazduha (O₃)</value>
 		<value lang="ro" status="translated">Calitatea aerului (O3)</value>
+		<value lang="sqi" status="translated">Kualiteti i ajrit (O3)</value>
 	</text>
 	<text key="measurements.o3.description">
 		<context>measurements</context>
@@ -1848,6 +2085,7 @@
 		<value lang="mk" status="translated">Концентрација на озон (O3) во воздухот</value>
 		<value lang="rs" status="initial">Koncentracija ozona (O₃) u vazduhu</value>
 		<value lang="ro" status="translated">Concentrația de ozon (O3) în aer</value>
+		<value lang="sqi" status="translated">Koncentrimi i ozonit (O3) në ajër</value>
 	</text>
 	<text key="measurements.o3.greenBand.shortGrade">
 		<context>measurements</context>
@@ -1856,6 +2094,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit.</value>
 	</text>
 	<text key="measurements.o3.greenBand.grade">
 		<context>measurements</context>
@@ -1864,6 +2103,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот. Квалитетот на воздухот се смета за задоволителен, загадувањето на воздухот претставува мал ризик или воопшто не претставува ризик</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha. Kvalitet vazduha se smatra zadovoljavajućim, a zagađenje vazduha predstavlja mali ili nikakav rizik.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului. Calitatea aerului este considerată satisfăcătoare, iar poluarea aerului prezintă un risc redus sau deloc.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit. Kualiteti i ajrit konsiderohet i këndshëm, dhe ndotësia e ajrit paraqet pak ose aspak rrezik.</value>
 	</text>
 	<text key="measurements.o3.greenBand.suggestion">
 		<context>measurements</context>
@@ -1872,6 +2112,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
 	</text>
 	<text key="measurements.o3.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -1880,6 +2121,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calutate moderată a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit.</value>
 	</text>
 	<text key="measurements.o3.darkgreenBand.grade">
 		<context>measurements</context>
@@ -1888,6 +2130,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje za mali broj ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.o3.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -1896,6 +2139,7 @@
 		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Razmislite da ograničite boravak napolju ako ste osetljivi na loš vazduh</value>
 		<value lang="ro" status="translated">Luați în considerare limitarea expunerii exterioare dacă sunteți sensibil la aer rău.</value>
+		<value lang="sqi" status="translated">Konsideroni të kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër ajrit të keq.</value>
 	</text>
 	<text key="measurements.o3.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -1904,6 +2148,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit.</value>
 	</text>
 	<text key="measurements.o3.orangeBand.grade">
 		<context>measurements</context>
@@ -1912,6 +2157,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот. Влијае негативно врз здравјето на чувствителните групи, луѓе со срцеви или белодробни заболувања, повозрасни луѓе и деца.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha. Nezdravo za osetljive grupe, osobe sa srčanim i oboljenjima pluća, starije osobe i decu</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului. Nesănătos pentru grupurile sensibile, persoanele cu boli pulmonare, adulții mai în vârstă și copii.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit. I pashëndetshëm për grupet e ndjeshme, personat me sëmundje të zemrës ose mushkërive, të moshuarit dhe fëmijët.</value>
 	</text>
 	<text key="measurements.o3.orangeBand.suggestion">
 		<context>measurements</context>
@@ -1920,6 +2166,7 @@
 		<value lang="mk" status="translated">Ограничете ја изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ograničite boravak napolju ako ste osetljivi na loš vazduh.</value>
 		<value lang="ro" status="translated">Limitați-vă expunerea în exterior dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër kualitetit të keq të ajrit.</value>
 	</text>
 	<text key="measurements.o3.redBand.shortGrade">
 		<context>measurements</context>
@@ -1928,6 +2175,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Jako loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit.</value>
 	</text>
 	<text key="measurements.o3.redBand.grade">
 		<context>measurements</context>
@@ -1936,6 +2184,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот. Секој може да почувствува непожелни ефекти врз здравјето, членови на чувствителните групи може да почувствуваат и посериозни негативни ефекти врз здравјето.</value>
 		<value lang="rs" status="initial">Jako loš kvalitet vazduha. Svi mogu osetiti neke štetne efekte po zdravlje, a članovi osetljivih grupa mogu imati ozbiljnije posledice</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă. Toată lumea poate începe să aibă unele efecte adverse asupra sănătății, iar membrii grupurilor sensibile pot avea efecte mai grave.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit. Të gjithë mund të ndjesojnë efekte të pafavorshme në shëndetin e tyre, sikur antarët e grupeve të ndjeshme mund të ndjesojnë efekte akoma më serioze.</value>
 	</text>
 	<text key="measurements.o3.redBand.suggestion">
 		<context>measurements</context>
@@ -1944,6 +2193,7 @@
 		<value lang="mk" status="translated">Останете дома доколку сте чувствителни на лош квалитет на воздухот. Секој би требало да ја огранижи изложеноста на лошиот квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ostanite u zatvorenom ako ste osetljivi na loš vazduh. Svi bi trebalo da ograniče boravak napolju.</value>
 		<value lang="ro" status="translated">Rămâneți în interior dacă sunteți sensibil la aerul poluat. Toată lumea ar trebui să limiteze expunerea în exterior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura nëse jeni të ndjeshëm kundër ajrit të keq. Të gjithë duhet të kufizojnë ekspozimin në ambientet e hapura.</value>
 	</text>
 	<text key="measurements.o3.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -1952,6 +2202,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот!</value>
 		<value lang="rs" status="initial">Vazduh štetan po zdravlje.</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit!</value>
 	</text>
 	<text key="measurements.o3.darkredBand.grade">
 		<context>measurements</context>
@@ -1960,6 +2211,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот! Може да предизвика сериозни последици по здравјето. Голем е веројатноста ваквиот квалитет на воздухот да има влијание врз целата популација.</value>
 		<value lang="rs" status="initial">Vazduh štetan po zdravlje! Ovo dovodi do zdravstvenih upozorenja o vanrednim situacijama. Velika je verovatnoća da će cela populacija biti pogođena.</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă! Acest lucru ar declanșa un avertisment de urgență asupra stării de sănătate. Este destul de probabil ca întreaga populație să fie afectată!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit! Mund të shkaktojë pasoja serioze në shëndetin tuaj. E gjithë popullata ka gjasa të ndikohet nga ky kualitet i ajrit.</value>
 	</text>
 	<text key="measurements.o3.darkredBand.suggestion">
 		<context>measurements</context>
@@ -1968,6 +2220,7 @@
 		<value lang="mk" status="translated">Останете дома во секоја прилика кога тоа е возможно.</value>
 		<value lang="rs" status="initial">Ostanite unutra koliko god je moguće.</value>
 		<value lang="ro" status="translated">Rămâneți cât mai mult în interior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura sa më shumë që të jetë e mundur.</value>
 	</text>
 	<text key="measurements.pm1.buttonTitle">
 		<context>measurements</context>
@@ -1976,6 +2229,7 @@
 		<value lang="mk" status="translated">PM1</value>
 		<value lang="rs" status="initial">PM1</value>
 		<value lang="ro" status="translated">PM1</value>
+		<value lang="sqi" status="translated">PM1</value>
 	</text>
 	<text key="measurements.pm1.title">
 		<context>measurements</context>
@@ -1984,6 +2238,7 @@
 		<value lang="mk" status="translated">Квалитет на воздухот (PM1)</value>
 		<value lang="rs" status="initial">Kvalitet vazduha (PM1)</value>
 		<value lang="ro" status="translated">Calitatea aerului (PM1)</value>
+		<value lang="sqi" status="translated">Kualiteti i ajrit (PM1)</value>
 	</text>
 	<text key="measurements.pm1.description">
 		<context>measurements</context>
@@ -1992,6 +2247,7 @@
 		<value lang="mk" status="translated">Суспендирани честички во воздухот со помал дијаметар од 1μm.</value>
 		<value lang="rs" status="initial">Suspendovane čestice u vazduhu širine manje od 1μm.</value>
 		<value lang="ro" status="translated">Particule suspendate în aer cu o lățime mai mică de 1 μm.</value>
+		<value lang="sqi" status="translated">Grimca të pezulluara në ajër me gjerësi më të vogël se 1μm.</value>
 	</text>
 	<text key="measurements.pm1.grayBand.shortGrade">
 		<context>measurements</context>
@@ -2000,6 +2256,7 @@
 		<value lang="mk" status="translated" />
 		<value lang="rs" status="initial"></value>
 		<value lang="ro" status="translated" />
+		<value lang="sqi" status="translated" />
 	</text>
 	<text key="measurements.pm1.grayBand.grade">
 		<context>measurements</context>
@@ -2008,6 +2265,7 @@
 		<value lang="mk" status="translated">Присуство на PM1 честички во воздухот. PM1 се уште не е стандардизиран како AQI параметар.</value>
 		<value lang="rs" status="initial">Prisustvo PM1 čestica u vazduhu. PM1 još nije standardizovan kao AKI parametar.</value>
 		<value lang="ro" status="translated">Prezența particulelor de PM1 în aer. PM1 nu este încă standardizat ca parametru AQI.</value>
+		<value lang="sqi" status="translated">Prania e grimcave PM1 në ajër. PM1 nuk është ende i standardizuar si një AQI parametër.</value>
 	</text>
 	<text key="measurements.pm1.grayBand.suggestion">
 		<context>measurements</context>
@@ -2016,6 +2274,7 @@
 		<value lang="mk" status="translated" />
 		<value lang="rs" status="initial"></value>
 		<value lang="ro" status="translated" />
+		<value lang="sqi" status="translated" />
 	</text>
 	<text key="measurements.pm1.grayBand2.shortGrade">
 		<context>measurements</context>
@@ -2024,6 +2283,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit.</value>
 	</text>
 	<text key="measurements.pm1.grayBand2.grade">
 		<context>measurements</context>
@@ -2032,6 +2292,7 @@
 		<value lang="mk" status="translated">Присуство на PM1 честички во воздухот. PM1 се уште не е стандардизиран како AQI параметар.</value>
 		<value lang="rs" status="initial">Prisustvo PM1 čestica u vazduhu. PM1 još nije standardizovan kao AKI parametar.</value>
 		<value lang="ro" status="translated">Prezența particulelor de PM1 în aer. PM1 nu este încă standardizat ca parametru AQI.</value>
+		<value lang="sqi" status="translated">Prania e grimcave PM1 në ajër. PM1 nuk është ende i standardizuar si një AQI parametër.</value>
 	</text>
 	<text key="measurements.pm1.grayBand2.suggestion">
 		<context>measurements</context>
@@ -2040,6 +2301,7 @@
 		<value lang="mk" status="translated" />
 		<value lang="rs" status="initial" />
 		<value lang="ro" status="translated" />
+		<value lang="sqi" status="translated" />
 	</text>
 	<text key="measurements.pm10.buttonTitle">
 		<context>measurements</context>
@@ -2048,6 +2310,7 @@
 		<value lang="mk" status="translated">PM10</value>
 		<value lang="rs" status="initial">PM10</value>
 		<value lang="ro" status="translated">PM10</value>
+        <value lang="sqi" status="translated">PM10</value>
 	</text>
 	<text key="measurements.pm10.title">
 		<context>measurements</context>
@@ -2056,6 +2319,7 @@
 		<value lang="mk" status="translated">Квалитет на воздухот (PM10)</value>
 		<value lang="rs" status="initial">Kvalitet vazduha (PM10)</value>
 		<value lang="ro" status="translated">Calitatea aerului (PM10)</value>
+        <value lang="sqi" status="translated">Kualiteti i ajrit (PM10)</value>
 	</text>
 	<text key="measurements.pm10.description">
 		<context>measurements</context>
@@ -2064,6 +2328,7 @@
 		<value lang="mk" status="translated">Суспендирани честички во воздухот со помал дијаметар од 10μm.</value>
 		<value lang="rs" status="initial">Suspendovane čestice u vazduhu širine manje od 10μm.</value>
 		<value lang="ro" status="translated">Particule suspendate în aer cu o lățime mai mică de 10 μm.</value>
+		<value lang="sqi" status="translated">Grimca të pezulluara në ajër me gjerësi më të vogël se 10μm.</value>
 	</text>
 	<text key="measurements.pm10.greenBand.shortGrade">
 		<context>measurements</context>
@@ -2071,7 +2336,8 @@
 		<value lang="en" status="translated">Good air quality.</value>
 		<value lang="mk" status="translated">Добар квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha.</value>
-		<value lang="ro" status="translated">Calitate bună a aerului.</value> 
+		<value lang="ro" status="translated">Calitate bună a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit.</value>
 	</text>
 	<text key="measurements.pm10.greenBand.grade">
 		<context>measurements</context>
@@ -2080,6 +2346,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот. Квалитетот на воздухот се смета за задоволителен, загадувањето на воздухот претставува мал ризик или воопшто не претставува ризик</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha. Kvalitet vazduha se smatra zadovoljavajućim, a zagađenje vazduha predstavlja mali ili nikakav rizik.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului. Calitatea aerului este considerată satisfăcătoare, iar poluarea aerului prezintă un risc redus sau deloc.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit. Kualiteti i ajrit konsiderohet i këndshëm, dhe ndotësia e ajrit paraqet pak ose aspak rrezik.</value>
 	</text>
 	<text key="measurements.pm10.greenBand.suggestion">
 		<context>measurements</context>
@@ -2088,6 +2355,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nisu potrebne preventivne mere, uživajte na svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
 	</text>
 	<text key="measurements.pm10.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2096,6 +2364,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitatea aerului este moderată.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit.</value>
 	</text>
 	<text key="measurements.pm10.darkgreenBand.grade">
 		<context>measurements</context>
@@ -2104,6 +2373,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje malog broja ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.pm10.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -2112,6 +2382,7 @@
 		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Razmislite o ograničavanju boravka na otvorenom ako ste osetljivi na loš vazduh</value>
 		<value lang="ro" status="translated">Luați în considerare limitarea expunerii exterioare dacă sunteți sensibil la aer rău.</value>
+		<value lang="sqi" status="translated">Konsideroni të kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër ajrit të keq.</value>
 	</text>
 	<text key="measurements.pm10.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -2120,6 +2391,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit.</value>
 	</text>
 	<text key="measurements.pm10.orangeBand.grade">
 		<context>measurements</context>
@@ -2128,6 +2400,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот. Влијае негативно врз здравјето на чувствителните групи, луѓе со срцеви или белодробни заболувања, повозрасни луѓе и деца.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha. Nezdravo za osetljive grupe, osobe sa srčanim i oboljenjima pluća, starije osobe i decu.</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului. Nesănătos pentru grupurile sensibile, persoanele cu boli pulmonare, adulții mai în vârstă și copii.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit. I pashëndetshëm për grupet e ndjeshme, personat me sëmundje të zemrës ose mushkërive, të moshuarit dhe fëmijët.</value>
 	</text>
 	<text key="measurements.pm10.orangeBand.suggestion">
 		<context>measurements</context>
@@ -2136,6 +2409,7 @@
 		<value lang="mk" status="translated">Ограничете ја изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ograničite svoj boravak na otvorenom ako ste osetljivi na loš vazduh.</value>
 		<value lang="ro" status="translated">Limitați-vă expunerea în exterior dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër kualitetit të keq të ajrit.</value>
 	</text>
 	<text key="measurements.pm10.redBand.shortGrade">
 		<context>measurements</context>
@@ -2144,6 +2418,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Jako loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit.</value>
 	</text>
 	<text key="measurements.pm10.redBand.grade">
 		<context>measurements</context>
@@ -2152,6 +2427,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот. Секој може да почувствува непожелни ефекти врз здравјето, членови на чувствителните групи може да почувствуваат и посериозни негативни ефекти врз здравјето.</value>
 		<value lang="rs" status="initial">Jako loš kvalitet vazduha. Svi mogu osetiti neke štetne efekte po zdravlje, a članovi osetljivih grupa mogu imati ozbiljnije posledice.</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă. Toată lumea poate începe să aibă unele efecte adverse de sănătate, iar membrii grupurilor sensibile pot avea efecte mai grave.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit. Të gjithë mund të ndjesojnë efekte të pafavorshme në shëndetin e tyre, sikur antarët e grupeve të ndjeshme mund të ndjesojnë efekte akoma më serioze.</value>
 	</text>
 	<text key="measurements.pm10.redBand.suggestion">
 		<context>measurements</context>
@@ -2160,6 +2436,7 @@
 		<value lang="mk" status="translated">Останете дома доколку сте чувствителни на лош квалитет на воздухот. Секој би требало да ја огранижи изложеноста на лошиот квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ostanite u zatvorenom ako ste osetljivi na loš vazduh. Svi bi trebalo da ograniče svoj boravak na otvorenom.</value>
 		<value lang="ro" status="translated">Rămâneți în interior dacă sunteți sensibil la aerul poluat. Toată lumea ar trebui să limiteze expunerea în exterior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura nëse jeni të ndjeshëm kundër ajrit të keq. Të gjithë duhet të kufizojnë ekspozimin në ambientet e hapura.</value>
 	</text>
 	<text key="measurements.pm10.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -2168,6 +2445,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот!</value>
 		<value lang="rs" status="initial">Vazduh štetan po zdravlje!</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit!</value>
 	</text>
 	<text key="measurements.pm10.darkredBand.grade">
 		<context>measurements</context>
@@ -2176,6 +2454,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот! Може да предизвика сериозни последици по здравјето. Голем е веројатноста ваквиот квалитет на воздухот да има влијание врз целата популација.</value>
 		<value lang="rs" status="initial">Vazduh štetan po zdravlje! Ovo dovodi do zdravstvenih upozorenja o vanrednim situacijama. Velika je verovatnoća da će cela populacija biti pogođena.</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă! Acest lucru ar declanșa un avertisment de urgență asupra stării de sănătate. Este destul de probabil ca întreaga populație să fie afectată!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit! Mund të shkaktojë pasoja serioze në shëndetin tuaj. E gjithë popullata ka gjasa të ndikohet nga ky kualitet i ajrit.</value>
 	</text>
 	<text key="measurements.pm10.darkredBand.suggestion">
 		<context>measurements</context>
@@ -2184,6 +2463,7 @@
 		<value lang="mk" status="translated">Останете дома во секоја прилика кога тоа е возможно.</value>
 		<value lang="rs" status="initial">Ostanite unutra koliko je to moguće.</value>
 		<value lang="ro" status="translated">Rămâneți cât mai mult în interior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura sa më shumë që të jetë e mundur.</value>
 	</text>
 	<text key="measurements.pm25.buttonTitle">
 		<context>measurements</context>
@@ -2192,6 +2472,7 @@
 		<value lang="mk" status="translated">PM25</value>
 		<value lang="rs" status="initial">PM25</value>
 		<value lang="ro" status="translated">PM25</value>
+		<value lang="sqi" status="translated">PM25</value>
 	</text>
 	<text key="measurements.pm25.title">
 		<context>measurements</context>
@@ -2200,6 +2481,7 @@
 		<value lang="mk" status="translated">Квалитет на воздухот (PM2.5)</value>
 		<value lang="rs" status="initial">Kvalitet vazduha (PM2.5)</value>
 		<value lang="ro" status="translated">Calitatea aerului (PM2.5)</value>
+		<value lang="sqi" status="translated">Kualiteti i ajrit (PM2.5)</value>
 	</text>
 	<text key="measurements.pm25.description">
 		<context>measurements</context>
@@ -2208,6 +2490,7 @@
 		<value lang="mk" status="translated">Суспендирани честички во воздухот со помал дијаметар од 2.5μm.</value>
 		<value lang="rs" status="initial">Suspendovane čestice u vazduhu širine manje od 2,5μm.</value>
 		<value lang="ro" status="translated">Particule suspendate în aer cu o lățime mai mică de 2,5 μm.</value>
+		<value lang="sqi" status="translated">Grimca të pezulluara në ajër me gjerësi më të vogël se 2.5μm.</value>
 	</text>
 	<text key="measurements.pm25.greenBand.shortGrade">
 		<context>measurements</context>
@@ -2216,6 +2499,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului.</value>
+        <value lang="sqi" status="translated">Kualitet i mirë i ajrit.</value>
 	</text>
 	<text key="measurements.pm25.greenBand.grade">
 		<context>measurements</context>
@@ -2224,6 +2508,7 @@
 		<value lang="mk" status="translated">Добар квалитет на воздухот. Квалитетот на воздухот се смета за задоволителен, загадувањето на воздухот претставува мал ризик или воопшто не претставува ризик</value>
 		<value lang="rs" status="initial">Dobar kvalitet vazduha. Kvalitet vazduha se smatra zadovoljavajućim, a zagađenje vazduha predstavlja mali ili nikakav rizik.</value>
 		<value lang="ro" status="translated">Calitate bună a aerului. Calitatea aerului este considerată satisfăcătoare, iar poluarea aerului prezintă un risc redus sau deloc.</value>
+		<value lang="sqi" status="translated">Kualitet i mirë i ajrit. Kualiteti i ajrit konsiderohet i këndshëm, dhe ndotësia e ajrit paraqet pak ose aspak rrezik.</value>
 	</text>
 	<text key="measurements.pm25.greenBand.suggestion">
 		<context>measurements</context>
@@ -2232,6 +2517,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки, уживајте во свежиот воздух.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama, uživajte u svežem vazduhu.</value>
 		<value lang="ro" status="translated">Nu sunt necesare măsuri preventive, bucurați-vă de aerul proaspăt.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa preventive, shijoni ajërin e freskët.</value>
 	</text>
 	<text key="measurements.pm25.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2240,6 +2526,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitatea aerului este moderată.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit.</value>
 	</text>
 	<text key="measurements.pm25.darkgreenBand.grade">
 		<context>measurements</context>
@@ -2248,6 +2535,7 @@
 		<value lang="mk" status="translated">Умерен квалитет на воздухот. Квалитетот на воздухот е во прифатливи граници; меѓутоа, некои загадувачи може да предизвикаат умерена загриженост за здравјето на мал процент од луѓето.</value>
 		<value lang="rs" status="initial">Umeren kvalitet vazduha. Kvalitet vazduha je prihvatljiv; međutim, u vezi sa nekim zagađivačima postoji umerena zabrinutost za zdravlje malog broja ljudi.</value>
 		<value lang="ro" status="translated">Calitate moderată a aerului. Calitatea aerului este acceptabilă; cu toate acestea, pentru unii poluanți poate exista o preocupare moderată pentru sănătate pentru un număr foarte mic de persoane.</value>
+		<value lang="sqi" status="translated">Kualitet i moderuar i ajrit. Kualiteti i ajrit është i pranueshëm; megjithatë, për disa ndotës mund të paraqet një shqetësim të moderuar shëndetësor për një numër shumë të vogël njerëzish.</value>
 	</text>
 	<text key="measurements.pm25.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -2256,6 +2544,7 @@
 		<value lang="mk" status="translated">Обидете се да ја ограничите изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Razmislite o ograničavanju boravka na otvorenom ako ste osetljivi na loš vazduh.</value>
 		<value lang="ro" status="translated">Luați în considerare limitarea expunerii în exterior dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Konsideroni të kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër ajrit të keq.</value>
 	</text>
 	<text key="measurements.pm25.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -2264,6 +2553,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha.</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit.</value>
 	</text>
 	<text key="measurements.pm25.orangeBand.grade">
 		<context>measurements</context>
@@ -2272,6 +2562,7 @@
 		<value lang="mk" status="translated">Лош квалитет на воздухот. Влијае негативно врз здравјето на чувствителните групи, луѓе со белодробни заболувања, повозрасни луѓе и деца.</value>
 		<value lang="rs" status="initial">Loš kvalitet vazduha. Nezdravo za osetljive grupe, osobe sa plućnim bolestima, starije osobe i decu.</value>
 		<value lang="ro" status="translated">Calitate proastă a aerului. Nesănătos pentru grupurile sensibile, persoanele cu boli pulmonare, adulții mai în vârstă și copii.</value>
+		<value lang="sqi" status="translated">Kualitet i keq i ajrit. I pashëndetshëm për grupet e ndjeshme, personat me sëmundje të zemrës ose mushkërive, të moshuarit dhe fëmijët.</value>
 	</text>
 	<text key="measurements.pm25.orangeBand.suggestion">
 		<context>measurements</context>
@@ -2280,6 +2571,7 @@
 		<value lang="mk" status="translated">Ограничете ја изложеноста доколку сте чувствителни на лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ograničite svoj boravak na otvorenom ako ste osetljivi na loš vazduh</value>
 		<value lang="ro" status="translated">Limitați-vă expunerea în exterior dacă sunteți sensibil la aer poluat.</value>
+		<value lang="sqi" status="translated">Kufizoni ekspozimin e jashtëm nëse jeni të ndjeshëm kundër kualitetit të keq të ajrit.</value>
 	</text>
 	<text key="measurements.pm25.redBand.shortGrade">
 		<context>measurements</context>
@@ -2288,6 +2580,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Jako loš kvalitet vazduha</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit.</value>
 	</text>
 	<text key="measurements.pm25.redBand.grade">
 		<context>measurements</context>
@@ -2296,6 +2589,7 @@
 		<value lang="mk" status="translated">Многу лош квалитет на воздухот. Секој може да почувствува непожелни ефекти врз здравјето, членови на чувствителните групи може да почувствуваат и посериозни негативни ефекти врз здравјето.</value>
 		<value lang="rs" status="initial">Veoma loš kvalitet vazduha. Svi mogu osećati neke štetne efekte po zdravlje, a članovi osetljivih grupa mogu imati ozbiljnije posledice.</value>
 		<value lang="ro" status="translated">Calitatea aerului este foarte proastă. Toată lumea poate începe să aibă unele efecte adverse asupra sănătății, iar membrii grupurilor sensibile pot avea efecte mai grave.</value>
+		<value lang="sqi" status="translated">Kualitet shumë i keq i ajrit. Të gjithë mund të ndjesojnë efekte të pafavorshme në shëndetin e tyre, sikur antarët e grupeve të ndjeshme mund të ndjesojnë efekte akoma më serioze.</value>
 	</text>
 	<text key="measurements.pm25.redBand.suggestion">
 		<context>measurements</context>
@@ -2304,6 +2598,7 @@
 		<value lang="mk" status="translated">Останете дома доколку сте чувствителни на лош квалитет на воздухот. Секој би требало да ја огранижи изложеноста на лошиот квалитет на воздухот.</value>
 		<value lang="rs" status="initial">Ostanite u zatvorenom ako ste osetljivi na loš vazduh. Svi bi trebalo da ograniče boravak na otvorenom.</value>
 		<value lang="ro" status="translated">Rămâneți în interior dacă sunteți sensibil la aerul poluat. Toată lumea ar trebui să limiteze expunerea în exterior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura nëse jeni të ndjeshëm kundër ajrit të keq. Të gjithë duhet të kufizojnë ekspozimin në ambientet e hapura.</value>
 	</text>
 	<text key="measurements.pm25.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -2312,6 +2607,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот!</value>
 		<value lang="rs" status="initial">Vazduh štetan po zdravlje.</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit!</value>
 	</text>
 	<text key="measurements.pm25.darkredBand.grade">
 		<context>measurements</context>
@@ -2320,6 +2616,7 @@
 		<value lang="mk" status="translated">Ужасен квалитет на воздухот! Може да предизвика сериозни последици по здравјето. Голем е веројатноста ваквиот квалитет на воздухот да има влијание врз целата популација.</value>
 		<value lang="rs" status="initial">Vazduh štetan po zdravlje! Ovo dovodi do zdravstvenih upozorenja o vanrednim situacijama. Velika je verovatnoća da će cela populacija biti pogođena.</value>
 		<value lang="ro" status="translated">Calitatea aerului este periculoasă! Acest lucru ar declanșa un avertisment de urgență asupra stării de sănătate. Este destul de probabil ca întreaga populație să fie afectată!</value>
+		<value lang="sqi" status="translated">Kualitet i tmerrshëm i ajrit! Mund të shkaktojë pasoja serioze në shëndetin tuaj. E gjithë popullata ka gjasa të ndikohet nga ky kualitet i ajrit.</value>
 	</text>
 	<text key="measurements.pm25.darkredBand.suggestion">
 		<context>measurements</context>
@@ -2328,6 +2625,7 @@
 		<value lang="mk" status="translated">Останете дома во секоја прилика кога тоа е возможно.</value>
 		<value lang="rs" status="initial">Ostanite unutra koliko je to moguće.</value>
 		<value lang="ro" status="translated">Rămâneți cât mai mult în interior.</value>
+		<value lang="sqi" status="translated">Qëndroni në ambiente të mbyllura sa më shumë që të jetë e mundur.</value>
 	</text>
 	<text key="measurements.pressure.buttonTitle">
 		<context>measurements</context>
@@ -2336,6 +2634,7 @@
 		<value lang="mk" status="translated">Притисок</value>
 		<value lang="rs" status="initial">Pritisak</value>
 		<value lang="ro" status="translated">Presiune</value>
+		<value lang="sqi" status="translated">Presioni</value>
 	</text>
 	<text key="measurements.pressure.title">
 		<context>measurements</context>
@@ -2344,6 +2643,7 @@
 		<value lang="mk" status="translated">Воздушен притисок (hPa)</value>
 		<value lang="rs" status="initial">Vazdušni pritisak (hPa)</value>
 		<value lang="ro" status="translated">Presiunea aerului (hPa)</value>
+		<value lang="sqi" status="translated">Presioni i ajrit (hPa)</value>
 	</text>
 	<text key="measurements.pressure.description">
 		<context>measurements</context>
@@ -2352,6 +2652,7 @@
 		<value lang="mk" status="translated">Атмосферски притисок мерен во хекто паскали</value>
 		<value lang="rs" status="initial">Atmosferski pritisak u hektopaskalima.</value>
 		<value lang="ro" status="translated">Presiunea atmosferică în hectopascali</value>
+		<value lang="sqi" status="translated">Presioni atmosferik në hektopaskalë</value>
 	</text>
 	<text key="measurements.pressure.darkblueBand.shortGrade">
 		<context>measurements</context>
@@ -2360,6 +2661,7 @@
 		<value lang="mk" status="translated">Низок притисок.</value>
 		<value lang="rs" status="initial">Nizak pritisak.</value>
 		<value lang="ro" status="translated">Presiune scăzută.</value>
+		<value lang="sqi" status="translated">Presion i ulët.</value>
 	</text>
 	<text key="measurements.pressure.darkblueBand.grade">
 		<context>measurements</context>
@@ -2368,6 +2670,7 @@
 		<value lang="mk" status="translated">Низок атмосферски притисок, типичен за планинските предели. Може да предизвика зашеметеност.</value>
 		<value lang="rs" status="initial">Nizak atmosferski pritisak, tipičan za planinska područja. Može izazvati ošamućenost.</value>
 		<value lang="ro" status="translated">Presiune atmosferică scăzută, tipică pentru zonele montane. Poate provoca amețeli.</value>
+		<value lang="sqi" status="translated">Presion i ulët atmosferik, tipik për zonat malore. Mund të shkaktojë marramendje.</value>
 	</text>
 	<text key="measurements.pressure.darkblueBand.suggestion">
 		<context>measurements</context>
@@ -2376,6 +2679,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.blueBand.shortGrade">
 		<context>measurements</context>
@@ -2384,6 +2688,7 @@
 		<value lang="mk" status="translated">Делумно низок притисок.</value>
 		<value lang="rs" status="initial">Blago nizak pritisak.</value>
 		<value lang="ro" status="translated">Presiune ușor scăzută.</value>
+		<value lang="sqi" status="translated">Presion pak më i ulët.</value>
 	</text>
 	<text key="measurements.pressure.blueBand.grade">
 		<context>measurements</context>
@@ -2392,6 +2697,7 @@
 		<value lang="mk" status="translated">Малку понизок притисок од нормално, типично за места со поголема надморска височина.</value>
 		<value lang="rs" status="initial">Nešto niži od normalnog vazdušnog pritiska, tipično za mesta sa većom nadmorskom visinom.</value>
 		<value lang="ro" status="translated">Puțin mai mic decât presiunea normală a aerului, tipic pentru locurile de altitudine mai mare.</value>
+		<value lang="sqi" status="translated">Presion pak më i ulët se normalisht, tipik për vende me lartësi mbidetare më të madhe.</value>
 	</text>
 	<text key="measurements.pressure.blueBand.suggestion">
 		<context>measurements</context>
@@ -2400,6 +2706,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2408,6 +2715,7 @@
 		<value lang="mk" status="translated">Нормален воздушен притисок.</value>
 		<value lang="rs" status="initial">Normalan vazdušni pritisak.</value>
 		<value lang="ro" status="translated">Presiunea normală a aerului.</value>
+		<value lang="sqi" status="translated">Presion normal i ajrit.</value>
 	</text>
 	<text key="measurements.pressure.darkgreenBand.grade">
 		<context>measurements</context>
@@ -2416,6 +2724,7 @@
 		<value lang="mk" status="translated">Нормален континентален воздушен притисок.</value>
 		<value lang="rs" status="initial">Normalan kontinentalni vazdušni pritisak.</value>
 		<value lang="ro" status="translated">Presiunea aerului continental normal.</value>
+		<value lang="sqi" status="translated">Presion normal i ajrit kontinental.</value>
 	</text>
 	<text key="measurements.pressure.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -2424,6 +2733,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.greenBand.shortGrade">
 		<context>measurements</context>
@@ -2432,6 +2742,7 @@
 		<value lang="mk" status="translated">Нормален воздушен притисок.</value>
 		<value lang="rs" status="initial">Normalan vazdušni pritisak.</value>
 		<value lang="ro" status="translated">Presiune normală a aerului.</value>
+		<value lang="sqi" status="translated">Presion normal i ajrit.</value>
 	</text>
 	<text key="measurements.pressure.greenBand.grade">
 		<context>measurements</context>
@@ -2440,6 +2751,7 @@
 		<value lang="mk" status="translated">Нормален континентален воздушен притисок.</value>
 		<value lang="rs" status="initial">Normalan kontinentalni vazdušni pritisak.</value>
 		<value lang="ro" status="translated">Presiunea aerului continental normal.</value>
+		<value lang="sqi" status="translated">Presion normal i ajrit kontinental.</value>
 	</text>
 	<text key="measurements.pressure.greenBand.suggestion">
 		<context>measurements</context>
@@ -2448,6 +2760,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -2456,6 +2769,7 @@
 		<value lang="mk" status="translated">Нормален воздушен притисок.</value>
 		<value lang="rs" status="initial">Normalan vazdušni pritisak.</value>
 		<value lang="ro" status="translated">Presiune normală a aerului.</value>
+		<value lang="sqi" status="translated">Presion normal i ajrit.</value>
 	</text>
 	<text key="measurements.pressure.orangeBand.grade">
 		<context>measurements</context>
@@ -2464,6 +2778,7 @@
 		<value lang="mk" status="translated">Нормален морски воздушен притисок.</value>
 		<value lang="rs" status="initial">Normalan morski vazdušni pritisak.</value>
 		<value lang="ro" status="translated">Presiune normală a aerului de la malul mării.</value>
+		<value lang="sqi" status="translated">Presion normal i ajrit detarë.</value>
 	</text>
 	<text key="measurements.pressure.orangeBand.suggestion">
 		<context>measurements</context>
@@ -2472,6 +2787,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
 	</text>
 	<text key="measurements.pressure.redBand.shortGrade">
 		<context>measurements</context>
@@ -2480,6 +2796,7 @@
 		<value lang="mk" status="translated">Делумно висок воздушен притисок.</value>
 		<value lang="rs" status="initial">Blago povišen pritisak.</value>
 		<value lang="ro" status="translated">Presiune ușor ridicată.</value>
+		<value lang="sqi" status="translated">Presion pak më i lartë i ajrit.</value>
 	</text>
 	<text key="measurements.pressure.redBand.grade">
 		<context>measurements</context>
@@ -2488,6 +2805,7 @@
 		<value lang="mk" status="translated">Малку повисок воздушен притисок од средната морска височина. Може да биде предизвикано од временските услови или депресија со надморска височина под нулата.</value>
 		<value lang="rs" status="initial">Nešto veći vazdušni pritisak od prosečnog nivoa mora. Možda je to zbog vremenskih uslova ili depresije ispod nule</value>
 		<value lang="ro" status="translated">Presiunea aerului puțin mai mare decât aerul de la nivelul mării. S-ar putea datora condițiilor meteorologice sau unei depresiuni sub altitudine zero.</value>
+		<value lang="sqi" status="translated">Presioni i ajrit pak më i lartë se niveli mesatar i detit. Mund të jetë për shkak të kushteve të motit ose një depresioni nën lartësinë zero.</value>
 	</text>
 	<text key="measurements.pressure.redBand.suggestion">
 		<context>measurements</context>
@@ -2496,6 +2814,7 @@
 		<value lang="mk" status="translated">Нема потреба од превентивни мерки. Атмосферскиот притисок само по себе нема ефект врз луѓето, меѓутоа флуктуации на притисокот може да предизвикаат мали здравствени проблеми како главоболка и вртоглавица.</value>
 		<value lang="rs" status="initial">Nema potrebe za preventivnim merama. Sam atmosferski pritisak nema uticaja na ljude, međutim, fluktuacije mogu izazvati blage zdravstvene probleme poput glavobolje i vrtoglavice.</value>
 		<value lang="ro" status="translated">Fără măsuri preventive. Presiunea atmosferică nu are efecte asupra oamenilor, însă fluctuațiile pot provoca ușoare probleme de sănătate, cum ar fi cefaleea și amețelile.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa parandaluese. Presioni atmosferik në vetvete nuk ka efekte mbi njerëzit, megjithatë luhatjet mund të shkaktojnë probleme të lehta shëndetësore si dhimbje koke dhe marramendje.</value>
 	</text>
 	<text key="measurements.temperature.buttonTitle">
 		<context>measurements</context>
@@ -2504,6 +2823,7 @@
 		<value lang="mk" status="translated">Температура</value>
 		<value lang="rs" status="initial">Temperatura</value>
 		<value lang="ro" status="translated">Temperatura</value>
+		<value lang="sqi" status="translated">Temperatura</value>
 	</text>
 	<text key="measurements.temperature.title">
 		<context>measurements</context>
@@ -2512,6 +2832,7 @@
 		<value lang="mk" status="translated">Температура (С)</value>
 		<value lang="rs" status="initial">Temperatura (˚C)</value>
 		<value lang="ro" status="translated">Temperatura (C)</value>
+		<value lang="sqi" status="translated">Temperatura (C)</value>
 	</text>
 	<text key="measurements.temperature.description">
 		<context>measurements</context>
@@ -2520,6 +2841,7 @@
 		<value lang="mk" status="translated">Температура мерена во степени Целзиусови</value>
 		<value lang="rs" status="initial">Temperatura u stepenima Celzijusa.</value>
 		<value lang="ro" status="translated">Temperatura în grade Celsius</value>
+		<value lang="sqi" status="translated">Temperatura në gradë Celsius</value>
 	</text>
 	<text key="measurements.temperature.darkblueBand.shortGrade">
 		<context>measurements</context>
@@ -2528,6 +2850,7 @@
 		<value lang="mk" status="translated">Премногу ниска температура.</value>
 		<value lang="rs" status="initial">Temperatura smrzavanja.</value>
 		<value lang="ro" status="translated">Temperatură de îngheț.</value>
+		<value lang="sqi" status="translated">Temperaturë tepër e ulët.</value>
 	</text>
 	<text key="measurements.temperature.darkblueBand.grade">
 		<context>measurements</context>
@@ -2536,6 +2859,7 @@
 		<value lang="mk" status="translated">Премногу ниска температура. Зголемен ризик за напади од астма, ослабен имун систем и мигрени. Подолга изложеност може да предизвика хипотермија.</value>
 		<value lang="rs" status="initial">Temperatura smrzavanja. Povećan rizik od napada astme, oslabljenog imuno sistema i migrene. Produženo izlaganje izaziva hipotermiju.</value>
 		<value lang="ro" status="translated">Temperatură de îngheț. Risc crescut de atacuri de astm, sistemul imunitar slăbit și migrene. Expunerea prelungită va provoca hipotermie.</value>
+		<value lang="sqi" status="translated">Temperaturë tepër e ulët. Gjasa më të mëdhaja të sulmeve të astmës, dobësimit të sistemit imunitar dhe migrenës. Ekspozimi pë periudh të gjata mund të shkaktojë hipotermi.</value>
 	</text>
 	<text key="measurements.temperature.darkblueBand.suggestion">
 		<context>measurements</context>
@@ -2544,6 +2868,7 @@
 		<value lang="mk" status="translated">Носете повеќе слоеви на топла облека и соодветни обувки за снег и мраз. Обидете се да останете дома.</value>
 		<value lang="rs" status="initial">Nosite višeslojnu toplu odeću i odgovarajuću obuću za sneg i led. Pokušajte da ostanete kod kuće.</value>
 		<value lang="ro" status="translated">Purtați mai multe straturi de haine calde și încălțăminte adecvată pentru zăpadă și gheață. Încercați să rămâneți acasă.</value>
+		<value lang="sqi" status="translated">Vishni rroba më të ngrohta dhe këpucë të përshtatshme për borë dhe akull. Mundohuni të qëndroni në ambiente të mbyllura.</value>
 	</text>
 	<text key="measurements.temperature.blueBand.shortGrade">
 		<context>measurements</context>
@@ -2552,6 +2877,7 @@
 		<value lang="mk" status="translated">Многу ниска температура.</value>
 		<value lang="rs" status="initial">Veoma niska temperatura.</value>
 		<value lang="ro" status="translated">Temperatura este foarte scăzută.</value>
+		<value lang="sqi" status="translated">Temperaturë shumë e ulët.</value>
 	</text>
 	<text key="measurements.temperature.blueBand.grade">
 		<context>measurements</context>
@@ -2560,6 +2886,7 @@
 		<value lang="mk" status="translated">Многу ниска температура. Подолга изложеност може да предизвика смрзнатини, болка во очите и хипотермија.</value>
 		<value lang="rs" status="initial">Veoma niska temperatura. Produženo izlaganje može izazvati ozebline, bol u očima i hipotermiju.</value>
 		<value lang="ro" status="translated">Temperatura este foarte scăzută. Expunerea prelungită poate provoca degerături, dureri de ochi și hipotermie.</value>
+        <value lang="sqi" status="translated">Temperaturë shumë e ulët. Ekspozimi për periudha të gjata mund të shkaktojë ngrirje, dhimbje në sy dhe hipotermi.</value>
 	</text>
 	<text key="measurements.temperature.blueBand.suggestion">
 		<context>measurements</context>
@@ -2568,6 +2895,7 @@
 		<value lang="mk" status="translated">Избегнувајте да бидете на отворено подолг период. Конзумирајте топли напитоци.</value>
 		<value lang="rs" status="initial">Izbegavajte duži boravak na otvorenom. Konzumirajte tople napitke.</value>
 		<value lang="ro" status="translated">Evitați să stați în aer liber pentru perioade mai lungi. Consumați băuturi calde.</value>
+		<value lang="sqi" status="translated">Anashkaloni qëndrimin në ambiente të hapura për periudha të gjata. Konsumoni pije të ngrohta.</value>
 	</text>
 	<text key="measurements.temperature.darkgreenBand.shortGrade">
 		<context>measurements</context>
@@ -2576,6 +2904,7 @@
 		<value lang="mk" status="translated">Ниска температура.</value>
 		<value lang="rs" status="initial">Niska temperatura.</value>
 		<value lang="ro" status="translated">Temperatura este scăzută.</value>
+		<value lang="sqi" status="translated">Temperaturë e ulët.</value>
 	</text>
 	<text key="measurements.temperature.darkgreenBand.grade">
 		<context>measurements</context>
@@ -2584,6 +2913,7 @@
 		<value lang="mk" status="translated">Ниска температура. Може да предизвика настинка доколку не сте соодветно облечени.</value>
 		<value lang="rs" status="initial">Niska temperatura. Ako se dobro ne obučete, možete se prehladiti.</value>
 		<value lang="ro" status="translated">Temperatura este scăzută. Poate provoca răceală dacă nu sunteți îmbrăcat corespunzător.</value>
+		<value lang="sqi" status="translated">Temperaturë e ulët. Mund të shkaktojë ftohje nëse nuk keni veshje të përshtatshme.</value>
 	</text>
 	<text key="measurements.temperature.darkgreenBand.suggestion">
 		<context>measurements</context>
@@ -2592,6 +2922,7 @@
 		<value lang="mk" status="translated">Носете соодветна облека. Не останувајте мокри надвор.</value>
 		<value lang="rs" status="initial">Nosite odgovarajuću odeću. Ne ostajte mokri napolju.</value>
 		<value lang="ro" status="translated">Purtați haine adecvate. Nu stați umed afară.</value>
+		<value lang="sqi" status="translated">Vishni rroba të përshtatshme. Mos qëndroni të lagur jashtë.</value>
 	</text>
 	<text key="measurements.temperature.greenBand.shortGrade">
 		<context>measurements</context>
@@ -2600,6 +2931,7 @@
 		<value lang="mk" status="translated">Пријатна температура.</value>
 		<value lang="rs" status="initial">Prijatna temperatura.</value>
 		<value lang="ro" status="translated">Temperatura este plăcută.</value>
+		<value lang="sqi" status="translated">Temperaturë e këndshme.</value>
 	</text>
 	<text key="measurements.temperature.greenBand.grade">
 		<context>measurements</context>
@@ -2608,6 +2940,7 @@
 		<value lang="mk" status="translated">Пријатна температура. Температурата се смета за идеална за човечки комфорт.</value>
 		<value lang="rs" status="initial">Prijatna temperatura. Temperatura se smatra idealnom za udobnost ljudi.</value>
 		<value lang="ro" status="translated">Temperatura este plăcută. Temperatura este considerată ideală pentru confortul uman.</value>
+		<value lang="sqi" status="translated">Temperaturë e këndshme. Temperatura konsiderohet ideale për komoditetin e njeriut.</value>
 	</text>
 	<text key="measurements.temperature.greenBand.suggestion">
 		<context>measurements</context>
@@ -2616,6 +2949,7 @@
 		<value lang="mk" status="translated">Нема потреба од никаква загриженост. Уживајте во убавото време.</value>
 		<value lang="rs" status="initial">Nema potrebe za oprezom. Uživajte u lepom vremenu.</value>
 		<value lang="ro" status="translated">Nu este necesară nicio măsură de precauție. Bucurați-vă de vremea frumoasă.</value>
+		<value lang="sqi" status="translated">Nuk ka nevojë për masa araprake. Shijoni motin e bukur.</value>
 	</text>
 	<text key="measurements.temperature.orangeBand.shortGrade">
 		<context>measurements</context>
@@ -2624,6 +2958,7 @@
 		<value lang="mk" status="translated">Топли услови.</value>
 		<value lang="rs" status="initial">Toplo vreme.</value>
 		<value lang="ro" status="translated">Condiții calde.</value>
+		<value lang="sqi" status="translated">Kushte të ngrohta.</value>
 	</text>
 	<text key="measurements.temperature.orangeBand.grade">
 		<context>measurements</context>
@@ -2632,6 +2967,7 @@
 		<value lang="mk" status="translated">Топли услови. Интензивна физичка активност може да предизвика ослободување на топлина.</value>
 		<value lang="rs" status="initial">Toplo vreme. Intenzivna fizička aktivnost može izazvati toplotnu iscrpljenost.</value>
 		<value lang="ro" status="translated">Condiții calde. Activitatea fizică intensă poate provoca epuizare termică.</value>
+		<value lang="sqi" status="translated">Kushte të ngrohta. Aktivitetet fizike intensive mund të shkaktojnë lodhje nga nxehtësia.</value>
 	</text>
 	<text key="measurements.temperature.orangeBand.suggestion">
 		<context>measurements</context>
@@ -2640,6 +2976,7 @@
 		<value lang="mk" status="translated">Употребувајте креми за сончање, носете облека со светли бои и капа.</value>
 		<value lang="rs" status="initial">Stavite kremu za sunčanje, nosite odeću svetlih boja i šešir.</value>
 		<value lang="ro" status="translated">Puneți-vă protecție solară, purtați haine în culori vii și o pălărie.</value>
+		<value lang="sqi" status="translated">Përdorni krem kundër diellit, vishni rroba me ngjyra të hapura dhe kapele.</value>
 	</text>
 	<text key="measurements.temperature.redBand.shortGrade">
 		<context>measurements</context>
@@ -2648,6 +2985,7 @@
 		<value lang="mk" status="translated">Многу висока температура.</value>
 		<value lang="rs" status="initial">Visoka temperatura.</value>
 		<value lang="ro" status="translated">Temperatura ridicată.</value>
+		<value lang="sqi" status="translated">Temperaturë shumë e ngrohtë.</value>
 	</text>
 	<text key="measurements.temperature.redBand.grade">
 		<context>measurements</context>
@@ -2656,6 +2994,7 @@
 		<value lang="mk" status="translated">Многу висока температура. Може да предизвика зголемено потење, ослободување на топлина и главоболки</value>
 		<value lang="rs" status="initial">Visoka temperatura. Može izazvati pojačano znojenje, toplotnu iscrpljenost i glavobolju.</value>
 		<value lang="ro" status="translated">Temperatura ridicată. Poate provoca transpirație crescută, epuizare termică și dureri de cap.</value>
+		<value lang="sqi" status="translated">Temperaturë shumë e ngrohtë. Mund të shkaktojë më tepër djersitje, lodhje nga nxehtësia dhe kokëdhimbje</value>
 	</text>
 	<text key="measurements.temperature.redBand.suggestion">
 		<context>measurements</context>
@@ -2664,6 +3003,7 @@
 		<value lang="mk" status="translated">Избегнувајте да бидете на отворено во периодот од 11 до 17 часот. Пијте големо количество на течности.</value>
 		<value lang="rs" status="initial">Izbegavajte boravak na otvorenom u periodu od 11 do 17 časova. Pijte puno tečnosti.</value>
 		<value lang="ro" status="translated">Evitați să stați în aer liber în perioada 11-17. Beți multe lichide.</value>
+		<value lang="sqi" status="translated">Anashkaloni qëndrimin në ambiente të hapura prej orës 11 deri 17. Konsumoni lëngje në sasi më të madhe.</value>
 	</text>
 	<text key="measurements.temperature.darkredBand.shortGrade">
 		<context>measurements</context>
@@ -2672,6 +3012,7 @@
 		<value lang="mk" status="translated">Екстремно висока температура.</value>
 		<value lang="rs" status="initial">Veoma visoka temperatura.</value>
 		<value lang="ro" status="translated">Temperatura este foarte ridicată.</value>
+		<value lang="sqi" status="translated">Temperaturë tepër e lartë.</value>
 	</text>
 	<text key="measurements.temperature.darkredBand.grade">
 		<context>measurements</context>
@@ -2680,6 +3021,7 @@
 		<value lang="mk" status="translated">Екстремно висока температура. Висок ризик од дехидратација, ослободување на топлина, гадење и срцев удар.</value>
 		<value lang="rs" status="initial">Veoma visoka temperatura. Veliki rizik od dehidracije, toplotne iscrpljenosti, mučnine i toplotnog udara.</value>
 		<value lang="ro" status="translated">Temperatura este foarte ridicată. Risc ridicat de deshidratare, epuizare termică, greață și accident vascular cerebral.</value>
+		<value lang="sqi" status="translated">Temperaturë tepër e lartë. Paraqet rrezik të lartë të dehidrimit, rraskapitjes nga nxehtësia, vjelljes dhe goditjes nga nxehtësia.</value>
 	</text>
 	<text key="measurements.temperature.darkredBand.suggestion">
 		<context>measurements</context>
@@ -2688,5 +3030,6 @@
 		<value lang="mk" status="translated">Заштитете се себеси од директна изложеност на сонце. Конзумирајте лесна храна и многу течности.</value>
 		<value lang="rs" status="initial">Zaštitite se od direktnog izlaganja suncu. Jedite laganu hranu i pijte puno tečnosti.</value>
 		<value lang="ro" status="translated">Protejați-vă de expunerea directă la soare. Consumați alimente ușoare și multe lichide.</value>
+		<value lang="sqi" status="translated">Mbrohuni nga ekspozimi i drejtpërdrejtë i diellit. Konsumoni ushqime të lehta dhe shumë lëngje.</value>
 	</text>
 </trema>
