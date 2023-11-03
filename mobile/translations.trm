@@ -281,9 +281,9 @@
       <value lang="rs" status="translated">Često postavljana pitanja</value>
       <value lang="ro" status="translated">Întrebări frecvente</value>
   </text>
-  <text key="city_missing_add_new">
+  <text key="city_missing_add_initial">
     <context></context>
-    <value lang="en" status="translated">Didn't find the city you were looking for? Add a new city</value>
+    <value lang="en" status="translated">Didn't find the city you were looking for? Add a initial city</value>
     <value lang="mk" status="translated">Не го најде градот кој го бараше? Додади нов град</value>
     <value lang="de" status="translated">Stadt nicht gefunden? Neue Stadt hinzufügen</value>
     <value lang="rs" status="translated">Ne postoji traženi grad? Dodaj novi grad</value>
@@ -638,7 +638,7 @@
     <value lang="en" status="translated">November</value>
     <value lang="mk" status="translated">Ноември</value>
     <value lang="de" status="translated">November</value>
-    <value lang="rs" status="translated">Novembarr</value>
+    <value lang="rs" status="translated">Novembar</value>
     <value lang="ro" status="translated">Noiembrie</value>
   </text>
   <text key="december">
@@ -649,4 +649,86 @@
     <value lang="rs" status="translated">Decembar</value>
     <value lang="ro" status="translated">Decembrie</value>
   </text>
+
+  <text key="dashboard_view">
+    <context>Menu dialog first selection</context>
+    <value lang="en" status="translated">Dashboard view</value>
+    <value lang="mk" status="translated">Контролен панел</value>
+    <value lang="de" status="translated">Armaturenbrett</value>
+    <value lang="rs" status="translated">Командна табла</value>
+    <value lang="ro" status="translated">Bord</value>
+  </text>
+  <text key="map_view">
+    <context>Menu dialog second selection</context>
+    <value lang="en" status="translated">Map view</value>
+    <value lang="mk" status="translated">Мапа</value>
+    <value lang="de" status="translated">Kartenansicht</value>
+    <value lang="rs" status="translated">Приказ мапе</value>
+    <value lang="ro" status="translated">Vizualizarea hartii</value>
+  </text>
+  <text key="settings_view">
+    <context>Menu dialog third selection</context>
+    <value lang="en" status="translated">Settings</value>
+    <value lang="mk" status="translated">Поставки</value>
+    <value lang="de" status="translated">Einstellungen</value>
+    <value lang="rs" status="translated">Подешавањаs</value>
+    <value lang="ro" status="translated">Setări</value>
+  </text>
+  <text key="settings_option_title_language">
+    <context>First option in the settings menu title</context>
+    <value lang="en" status="translated">Language</value>
+    <value lang="mk" status="translated">Јазик</value>
+    <value lang="de" status="translated">Sprache</value>
+    <value lang="rs" status="translated">Језикe</value>
+    <value lang="ro" status="translated">Limba</value>
+  </text>
+  <text key="settings_option_sub_title_language">
+    <context>First option in the settings menu sub-title</context>
+    <value lang="en" status="translated">Change language</value>
+    <value lang="mk" status="translated">Промени јазик</value>
+    <value lang="de" status="translated">Sprache ändern</value>
+    <value lang="rs" status="translated">Промени језик</value>
+    <value lang="ro" status="translated">Schimbați limba</value>
+  </text>
+  <text key="settings_option_title_about">
+    <context>Second option in the settings menu title</context>
+    <value lang="en" status="translated">About pulse.eco</value>
+    <value lang="mk" status="translated">За pulse.eco</value>
+    <value lang="de" status="translated">Über pulse.eco</value>
+    <value lang="rs" status="translated">О pulse.eco</value>
+    <value lang="ro" status="translated">Despre pulse.eco</value>
+  </text>
+  <text key="settings_option_sub_title_about">
+    <context>Second option in the settings menu sub-title</context>
+    <value lang="en" status="translated">About pulse.eco</value>
+    <value lang="mk" status="translated">За pulse.eco</value>
+    <value lang="de" status="translated">Über pulse.eco</value>
+    <value lang="rs" status="translated">О pulse.eco</value>
+    <value lang="ro" status="translated">Despre pulse.eco</value>
+  </text>
+  <text key="settings_about_pulse_eco_paragraph">
+    <context>About pulse eco text</context>
+    <value lang="en" status="initial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum gravida turpis vitae finibus. Phasellus lobortis nec enim sit amet vulputate. Nam elit risus, laoreet eu faucibus quis, blandit sit amet velit. Mauris tristique sapien ac consectetur scelerisque.</value>
+    <value lang="mk" status="initial">MK: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum gravida turpis vitae finibus. Phasellus lobortis nec enim sit amet vulputate. Nam elit risus, laoreet eu faucibus quis, blandit sit amet velit. Mauris tristique sapien ac consectetur scelerisque.</value>
+    <value lang="de" status="initial">DE: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum gravida turpis vitae finibus. Phasellus lobortis nec enim sit amet vulputate. Nam elit risus, laoreet eu faucibus quis, blandit sit amet velit. Mauris tristique sapien ac consectetur scelerisque.</value>
+    <value lang="rs" status="initial">RS: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum gravida turpis vitae finibus. Phasellus lobortis nec enim sit amet vulputate. Nam elit risus, laoreet eu faucibus quis, blandit sit amet velit. Mauris tristique sapien ac consectetur scelerisque.</value>
+    <value lang="ro" status="initial">RO: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum gravida turpis vitae finibus. Phasellus lobortis nec enim sit amet vulputate. Nam elit risus, laoreet eu faucibus quis, blandit sit amet velit. Mauris tristique sapien ac consectetur scelerisque.</value>
+  </text>
+  <text key="settings_option_title_libraries">
+    <context>Third option in the settings menu title</context>
+    <value lang="en" status="translated">Libraries</value>
+    <value lang="mk" status="translated">Библиотеки</value>
+    <value lang="de" status="translated">Bibliotheken</value>
+    <value lang="rs" status="translated">Библиотеке</value>
+    <value lang="ro" status="translated">Biblioteci</value>
+  </text>
+  <text key="settings_option_sub_title_libraries">
+    <context>Third option in the settings menu sub-title</context>
+    <value lang="en" status="translated">Used libraries</value>
+    <value lang="mk" status="translated">Користени библиотеки</value>
+    <value lang="de" status="translated">Gebrauchte Bibliotheken</value>
+    <value lang="rs" status="translated">Коришћене библиотеке</value>
+    <value lang="ro" status="translated">Biblioteci folosite</value>
+  </text>
+
 </trema>
