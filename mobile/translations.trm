@@ -8,6 +8,7 @@
     <value lang="de" status="translated">Mo</value>
     <value lang="rs" status="translated">pon</value>
     <value lang="ro" status="translated">Lun</value>
+    <value lang="sq" status="translated">Hën</value>
   </text>
   <text key="tuesday-short">
     <context></context>
@@ -16,6 +17,7 @@
     <value lang="de" status="translated">Di</value>
     <value lang="rs" status="translated">uto</value>
     <value lang="ro" status="translated">Mar</value>
+    <value lang="sq" status="translated">Mar</value>
   </text>
   <text key="wednesday-short">
     <context></context>
@@ -24,6 +26,7 @@
     <value lang="de" status="translated">Mi</value>
     <value lang="rs" status="translated">sre</value>
     <value lang="ro" status="translated">Mie</value>
+    <value lang="sq" status="translated">Mër</value>
   </text>
   <text key="thursday-short">
     <context></context>
@@ -32,6 +35,7 @@
     <value lang="de" status="translated">Do</value>
     <value lang="rs" status="translated">čet</value>
     <value lang="ro" status="translated">Joi</value>
+    <value lang="sq" status="translated">Enj</value>
   </text>
   <text key="friday-short">
     <context></context>
@@ -40,6 +44,7 @@
     <value lang="de" status="translated">Fr</value>
     <value lang="rs" status="translated">pet</value>
     <value lang="ro" status="translated">Vin</value>
+    <value lang="sq" status="translated">Pre</value>
   </text>
   <text key="saturday-short">
     <context></context>
@@ -48,6 +53,7 @@
     <value lang="de" status="translated">Sa</value>
     <value lang="rs" status="translated">sub</value>
     <value lang="ro" status="translated">Sam</value>
+    <value lang="sq" status="translated">Sht</value>
   </text>
   <text key="sunday-short">
     <context></context>
@@ -56,6 +62,7 @@
     <value lang="de" status="translated">So</value>
     <value lang="rs" status="translated">ned</value>
     <value lang="ro" status="translated">Dum</value>
+    <value lang="sq" status="translated">Die</value>
   </text>
   <text key="crowdsourced_sensor_data">
     <context></context>
@@ -64,6 +71,7 @@
     <value lang="de" status="translated">Crowdsource-Sensordaten</value>
     <value lang="rs" status="translated">Podaci od zajednice</value>
     <value lang="ro" status="translated">Date de la senzori publici</value>
+    <value lang="sq" status="translated">Të dhënat e grumbulluara na komuniteti</value>
   </text>
   <text key="no_readings">
     <context></context>
@@ -72,6 +80,7 @@
     <value lang="de" status="translated">Keine Messwerte</value>
     <value lang="rs" status="translated">Nema očitavanja</value>
     <value lang="ro" status="translated">Nu există date</value>
+    <value lang="sq" status="translated">S'ka lexime</value>
   </text>
   <text key="past_week">
     <context></context>
@@ -80,6 +89,7 @@
     <value lang="de" status="translated">Letzte Woche</value>
     <value lang="rs" status="translated">Prošla nedelja</value>
     <value lang="ro" status="translated">Săptămâna trecută</value>
+    <value lang="sq" status="translated">Java e kaluar</value>
   </text>
   <text key="unknown">
     <context></context>
@@ -88,6 +98,7 @@
     <value lang="de" status="translated">Unbekannt</value>
     <value lang="rs" status="translated">Nepoznato</value>
     <value lang="ro" status="translated">Necunoscut</value>
+    <value lang="sq" status="translated">E panjohur</value>
   </text>
   <text key="disclaimer_short_message">
     <context></context>
@@ -96,6 +107,7 @@
     <value lang="de" status="translated">Die angezeigten Daten stammen direkt von den verwendeten Sensoren. Wir übernehmen keine Garantie für deren Richtigkeit.</value>
     <value lang="rs" status="translated">Prikazani podaci dolaze direktno sa samih senzora. Ne garantujemo kvalitet ovih podataka.</value>
     <value lang="ro" status="translated">Datele afișate provin direct de la senzorii folosiți. Nu garantăm corectitudinea lor.</value>
+    <value lang="sq" status="translated">Vërejtje: Të dhënat e shfaqura vijnë direkt nga sensorët e përdorur. Ne nuk garantojmë saktësinë e tyre.</value>
   </text>
   <text key="privacy_policy">
     <context></context>
@@ -104,6 +116,7 @@
     <value lang="de" status="translated">Datenschutzrichtlinie</value>
     <value lang="rs" status="translated">Politika privatnosti</value>
     <value lang="ro" status="translated">Politica de confidențialitate</value>
+    <value lang="sq" status="translated">Politika për privatësi</value>
   </text>
   <text key="details">
     <context></context>
@@ -112,6 +125,7 @@
     <value lang="de" status="translated">Details</value>
     <value lang="rs" status="translated">Detalji</value>
     <value lang="ro" status="translated">Detalii</value>
+    <value lang="sq" status="translated">Detajet</value>
   </text>
   <text key="results">
     <context></context>
@@ -120,6 +134,7 @@
     <value lang="de" status="translated">Ergebnisse</value>
     <value lang="rs" status="translated">Rezultati</value>
     <value lang="ro" status="translated">Rezultate</value>
+    <value lang="sq" status="translated">Rezultatet</value>
   </text>
   <text key="suggested">
     <context>City select screen</context>
@@ -128,6 +143,7 @@
     <value lang="de" status="translated">Vorgeschlagen</value>
     <value lang="rs" status="translated">Predloženi</value>
     <value lang="ro" status="translated">Recomandat</value>
+    <value lang="sq" status="translated">Sygjerimet</value>
   </text>
   <text key="search_city_or_choose_suggested">
     <context>City select screen</context>
@@ -136,6 +152,7 @@
     <value lang="de" status="translated">Stadt suchen oder vorgeschlagene wählen</value>
     <value lang="rs" status="translated">Nađi grad ili izaberi predloženi</value>
     <value lang="ro" status="translated">Căutați orașul sau alegeți orașul recomandat</value>
+    <value lang="sq" status="translated">Kërkoni qytet, ose zgjedhni një nga sygjerimet</value>
   </text>
   <text key="search_city_or_country">
     <context>City select screen</context>
@@ -144,6 +161,7 @@
     <value lang="de" status="translated">Suche Stadt oder Land</value>
     <value lang="rs" status="translated">Traži grad ili državu</value>
     <value lang="ro" status="translated">Căutați oraș sau țară</value>
+    <value lang="sq" status="translated">Kërkoni qytetin ose shtetin</value>
   </text>
   <text key="no_data_available">
     <context>City select search bar when there is no data available</context>
@@ -152,6 +170,7 @@
     <value lang="de" status="translated">Keine Daten verfügbar. Versuchen Sie es später erneut.</value>
     <value lang="rs" status="translated">Podaci su nedostupni. Probajte ponovo.</value>
     <value lang="ro" status="translated">Nu există date disponibile. Încercați mai târziu.</value>
+    <value lang="sq" status="translated">Të dhënat nuk janë në dispozicion. Provoni përsëri më vonë.</value>
   </text>
   <text key="disclaimer">
     <context></context>
@@ -160,6 +179,7 @@
     <value lang="de" status="translated">Haftungsausschluss</value>
     <value lang="rs" status="translated">Napomena</value>
     <value lang="ro" status="translated">Disclaimer</value>
+    <value lang="sq" status="translated">Vërejtje</value>
   </text>
   <text key="ok">
     <context></context>
@@ -168,6 +188,7 @@
     <value lang="de" status="translated">ОК</value>
     <value lang="rs" status="translated">U redu</value>
     <value lang="ro" status="translated">OK</value>
+    <value lang="sq" status="translated">OK</value>
   </text>
   <text key="change_language_message_ios">
     <context></context>
@@ -176,6 +197,7 @@
     <value lang="de" status="translated">Wenn Sie diese Einstellung anwenden wird die Sprache der App in %@ geändert und die App neu gestartet.</value>
     <value lang="rs" status="translated">Primena ovih podešavanja promeniće jezik aplikacije na %@ i ponovo će je pokrenuti.</value>
     <value lang="ro" status="translated">Aplicarea acestei setări va schimba limba aplicației la %@ și va actualiza aplicația.</value>
+    <value lang="sq" status="translated">Ndërrimi i kësaj cilësie do të ndryshoj gjuhën në %@ dhe do të rifreskoj aplikacionin.</value>
   </text>
   <text key="change_app_language">
     <context></context>
@@ -184,6 +206,7 @@
     <value lang="de" status="translated">Sprache ändern</value>
     <value lang="rs" status="translated">Promena jezika</value>
     <value lang="ro" status="translated">Schimbați limba aplicației</value>
+    <value lang="sq" status="translated">Ndërro gjuhën e aplikacionit</value>
   </text>
   <text key="proceed">
     <context></context>
@@ -192,6 +215,7 @@
     <value lang="de" status="translated">Weiter</value>
     <value lang="rs" status="translated">Dalje</value>
     <value lang="ro" status="translated">Continuă</value>
+    <value lang="sq" status="translated">Vazhdo</value>
   </text>
   <text key="german">
     <context></context>
@@ -200,6 +224,7 @@
     <value lang="de" status="translated">Deutsch</value>
     <value lang="rs" status="translated">Deutsch</value>
     <value lang="ro" status="translated">Deutsch</value>
+    <value lang="sq" status="translated">Deutsch</value>
   </text>
   <text key="macedonian">
     <context></context>
@@ -208,6 +233,7 @@
     <value lang="de" status="translated">Македонски</value>
     <value lang="rs" status="translated">Македонски</value>
     <value lang="ro" status="translated">Македонски</value>
+    <value lang="sq" status="translated">Македонски</value>
   </text>
   <text key="serbian">
     <context></context>
@@ -216,6 +242,7 @@
     <value lang="de" status="translated">Srpski</value>
     <value lang="rs" status="translated">Srpski</value>
     <value lang="ro" status="translated">Srpski</value>
+    <value lang="sq" status="translated">Srpski</value>
   </text>
   <text key="english">
     <context></context>
@@ -224,6 +251,7 @@
     <value lang="de" status="translated">English</value>
     <value lang="rs" status="translated">English</value>
     <value lang="ro" status="translated">English</value>
+    <value lang="sq" status="translated">English</value>
   </text>
   <text key="romanian">
     <context></context>
@@ -232,7 +260,17 @@
     <value lang="de" status="translated">Română</value>
     <value lang="rs" status="translated">Română</value>
     <value lang="ro" status="translated">Română</value>
+    <value lang="sq" status="translated">Română</value>
   </text>
+  <text key="albanian">
+      <context></context>
+      <value lang="en" status="translated">Shqip</value>
+      <value lang="mk" status="translated">Shqip</value>
+      <value lang="de" status="translated">Shqip</value>
+      <value lang="rs" status="translated">Shqip</value>
+      <value lang="ro" status="translated">Shqip</value>
+      <value lang="sq" status="translated">Shqip</value>
+    </text>
   <text key="done">
     <context></context>
     <value lang="en" status="translated">Done</value>
@@ -240,6 +278,7 @@
     <value lang="de" status="translated">Fertig</value>
     <value lang="rs" status="translated">Gotovo</value>
     <value lang="ro" status="translated">Terminare</value>
+    <value lang="sq" status="translated">U krye</value>
   </text>
   <text key="cancel">
     <context></context>
@@ -248,6 +287,7 @@
     <value lang="de" status="translated">Abbrechen</value>
     <value lang="rs" status="translated">Odustani</value>
     <value lang="ro" status="translated">Anulare</value>
+    <value lang="sq" status="translated">Anulo</value>
   </text>
   <text key="average">
     <context></context>
@@ -256,6 +296,7 @@
     <value lang="de" status="translated">Durchschnitt</value>
     <value lang="rs" status="translated">Prosek</value>
     <value lang="ro" status="translated">Medie</value>
+    <value lang="sq" status="translated">Mesatarja</value>
   </text>
   <text key="add_city_button">
     <context>City select screen</context>
@@ -264,6 +305,7 @@
       <value lang="de" status="translated">Stadt hinzufügen</value>
       <value lang="rs" status="translated">Dodaj grad</value>
       <value lang="ro" status="translated">Adăugați oraș</value>
+      <value lang="sq" status="translated">Shto qytet</value>
   </text>
   <text key="disclaimer_message">
       <context>index</context>
@@ -272,6 +314,7 @@
       <value lang="mk" status="translated">Претставените податоци потекнуваат од заедницата. Не ја гарантираме точноста на овие податоци. Податоците од трети извори се складирани и добиени од нивната услуга, додека уредите на pulse.eco зависат од точноста на користените сензори и условите во нивното непосредно опкружување. За повеќе детали упатете се во делот за Често поставувани прашања.</value>
       <value lang="rs" status="translated">Prikazani podaci potiču od zajednice. Nema garancije za njihovu ispravnost. Podaci od trećih lica su skladišteni u istom obliku u kakvom su primljeni, dok podaci sa pulse.eco uređaja zavise od korišćenih senzora i uslova u njihovom okruženju. Za dodatne detalje pogledajte sekciju Često postavljana pitanja.</value>
       <value lang="ro" status="translated">Datele prezentate sunt crowdsourced. Nu garantăm corectitudinea acestora. Datele primite de la senzori terți sunt stocate așa cum sunt primite de la serviciul lor, iar dispozitivele pulse.eco depind de corectitudinea senzorilor folosiți și condițiile din apropierea lor. Vă rugăm să consultați secțiunea Întrebări frecvente pentru detalii.</value>
+      <value lang="sq" status="translated">Të dhënat e shfaqura kanë prejardhje nga komuniteti. Nuk e garantojmë saktësinë e tyre. Të dhënat e sensorëve të palëve të treta ruhen ashtu siç janë marrë nga servisi i tyre, ndërsa pajisjet pulse.eco varen nga saktësija e sensorëve të përdorur dhe kushtet në rrethinën e tyre më të afërt. Ju lutemi drejtohuni tek pjesa për Pyetjet më të shpeshta për më shumë detaje.</value>
   </text>
   <text key="faq">
       <context>index</context>
@@ -280,6 +323,7 @@
       <value lang="mk" status="translated">Често поставувани прашања</value>
       <value lang="rs" status="translated">Često postavljana pitanja</value>
       <value lang="ro" status="translated">Întrebări frecvente</value>
+      <value lang="sq" status="translated">Pyetjet më të shpeshta</value>
   </text>
   <text key="city_missing_add_new">
     <context></context>
@@ -288,6 +332,7 @@
     <value lang="de" status="translated">Stadt nicht gefunden? Neue Stadt hinzufügen</value>
     <value lang="rs" status="translated">Ne postoji traženi grad? Dodaj novi grad</value>
     <value lang="ro" status="translated">Nu ați găsit orașul pe care îl căutați? Adăugați un oraș nou.</value>
+    <value lang="sq" status="translated">Nuk e gjetët qytetin që kërkuat? Shtoni qytet të ri</value>
   </text>
   <text key="select_city">
     <context>Toolbar Select City</context>
@@ -296,6 +341,7 @@
     <value lang="de" status="translated">Stadt wählen</value>
     <value lang="rs" status="translated">Izaberi grad</value>
     <value lang="ro" status="translated">Selectați orașul</value>
+    <value lang="sq" status="translated">Zgjedhni qytet</value>
   </text>
   <text key="technical_error">
     <context>Technical error</context>
@@ -304,6 +350,7 @@
     <value lang="de" status="translated">Technischer Fehler aufgetreten. Bitte versuche es erneut.</value>
     <value lang="rs" status="translated">Desila se tehnička greške. Pokušaj ponovo.</value>
     <value lang="ro" status="translated">A apărut o eroare tehnică. Vă rugăm să încercați din nou.</value>
+    <value lang="sq" status="translated">Ndodhi një gabim teknik. Ju lutemi provoni përsëri.</value>
   </text>
   <text key="select_sensors">
     <context>Bottom sheet button if there are no sensors selected</context>
@@ -312,14 +359,16 @@
     <value lang="de" status="translated">Sensor/en auswählen</value>
     <value lang="rs" status="translated">Izaberi senzor</value>
     <value lang="ro" status="translated">Selectați senzorii</value>
+    <value lang="sq" status="translated">Zgjedhni sensor/ë</value>
   </text>
   <text key="no_sensors_selected">
     <context>Bottom sheet message if there are no sensors selected</context>
     <value lang="en" status="translated">You can select up to 5 sensors by clicking the pins on the map. Bookmark them so they can be displayed here. You can also select sensors from the button.</value>
-    <value lang="mk" status="translated">Можете да селектирате намногу 5 сензори со одбирање на мапата. Додадете ги во омилени за да бидат прикажани тука. Можете да додадете омилени сензори и со копчето.</value>
+    <value lang="mk" status="translated">Можете да селектирате најмногу 5 сензори со одбирање на мапата. Додадете ги во омилени за да бидат прикажани тука. Можете да додадете омилени сензори и со копчето.</value>
     <value lang="de" status="translated">Sie können bis zu 5 Sensoren auswählen, indem Sie auf die Stifte auf der Karte klicken. Setzen Sie ein Lesezeichen, damit sie hier angezeigt werden können. Sie können auch Sensoren über die Schaltfläche auswählen.</value>
     <value lang="rs" status="translated">Možeš izabrati do 5 senzora klikom pinova na mapi. Dodaj ih kao omiljene da bi ovde bili prikazani. Izbor senzora je moguć i preko dugmeta.</value>
     <value lang="ro" status="translated">Puteți selecta până la 5 senzori făcând clic pe pinii de pe hartă. Marcați-i astfel încât să poată fi afișati aici. De asemenea, puteți selecta senzori din buton.</value>
+    <value lang="sq" status="translated">Mund të zgjedhni deri në 5 sensorë duke klikuar në hartë. Shtoni ato në të preferuarat që të shfaqen këtu. Gjithashtu mund të zgjedhni sensorë edhe nga butoni.</value>
   </text>
   <text key="sensors_selected">
     <context>Bottom sheet message if there are 1 or more sensors selected</context>
@@ -328,6 +377,7 @@
     <value lang="de" status="translated">Grafikdaten für ausgewählte Sensoren</value>
     <value lang="rs" status="translated">Grafički prikaz podataka za izabrane senzore</value>
     <value lang="ro" status="translated">Date grafice pentru senzorii selectați</value>
+    <value lang="sq" status="translated">Të dhënat grafike për sensorët e zgjedhur</value>
   </text>
   <text key="day_for_weekly_average_data">
     <context>Bottom sheet day for weekly average data</context>
@@ -336,6 +386,7 @@
     <value lang="de" status="translated">Tag</value>
     <value lang="rs" status="translated">Dan</value>
     <value lang="ro" status="translated">Zi</value>
+    <value lang="sq" status="translated">Dita</value>
   </text>
   <text key="no_internet_connection">
     <context>No internet connection</context>
@@ -344,6 +395,7 @@
     <value lang="de" status="translated">Keine Internet verbindung.</value>
     <value lang="rs" status="translated">Nema konekcije.</value>
     <value lang="ro" status="translated">Fără conexiune la internet.</value>
+    <value lang="sq" status="translated">Nuk ka lidhje interneti.</value>
   </text>
   <text key="unhandled_technical_error">
     <context>Unhandled technical error</context>
@@ -352,6 +404,7 @@
     <value lang="de" status="translated">Unbehandelter technischer Fehler.</value>
     <value lang="rs" status="translated">Neuhvaćena tehnička greška.</value>
     <value lang="ro" status="translated">Eroare tehnică nesoluționată.</value>
+    <value lang="sq" status="translated">Gabim teknik i patrajtuar.</value>
   </text>
   <text key="msg_removed">
     <context>Message displayed when city is deleted from selected cities</context>
@@ -360,6 +413,7 @@
     <value lang="de" status="translated">Aus ausgewählten Städten entfernt</value>
     <value lang="rs" status="translated">Uklonjen iz liste izabranih gradova</value>
     <value lang="ro" status="translated">Eliminat din orașele selectate.</value>
+    <value lang="sq" status="translated">U hoq nga qytetet e zgjedhura.</value>
   </text>
   <text key="missing_location_permission_error">
     <context>Message for missing location permission after starting app</context>
@@ -368,6 +422,7 @@
     <value lang="de" status="translated">Fehlende Standortgenehmigung erforderlich, um Städte nach Entfernung zu sortieren. Bitte in den Anwendungseinstellungen zulassen.</value>
     <value lang="rs" status="translated">Nedovoljno privilegija za sortiranje liste gradova po udaljenosti. Promeni podešavanja.</value>
     <value lang="ro" status="translated">Lipsește permisiunea de localizare necesară pentru a sorta orașele după distanță. Vă rugăm să permiteți folosind setările aplicației.</value>
+    <value lang="sq" status="translated">Mungon leja për vendndodhjen që është e nevojshme për renditjen e qyteteve sipas distancës. Ju lutemi lejojeni në cilësimet e aplikacionit.</value>
   </text>
   <text key="location_services_disabled_error">
     <context>Message for disabled location services after starting app</context>
@@ -376,6 +431,7 @@
     <value lang="de" status="translated">Standortdienste deaktiviert, aktueller Standort kann nicht erfasst werden. Bitte erlauben Sie in Ortungsdiensten in den Telefoneinstellungen.</value>
     <value lang="rs" status="translated">Nemoguće je odrediti tačnu lokaciju. Promeni podešavanja.</value>
     <value lang="ro" status="translated">Serviciile de localizare sunt dezactivate, nu pot accesa locația curentă. Vă rugăm să permiteți serviciile de localizare în setările telefonului.</value>
+    <value lang="sq" status="translated">Shërbimet e vendndodhjes janë të ç'aktivizuara, nuk mund të marrin vendndodhjen aktuale. Aktivizoni vendndodhjen në cilësimet e telefonit.</value>
   </text>
   <text key="change_language_message_android">
     <context>Change language message</context>
@@ -384,6 +440,7 @@
     <value lang="de" status="translated">Durch das Anwenden dieser Einstellung wird die Sprache der App geändert und die App aktualisiert. Möchten Sie die Sprache wirklich ändern?</value>
     <value lang="rs" status="translated">Primena ovih podešavanja će dovesti do promene jezika aplikacije i restartovanje iste. Da li ste sigurni?</value>
     <value lang="ro" status="translated">Aplicarea acestei setări va schimba limba aplicației și va actualiza aplicația. Sunteți sigur că doriți să schimbați limba?</value>
+    <value lang="sq" status="translated">Ndërrimi i kësaj cilësie do të ndryshoj gjuhën dhe do të rifreskoj aplikacionin. A jeni të sigurt që dëshironi të ndryshoni gjuhën?</value>
   </text>
   <text key="tooltip_maximum_sensors_reached">
     <context>Bottom sheet adding sensors message</context>
@@ -392,6 +449,7 @@
     <value lang="de" status="translated">Sie können bis zu 5 Sensoren hinzufügen</value>
     <value lang="rs" status="translated">Možeš dodati najviše 5 senzora.</value>
     <value lang="ro" status="translated">Puteți adăuga până la 5 senzori</value>
+    <value lang="sq" status="translated">Mund të shtoni më së shumti 5 sensorë</value>
   </text>
   <text key="confirmation">
     <context></context>
@@ -400,6 +458,7 @@
     <value lang="de" status="translated">Bestätigung</value>
     <value lang="rs" status="translated">Potvrda</value>
     <value lang="ro" status="translated">Confirmare</value>
+    <value lang="sq" status="translated">Konfirmo</value>
   </text>
   <text key="yes">
     <context></context>
@@ -408,6 +467,7 @@
     <value lang="de" status="translated">Ja</value>
     <value lang="rs" status="translated">Da</value>
     <value lang="ro" status="translated">Da</value>
+    <value lang="sq" status="translated">Po</value>
   </text>
   <text key="no">
     <context></context>
@@ -416,6 +476,7 @@
     <value lang="de" status="translated">Nein</value>
     <value lang="rs" status="translated">Ne</value>
     <value lang="ro" status="translated">Nu</value>
+    <value lang="sq" status="translated">Jo</value>
   </text>
   <text key="past_week_for_whole_city">
     <context>Bottom sheet average data for city</context>
@@ -424,6 +485,7 @@
     <value lang="de" status="translated">Durchschnittliche Daten der letzten Woche für %s (%s)</value>
     <value lang="rs" status="translated">Prosečne vrednosti za prošlu nedelju za %s (%s)</value>
     <value lang="ro" status="translated">Datele medii de săptămâna trecută pentru %s (%s)</value>
+    <value lang="sq" status="translated">Të dhënat mesatare për javën e kaluar për %s (%s)</value>
   </text>
   <text key="past_week_for_specific_sensor">
     <context>Bottom sheet average data for specific sensor</context>
@@ -432,6 +494,7 @@
     <value lang="de" status="translated">Durchschnittliche Daten der letzten Woche (%s)</value>
     <value lang="rs" status="translated">Prosečne vrednosti za prošlu nedelju (%s)</value>
     <value lang="ro" status="translated">Datele medii de săptămâna trecută (%s)</value>
+    <value lang="sq" status="translated">Të dhënat mesatare për javën e kaluar (%s)</value>
   </text>
   <text key="map_type_title">
     <context>3 types of map on Android</context>
@@ -440,6 +503,7 @@
     <value lang="de" status="translated">KARTENTYP</value>
     <value lang="rs" status="translated">TIP KARTE</value>
     <value lang="ro" status="translated">TIP HARTĂ</value>
+    <value lang="sq" status="translated">TIPI I HARTËS</value>
   </text>
   <text key="map_type_default">
     <context>Map type default</context>
@@ -448,6 +512,7 @@
     <value lang="de" status="translated">Standard</value>
     <value lang="rs" status="translated">Standardno</value>
     <value lang="ro" status="translated">Implicit</value>
+    <value lang="sq" status="translated">Standarde</value>
   </text>
   <text key="map_type_satellite">
     <context>Map type satellite</context>
@@ -456,6 +521,7 @@
     <value lang="de" status="translated">Satellit</value>
     <value lang="rs" status="translated">Satelitski</value>
     <value lang="ro" status="translated">Satelit</value>
+    <value lang="sq" status="translated">Satelitore</value>
   </text>
   <text key="map_type_terrain">
     <context>Map type terrain</context>
@@ -464,6 +530,7 @@
     <value lang="de" status="translated">Terrain</value>
     <value lang="rs" status="translated">Teren</value>
     <value lang="ro" status="translated">Teren</value>
+    <value lang="sq" status="translated">Terreni</value>
   </text>
   <text key="data_visualization_title">
     <context>Data visualization</context>
@@ -472,6 +539,7 @@
     <value lang="de" status="translated">DATENVISUALISIERUNG</value>
     <value lang="rs" status="translated">VIZUALIZACIJA</value>
     <value lang="ro" status="translated">VIZUALIZAREA DATELOR</value>
+    <value lang="sq" status="translated">VIZUALIZIMI I TË DHËNAVE</value>
   </text>
   <text key="data_visualization_sensor_marker">
     <context>Data visualization sensor marker</context>
@@ -480,6 +548,7 @@
     <value lang="de" status="translated">Sensormarkierungen</value>
     <value lang="rs" status="translated">Senzori</value>
     <value lang="ro" status="translated">Senzori</value>
+    <value lang="sq" status="translated">Sensorët</value>
   </text>
   <text key="data_visualization_geographic">
     <context>Data visualization geographic</context>
@@ -488,6 +557,7 @@
     <value lang="de" status="translated">Geografisch</value>
     <value lang="rs" status="translated">Geografski</value>
     <value lang="ro" status="translated">Geografic</value>
+    <value lang="sq" status="translated">Gjeografike</value>
   </text>
   <text key="sensor_select_dialog_warning_when_more_selected">
     <context>Bottom sheet sensor select dialog warning when there are more than 5 sensors selected</context>
@@ -496,6 +566,7 @@
     <value lang="de" status="translated">Maximal 5 Lieblingssensoren</value>
     <value lang="rs" status="translated">Najviše 5 senzora</value>
     <value lang="ro" status="translated">Maxim 5 senzori preferați</value>
+    <value lang="sq" status="translated">Më së shumti 5 sensorë të preferuar</value>
   </text>
   <text key="not_available">
     <context>Bottom sheet not available data for selected sensors</context>
@@ -504,6 +575,7 @@
     <value lang="de" status="translated">N/A</value>
     <value lang="rs" status="translated">N/A</value>
     <value lang="ro" status="translated">N/A</value>
+    <value lang="sq" status="translated">N/A</value>
   </text>
   <text key="default_no_sensors_selected">
     <context>Bottom sheet message when there are no sensors selected</context>
@@ -512,6 +584,7 @@
     <value lang="de" status="translated">Keine ausgewählten Sensoren</value>
     <value lang="rs" status="translated">Nema izabranih senzora</value>
     <value lang="ro" status="translated">Nu există senzori selectați</value>
+    <value lang="sq" status="translated">Nuk ka sensorë të zgjedhur</value>
   </text>
   <text key="history">
     <context></context>
@@ -520,6 +593,7 @@
     <value lang="de" status="translated">Geschichte</value>
     <value lang="rs" status="translated">Istorija</value>
     <value lang="ro" status="translated">Istoric</value>
+    <value lang="sq" status="translated">Historia</value>
   </text>
   <text key="currently_selected">
     <context></context>
@@ -528,6 +602,7 @@
     <value lang="de" status="translated">Momentan ausgewählt</value>
     <value lang="rs" status="translated">Trenutno izabrani</value>
     <value lang="ro" status="translated">În prezent selectat</value>
+    <value lang="sq" status="translated">Zgjedhjet aktuale</value>
   </text>
   <text key="app_name">
     <context></context>
@@ -536,6 +611,7 @@
     <value lang="de" status="translated">pulse.eco</value>
     <value lang="rs" status="translated">pulse.eco</value>
     <value lang="ro" status="translated">pulse.eco</value>
+    <value lang="sq" status="translated">pulse.eco</value>
   </text>
   <text key="explore">
     <context></context>
@@ -544,6 +620,7 @@
     <value lang="de" status="translated">Entdecken</value>
     <value lang="rs" status="translated">Istraži</value>
     <value lang="ro" status="translated">Explora</value>
+    <value lang="sq" status="translated">Eksploro</value>
   </text>
   <text key="today">
     <context></context>
@@ -552,6 +629,7 @@
     <value lang="de" status="translated">Heute</value>
     <value lang="rs" status="translated">Danas</value>
     <value lang="ro" status="translated">Azi</value>
+    <value lang="sq" status="translated">Sot</value>
   </text>
   <text key="january">
     <context>Calendar circled month January</context>
@@ -560,6 +638,7 @@
     <value lang="de" status="translated">Januar</value>
     <value lang="rs" status="translated">Januar</value>
     <value lang="ro" status="translated">Ianuarie</value>
+    <value lang="sq" status="translated">Janar</value>
   </text>
   <text key="february">
     <context>Calendar circled month February</context>
@@ -568,6 +647,7 @@
     <value lang="de" status="translated">Februar</value>
     <value lang="rs" status="translated">Februar</value>
     <value lang="ro" status="translated">Februarie</value>
+    <value lang="sq" status="translated">Shkurt</value>
   </text>
   <text key="march">
     <context>Calendar circled month March</context>
@@ -576,6 +656,7 @@
     <value lang="de" status="translated">März</value>
     <value lang="rs" status="translated">Mart</value>
     <value lang="ro" status="translated">Martie</value>
+    <value lang="sq" status="translated">Mars</value>
   </text>
   <text key="april">
     <context>Calendar circled month April</context>
@@ -584,6 +665,7 @@
     <value lang="de" status="translated">April</value>
     <value lang="rs" status="translated">April</value>
     <value lang="ro" status="translated">Aprilie</value>
+    <value lang="sq" status="translated">Prill</value>
   </text>
   <text key="may">
     <context>Calendar circled month May</context>
@@ -592,6 +674,7 @@
     <value lang="de" status="translated">Mai</value>
     <value lang="rs" status="translated">Maj</value>
     <value lang="ro" status="translated">Mai</value>
+    <value lang="sq" status="translated">Maj</value>
   </text>
   <text key="june">
     <context>Calendar circled month June</context>
@@ -600,6 +683,7 @@
     <value lang="de" status="translated">Juni</value>
     <value lang="rs" status="translated">Jun</value>
     <value lang="ro" status="translated">Iunie</value>
+    <value lang="sq" status="translated">Qershor</value>
   </text>
   <text key="july">
     <context>Calendar circled month July</context>
@@ -608,6 +692,7 @@
     <value lang="de" status="translated">Juli</value>
     <value lang="rs" status="translated">Jul</value>
     <value lang="ro" status="translated">Iiulie</value>
+    <value lang="sq" status="translated">Korrik</value>
   </text>
   <text key="august">
     <context>Calendar circled month August</context>
@@ -616,6 +701,7 @@
     <value lang="de" status="translated">August</value>
     <value lang="rs" status="translated">Avgust</value>
     <value lang="ro" status="translated">August</value>
+    <value lang="sq" status="translated">Gusht</value>
   </text>
   <text key="september">
     <context>Calendar circled month September</context>
@@ -624,6 +710,7 @@
     <value lang="de" status="translated">September</value>
     <value lang="rs" status="translated">Septembar</value>
     <value lang="ro" status="translated">Septembrie</value>
+    <value lang="sq" status="translated">Shtator</value>
   </text>
   <text key="october">
     <context>Calendar circled month October</context>
@@ -632,6 +719,7 @@
     <value lang="de" status="translated">Oktober</value>
     <value lang="rs" status="translated">Oktobar</value>
     <value lang="ro" status="translated">Octombrie</value>
+    <value lang="sq" status="translated">Tetor</value>
   </text>
   <text key="november">
     <context>Calendar circled month November</context>
@@ -640,6 +728,7 @@
     <value lang="de" status="translated">November</value>
     <value lang="rs" status="translated">Novembarr</value>
     <value lang="ro" status="translated">Noiembrie</value>
+    <value lang="sq" status="translated">Nëntor</value>
   </text>
   <text key="december">
     <context>Calendar circled month December</context>
@@ -648,5 +737,6 @@
     <value lang="de" status="translated">Dezember</value>
     <value lang="rs" status="translated">Decembar</value>
     <value lang="ro" status="translated">Decembrie</value>
+    <value lang="sq" status="translated">Dhjetor</value>
   </text>
 </trema>
