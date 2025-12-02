@@ -739,4 +739,31 @@
     <value lang="ro" status="translated">Decembrie</value>
     <value lang="sq" status="translated">Dhjetor</value>
   </text>
+  <text key="select_sensors_button">
+    <context>Button to select sensors</context>
+    <value lang="en" status="translated">Select sensors</value>
+    <value lang="mk" status="translated">Изберете сензори</value>
+    <value lang="de" status="translated">Sensoren auswählen</value>
+    <value lang="rs" status="translated">Izaberite senzore</value>
+    <value lang="ro" status="translated">Selectați senzorii</value>
+    <value lang="sq" status="translated">Zgjidhni sensorët</value>
+  </text>
+  <text key="select_up_to_5_sensors">
+    <context>Select up to 5 sensors text</context>
+    <value lang="en" status="translated">Select up to 5 sensors</value>
+    <value lang="mk" status="translated">Изберете до 5 сензори</value>
+    <value lang="de" status="translated">Wählen Sie bis zu 5 Sensoren aus</value>
+    <value lang="rs" status="translated">Izaberite do 5 senzora</value>
+    <value lang="ro" status="translated">Selectați până la 5 senzori</value>
+    <value lang="sq" status="translated">Zgjidhni deri në 5 sensorë</value>
+  </text>
+  <text key="graph_data_for_selected_sensors">
+    <context>Graph data for selected sensors sheet title</context>
+    <value lang="en" status="translated">Graph data for selected sensors</value>
+    <value lang="mk" status="translated">Графички податоци за избрани сензори</value>
+    <value lang="de" status="translated">Grafische Daten für ausgewählte Sensoren</value>
+    <value lang="rs" status="translated">Grafički podaci za odabrane senzore</value>
+    <value lang="ro" status="translated">Grafic de date pentru senzorii selectați</value>
+    <value lang="sq" status="translated">Të dhënat e grafikut për sensorët e zgjedhur</value>
+  </text>
 </trema>
